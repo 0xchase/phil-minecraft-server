@@ -21,3 +21,13 @@
 [11:41:33] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
 [11:41:33] [Server thread/INFO]: Preparing spawn area: 0%
 [11:41:33] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[11:41:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[11:41:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[11:41:35] [Server-Worker-3/INFO]: Preparing spawn area: 85%
+[11:41:35] [Server thread/INFO]: Time elapsed: 2451 ms
+[11:41:35] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[11:41:36] [Server-Worker-7/INFO]: Preparing spawn area: 88%
+[11:41:36] [Server thread/INFO]: Time elapsed: 581 ms
+[11:41:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:41:36] [Server thread/INFO]: Done (10.964s)! For help, type "help"
