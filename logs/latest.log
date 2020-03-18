@@ -31,3 +31,20 @@
 [11:41:36] [Server thread/INFO]: Time elapsed: 581 ms
 [11:41:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [11:41:36] [Server thread/INFO]: Done (10.964s)! For help, type "help"
+[11:43:08] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[11:43:09] [Server thread/INFO]: 1635321[/129.2.208.207:37656] logged in with entity id 199 at ([world]-9.412905865443378, 76.0, 139.7887574073479)
+[11:43:13] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[11:43:13] [Server thread/INFO]: 1635321 left the game
+[11:43:19] [Server thread/INFO]: Stopping the server
+[11:43:19] [Server thread/INFO]: Stopping server
+[11:43:19] [Server thread/INFO]: Saving players
+[11:43:20] [Server thread/INFO]: Saving worlds
+[11:43:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:43:20] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:43:20] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:43:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

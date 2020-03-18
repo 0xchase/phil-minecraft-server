@@ -1,14 +1,37 @@
-# Minecraft Server
+# Server
 
-Repository and backup for the philosophy club minecraft server
+Repository and backup for the club server
 
-## Todo Admin
- - Arena
- - 
+---
 
-## Todo game
- - Build house
- - Other
+## Todo Admin:
+ - Setup gamerules
+ - Setup plugins (claim land, no building/deleting, can steal stuff)
+ - Setup spawn point, list rules
+
+## Todo Game:
+ - Loot village
+ - Get several stacks of wood
+ - Mine
+   - Stacks of iron, lapiz, gold
+   - Several diamonds
+   - Loot dungeons (saddles)
+   - Get level 30
+ - Get horse
+ - Claim house land
+ - Build house walls
+ - Make infinity bow
+ - Go on exploring adventure
+   - Get 30 enchanting XP on each travel, make maps in each direction
+   - On each return trip, enchant new thing
+ - House farms
+   - Automatic cow farm
+   - Automatic chicken farm
+   - Automatic pig farm
+ - House defenses
+   - Hidden passages with places to snipe from
+   - Can open floor near door with drop to death. Hoppers collect items
+   - 
 
 ---
 
