@@ -12,26 +12,38 @@ Repository and backup for the club server
 ## Todo Game:
  - Loot village
  - Get several stacks of wood
- - Mine
+ - Place to hide stuff
+ - Mine basic
+   - Some iron, coal, materials, etc
+ - Claim house land
+ - Flatten house land
+ - Build house walls
+ - Build plant farms
+ - Mine in depth
    - Stacks of iron, lapiz, gold
    - Several diamonds
    - Loot dungeons (saddles)
    - Get level 30
  - Get horse
- - Claim house land
- - Build house walls
+ - House animal farms
+   - Automatic cow farm
+   - Automatic chicken farm
+   - Automatic pig farm
  - Make infinity bow
  - Go on exploring adventure
    - Get 30 enchanting XP on each travel, make maps in each direction
    - On each return trip, enchant new thing
- - House farms
-   - Automatic cow farm
-   - Automatic chicken farm
-   - Automatic pig farm
  - House defenses
    - Hidden passages with places to snipe from
    - Can open floor near door with drop to death. Hoppers collect items
-   - 
+   - Tripwires near walls with lights notification
+ - Secure room
+   - Underground, walls of obsidian
+   - Tunnel entrance, button will dispense lava briefly
+   - Exterior is covered with lava. Source block on top is covered with obsidian platform, with more lava on top
+ - Nether portal
+ - Defeat the ender dragon
+ - Get to ender lands, get flying thing
 
 ---
 
