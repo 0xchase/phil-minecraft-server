@@ -58,3 +58,13 @@
 [15:19:00] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
 [15:19:05] [Server thread/INFO]: 1635321 tried to swim in lava
 [15:30:38] [Server thread/INFO]: 1635321 tried to swim in lava
+[15:52:24] [Server thread/INFO]: 1635321 issued server command: /difficulty hard
+[15:52:24] [Server thread/INFO]: [1635321: The difficulty has been set to Hard]
+[15:52:29] [Server thread/INFO]: 1635321 issued server command: /time set day
+[15:52:29] [Server thread/INFO]: [1635321: Set the time to 1000]
+[15:53:05] [Server thread/INFO]: 1635321 issued server command: /gamerule mobGriefing false
+[15:53:05] [Server thread/INFO]: [1635321: Gamerule mobGriefing is now set to: false]
+[16:02:34] [Server thread/INFO]: 1635321 issued server command: /time set day
+[16:02:34] [Server thread/INFO]: [1635321: Set the time to 1000]
+[16:12:12] [Server thread/INFO]: 1635321 issued server command: /time set day
+[16:12:12] [Server thread/INFO]: [1635321: Set the time to 1000]

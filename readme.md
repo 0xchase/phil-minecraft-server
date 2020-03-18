@@ -13,12 +13,6 @@ Repository and backup for the club server
  - Command blocks enabled, command block output false
 
 ## Todo Game:
- - Loot village
- - Get several stacks of wood
- - Place to hide stuff
- - Mine basic
-   - Some iron, coal, materials, etc
- - Claim house land
  - Flatten house land
  - Build house walls
  - Build plant farms
