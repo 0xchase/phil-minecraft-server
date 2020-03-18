@@ -43,3 +43,12 @@
 [14:02:04] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
 [14:08:23] [Server thread/INFO]: 1635321 has made the advancement [Diamonds!]
 [14:11:40] [Server thread/INFO]: 1635321 has made the advancement [Stone Age]
+[14:13:54] [Server thread/INFO]: 1635321 has made the advancement [Sweet Dreams]
+[14:14:29] [Server thread/INFO]: 1635321 has made the advancement [Getting an Upgrade]
+[14:15:13] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[14:15:13] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[14:17:45] [Server thread/INFO]: 1635321 tried to swim in lava
+[14:26:14] [Server thread/INFO]: 1635321 has made the advancement [Acquire Hardware]
+[14:27:42] [Server thread/INFO]: 1635321 issued server command: /difficulty peaceful
+[14:27:42] [Server thread/INFO]: [1635321: The difficulty has been set to Peaceful]
+[14:39:04] [Server thread/INFO]: 1635321 has made the advancement [Isn't It Iron Pick]
