@@ -8,6 +8,9 @@ Repository and backup for the club server
  - Setup gamerules
  - Setup plugins (claim land, no building/deleting, can steal stuff)
  - Setup spawn point, list rules
+ - Keep only certain items on death (weapons, armor)
+ - Keep levels when killed by PvP
+ - Command blocks enabled, command block output false
 
 ## Todo Game:
  - Loot village
