@@ -283,7 +283,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2020-03-18 16:15:56 -0400"
+      "cooked_porkchop": "2020-03-18 16:58:34 -0400",
+      "apple": "2020-03-18 16:15:56 -0400",
+      "cooked_chicken": "2020-03-18 16:43:42 -0400"
     },
     "done": false
   },
@@ -1309,6 +1311,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-03-18 15:40:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-03-18 16:45:45 -0400"
     },
     "done": true
   },

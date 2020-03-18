@@ -78,3 +78,51 @@
 [16:35:55] [Server thread/INFO]: [1635321: Set the weather to clear]
 [16:42:10] [Server thread/INFO]: 1635321 issued server command: /time set day
 [16:42:10] [Server thread/INFO]: [1635321: Set the time to 1000]
+[16:45:45] [Server thread/INFO]: 1635321 has made the advancement [A Seedy Place]
+[16:50:09] [Server thread/INFO]: 1635321 issued server command: /save-all
+[16:50:09] [Server thread/INFO]: [1635321: Saved the game]
+[16:50:39] [Server thread/INFO]: 1635321 issued server command: /difficulty hard
+[16:54:01] [Server thread/INFO]: 1635321 issued server command: /time set day
+[16:54:01] [Server thread/INFO]: [1635321: Set the time to 1000]
+[16:54:16] [Server thread/INFO]: 1635321 issued server command: /time set night
+[16:54:16] [Server thread/INFO]: [1635321: Set the time to 13000]
+[16:54:45] [Server thread/INFO]: 1635321 issued server command: /time set day
+[16:54:45] [Server thread/INFO]: [1635321: Set the time to 1000]
+[16:55:50] [User Authenticator #2/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[16:55:50] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:52866] logged in with entity id 17973 at ([world]-14.5, 72.0, 130.5)
+[16:56:00] [Netty Epoll Server IO #1/INFO]: <1635321> Hello[m
+[16:56:02] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> hi[m
+[16:56:07] [Netty Epoll Server IO #1/INFO]: <1635321> This is Chase[m
+[16:56:16] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> this is isaiah[m
+[16:56:23] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> from psych club[m
+[16:56:30] [Netty Epoll Server IO #1/INFO]: <1635321> Oh hey[m
+[16:56:38] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> nice spawn point[m
+[16:56:52] [Netty Epoll Server IO #1/INFO]: <1635321> Yeah I like this seed[m
+[16:56:57] [Netty Epoll Server IO #1/INFO]: <1635321> How'd you find this?[m
+[16:57:05] [Netty Epoll Server IO #1/INFO]: <1635321> You in the phil chat?[m
+[16:57:13] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> im in the phil club group me[m
+[16:57:17] [Netty Epoll Server IO #1/INFO]: <1635321> Ok cool[m
+[16:57:29] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> joined the discord[m
+[16:57:53] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> id like to show up to a meeting sometime, havent yet though[m
+[16:58:15] [Netty Epoll Server IO #1/INFO]: <1635321> Yeah and we won't be having any meetings this semester probably[m
+[16:58:22] [Netty Epoll Server IO #1/INFO]: <1635321> Though you can come next year[m
+[16:58:28] [Netty Epoll Server IO #1/INFO]: <1635321> I'll be president next year[m
+[16:58:37] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> at least not in person[m
+[16:58:42] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> nice[m
+[16:58:46] [Netty Epoll Server IO #1/INFO]: <1635321> True we're doing a discord meeting tonight[m
+[16:59:03] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> i might hop in for a bit, whats the topic?[m
+[16:59:25] [Netty Epoll Server IO #1/INFO]: <1635321> Actually idk we normally do a vote but we didn't this week[m
+[16:59:32] [Netty Epoll Server IO #1/INFO]: <1635321> So idk what Ben has planned[m
+[17:00:05] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> are you guys doing a faction thing in this world?[m
+[17:00:41] [Netty Epoll Server IO #1/INFO]: <1635321> We were hoping to do unofficial factions[m
+[17:00:46] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> nice[m
+[17:00:55] [Netty Epoll Server IO #1/INFO]: <1635321> There was a vegan faction before lol[m
+[17:01:05] [Netty Epoll Server IO #1/INFO]: <1635321> I haven't thought of a good one yet[m
+[17:01:11] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> lol saw some talk of that in discord[m
+[17:01:33] [Netty Epoll Server IO #1/INFO]: <1635321> Yeah Matt was collecting all the cows and whatnot to protect them from harm[m
+[17:01:40] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> lol[m
+[17:01:50] [Netty Epoll Server IO #1/INFO]: <1635321> And there was an official vegan commune creed[m
+[17:02:33] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> nice[m
+[17:05:52] [Server thread/INFO]: SlorseOverlord has made the advancement [Monster Hunter]
+[17:05:57] [Server thread/INFO]: SlorseOverlord has made the advancement [Sweet Dreams]
+[17:06:17] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
