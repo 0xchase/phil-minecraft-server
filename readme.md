@@ -44,6 +44,7 @@ Repository and backup for the club server
    - Underground, walls of obsidian
    - Tunnel entrance, button will dispense lava briefly
    - Exterior is covered with lava. Source block on top is covered with obsidian platform, with more lava on top
+ - Trapped chest in chest room, makes floor open up
  - Nether portal
  - Defeat the ender dragon
  - Get to ender lands, get flying thing

@@ -52,3 +52,9 @@
 [14:27:42] [Server thread/INFO]: 1635321 issued server command: /difficulty peaceful
 [14:27:42] [Server thread/INFO]: [1635321: The difficulty has been set to Peaceful]
 [14:39:04] [Server thread/INFO]: 1635321 has made the advancement [Isn't It Iron Pick]
+[15:18:56] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[15:18:56] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[15:19:00] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[15:19:00] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[15:19:05] [Server thread/INFO]: 1635321 tried to swim in lava
+[15:30:38] [Server thread/INFO]: 1635321 tried to swim in lava
