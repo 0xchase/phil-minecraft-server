@@ -2,10 +2,15 @@
 
 Repository and backup for the philosophy club minecraft server
 
-
-## Todo
+## Todo Admin
  - Arena
  - 
+
+## Todo game
+ - Build house
+ - Other
+
+---
 
 ## Useful commands
 ```
