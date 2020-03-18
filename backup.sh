@@ -1,5 +1,10 @@
 ssh -T git@github.com
 
-git add .
-git commit -m "Backup $(date)"
-git push
+while true; do
+	git add .;
+	git commit -m "Backup $(date)";
+	git push;
+	echo "";
+	sleep 10;
+done
+
