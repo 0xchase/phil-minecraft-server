@@ -10,19 +10,19 @@ GriefPrevention:
       world_nether: Disabled
       world: Survival
     PreventGlobalMonsterEggs: true
-    PreventTheft: true
+    PreventTheft: false
     ProtectCreatures: true
-    PreventButtonsSwitches: true
+    PreventButtonsSwitches: false
     LockWoodenDoors: false
     LockTrapDoors: false
-    LockFenceGates: true
+    LockFenceGates: false
     EnderPearlsRequireAccessTrust: true
     ProtectHorses: true
     ProtectDonkeys: true
     ProtectLlamas: true
-    InitialBlocks: 100
+    InitialBlocks: 2000
     Claim Blocks Accrued Per Hour:
-      Default: 100
+      Default: 0
     Max Accrued Claim Blocks:
       Default: 2000
     Accrued Idle Threshold: 0
@@ -63,7 +63,7 @@ GriefPrevention:
     WhisperSlashCommands: /tell;/pm;/r;/whisper;/msg
     WarningMessage: Please reduce your noise level.  Spammers will be banned.
     BanOffenders: true
-    BanMessage: Banned for spam.
+    BanMessage: Automatically banned for spam.
     AllowedIpAddresses: 1.2.3.4; 5.6.7.8
     DeathMessageCooldownSeconds: 120
     Logout Message Delay In Seconds: 0
@@ -105,8 +105,8 @@ GriefPrevention:
   FireDestroys: false
   AdminsGetWhispers: true
   AdminsGetSignNotifications: true
-  SmartBan: true
-  Mute New Players Using Banned Words: true
+  SmartBan: false
+  Mute New Players Using Banned Words: false
   MaxPlayersPerIpAddress: 3
   Siege:
     Worlds: []
