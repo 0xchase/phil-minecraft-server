@@ -8,6 +8,12 @@ while true; do
 	git commit -m "Backup $(date)";
 	git push;
 	echo "";
-	sleep 1800;
+
+	for i in {1..10}
+	do
+		echo -n .;
+		sleep 180;
+	done;
+	echo ""
 done
 

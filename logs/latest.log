@@ -1,33 +1,35 @@
-[11:01:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:01:48] [Server thread/INFO]: Loading properties
-[11:01:48] [Server thread/INFO]: Default game type: SURVIVAL
-[11:01:48] [Server thread/INFO]: Generating keypair
-[11:01:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:01:48] [Server thread/INFO]: Using epoll channel type
-[11:01:49] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[11:01:49] [Server thread/INFO]: Preparing level "world"
-[11:01:49] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[11:01:53] [Server thread/INFO]: Loaded 6 recipes
-[11:01:53] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
-[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
-[11:01:55] [Server-Worker-7/INFO]: Preparing spawn area: 83%
-[11:01:55] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[11:01:55] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[11:01:56] [Server-Worker-2/INFO]: Preparing spawn area: 95%
-[11:01:56] [Server-Worker-7/INFO]: Preparing spawn area: 95%
-[11:01:57] [Server-Worker-1/INFO]: Preparing spawn area: 99%
-[11:01:57] [Server thread/INFO]: Time elapsed: 3529 ms
-[11:01:57] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[11:01:57] [Server thread/INFO]: Preparing spawn area: 0%
-[11:01:57] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[11:01:58] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[11:01:58] [Server-Worker-7/INFO]: Preparing spawn area: 88%
-[11:01:58] [Server thread/INFO]: Time elapsed: 1824 ms
-[11:01:58] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[11:01:59] [Server thread/INFO]: Preparing spawn area: 0%
-[11:01:59] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[11:01:59] [Server thread/INFO]: Time elapsed: 691 ms
-[11:01:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:01:59] [Server thread/INFO]: Done (10.108s)! For help, type "help"
-[11:06:36] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[11:16:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[11:16:01] [Server thread/INFO]: Loading properties
+[11:16:01] [Server thread/INFO]: Default game type: SURVIVAL
+[11:16:01] [Server thread/INFO]: Generating keypair
+[11:16:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:16:02] [Server thread/INFO]: Using epoll channel type
+[11:16:02] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[11:16:02] [Server thread/INFO]: Preparing level "world"
+[11:16:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:16:06] [Server thread/INFO]: Loaded 6 recipes
+[11:16:06] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[11:16:07] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:07] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:08] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[11:16:08] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[11:16:08] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[11:16:08] [Server-Worker-4/INFO]: Preparing spawn area: 95%
+[11:16:09] [Server thread/INFO]: Preparing spawn area: 96%
+[11:16:09] [Server thread/INFO]: Time elapsed: 3385 ms
+[11:16:09] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[11:16:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:10] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[11:16:10] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[11:16:11] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[11:16:11] [Server thread/INFO]: Time elapsed: 1906 ms
+[11:16:11] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:16:11] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:12] [Server-Worker-6/INFO]: Preparing spawn area: 85%
+[11:16:12] [Server thread/INFO]: Time elapsed: 623 ms
+[11:16:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:16:12] [Server thread/INFO]: Done (9.787s)! For help, type "help"
+[11:16:14] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[11:16:15] [Server thread/INFO]: 1635321[/129.2.208.207:43108] logged in with entity id 198 at ([world]-9.412905865443378, 76.0, 139.7887574073479)
+[11:16:25] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[11:16:25] [Server thread/INFO]: 1635321 left the game
