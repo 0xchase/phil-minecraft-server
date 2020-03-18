@@ -2,6 +2,7 @@
 
 Repository and backup for the philosophy club minecraft server
 
+
 ## Todo
  - Arena
  - 
