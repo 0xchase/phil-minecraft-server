@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-03-19 00:02:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-18 23:24:09 -0400"
@@ -418,6 +424,7 @@
       "baked_potato": "2020-03-18 22:50:47 -0400",
       "apple": "2020-03-18 19:01:20 -0400",
       "potato": "2020-03-18 22:09:26 -0400",
+      "bread": "2020-03-18 23:56:24 -0400",
       "rotten_flesh": "2020-03-18 18:13:13 -0400",
       "beetroot": "2020-03-18 17:34:13 -0400",
       "cooked_salmon": "2020-03-18 18:35:29 -0400",
@@ -991,7 +998,8 @@
       "minecraft:skeleton": "2020-03-18 18:24:43 -0400",
       "minecraft:spider": "2020-03-18 17:49:57 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
-      "minecraft:zombie": "2020-03-18 18:12:48 -0400"
+      "minecraft:zombie": "2020-03-18 18:12:48 -0400",
+      "minecraft:zombie_villager": "2020-03-18 23:49:44 -0400"
     },
     "done": false
   },
@@ -2081,6 +2089,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-03-18 18:18:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-03-19 00:02:55 -0400"
     },
     "done": true
   },

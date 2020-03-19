@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2020-03-18 23:51:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-03-18 22:42:22 -0400"
@@ -224,6 +230,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-18 23:44:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-18 23:51:23 -0400"
     },
     "done": true
   },
@@ -654,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-18 23:54:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-03-18 22:35:34 -0400",
@@ -661,6 +679,7 @@
       "minecraft:dark_forest": "2020-03-18 22:36:13 -0400",
       "minecraft:river": "2020-03-18 22:36:36 -0400",
       "minecraft:wooded_mountains": "2020-03-18 22:59:45 -0400",
+      "minecraft:wooded_hills": "2020-03-18 23:57:54 -0400",
       "minecraft:plains": "2020-03-18 22:36:27 -0400"
     },
     "done": false
@@ -958,6 +977,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-03-18 23:20:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-03-18 23:51:23 -0400"
     },
     "done": true
   },
