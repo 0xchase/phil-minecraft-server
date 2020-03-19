@@ -164,3 +164,8 @@
 [21:01:18] [Server thread/INFO]: SlorseOverlord left the game
 [21:01:29] [User Authenticator #8/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
 [21:01:29] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:53691] logged in with entity id 58529 at ([world]145.29999997466803, 98.0000002, 480.299999974668)
+[21:37:28] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[21:37:28] [Server thread/INFO]: SlorseOverlord left the game
+[21:41:40] [User Authenticator #9/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[21:41:40] [Server thread/INFO]: thatnerdjack[/129.2.208.60:58721] logged in with entity id 63247 at ([world]518.1080931733399, 70.0, 278.59458902118234)
+[21:44:58] [Server thread/INFO]: thatnerdjack has made the advancement [Suit Up]
