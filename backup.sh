@@ -10,7 +10,7 @@ while true; do
 	git push;
 	echo "";
 
-	for i in {1..10}
+	for i in {1..40}
 	do
 		echo -n .;
 		sleep 180;
