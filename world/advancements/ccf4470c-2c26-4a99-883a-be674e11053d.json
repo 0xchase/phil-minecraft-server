@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-19 04:27:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-03-18 22:42:22 -0400"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-19 04:31:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-03-18 23:18:27 -0400"
@@ -289,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2020-03-19 04:28:13 -0400",
       "baked_potato": "2020-03-18 23:04:53 -0400",
       "mushroom_stew": "2020-03-19 03:26:09 -0400",
       "carrot": "2020-03-18 22:53:46 -0400"
@@ -689,6 +702,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-18 23:06:06 -0400",
       "minecraft:spider": "2020-03-18 23:28:00 -0400",
+      "minecraft:creeper": "2020-03-19 04:24:20 -0400",
       "minecraft:zombie": "2020-03-18 22:51:50 -0400",
       "minecraft:zombie_villager": "2020-03-19 04:19:43 -0400"
     },
@@ -838,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-03-19 04:29:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-03-18 22:42:22 -0400"
@@ -859,6 +879,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-03-19 04:16:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-03-19 04:29:01 -0400"
     },
     "done": true
   },
@@ -1120,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-03-19 04:29:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-03-18 22:42:22 -0400"
@@ -1329,6 +1361,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-03-18 22:39:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-03-19 04:27:36 -0400"
     },
     "done": true
   },
