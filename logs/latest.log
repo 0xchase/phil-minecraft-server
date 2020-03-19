@@ -179,3 +179,217 @@
 [16:12:36] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z312
 [16:16:12] [Server thread/INFO]: Saving the game (this may take a moment!)
 [16:16:12] [Server thread/INFO]: Saved the game
+[16:37:23] [User Authenticator #29/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[16:37:23] [Server thread/INFO]: benkoontz000[/73.133.132.224:54271] logged in with entity id 212848 at ([world]176.30000001192093, 57.0, 107.8935113802196)
+[16:37:28] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> howdy[m
+[16:37:43] [Server thread/WARN]: roelanford moved too quickly! 1.7161652017997895,-1.0,10.235617128841469
+[16:38:07] [Server thread/INFO]: benkoontz000 has made the advancement [Getting an Upgrade]
+[16:38:13] [Netty Epoll Server IO #15/INFO]: <1635321> No one in discord :/[m
+[16:38:30] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> if i can get my mic to work i'll join :)[m
+[16:38:53] [Netty Epoll Server IO #2/INFO]: <benkoontz000> lots of latency for me today :([m
+[16:39:18] [Netty Epoll Server IO #2/INFO]: <benkoontz000> plugins been slowing shit down?[m
+[16:39:27] [Netty Epoll Server IO #15/INFO]: <1635321> Doubt it[m
+[16:39:53] [Netty Epoll Server IO #15/INFO]: <1635321> Are other people having latency issues or is it just Ben?[m
+[16:40:07] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i've been playing for a while and i haven't noticed anything[m
+[16:40:19] [Netty Epoll Server IO #10/INFO]: <roelanford> yeah but i think it's my internet[m
+[16:40:20] [Netty Epoll Server IO #2/INFO]: <benkoontz000> delays with block breaking?[m
+[16:40:23] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[16:40:23] [Server thread/INFO]: benkoontz000 left the game
+[16:40:26] [User Authenticator #30/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[16:40:26] [Server thread/INFO]: benkoontz000[/73.133.132.224:54290] logged in with entity id 214268 at ([world]182.78985791137137, 47.0, 107.30000001192093)
+[16:41:11] [Server thread/INFO]: benkoontz000 has made the advancement [Acquire Hardware]
+[16:41:24] [Server thread/INFO]: benkoontz000 has made the advancement [Suit Up]
+[16:41:24] [Server thread/INFO]: benkoontz000 has made the advancement [Isn't It Iron Pick]
+[16:43:48] [Server thread/INFO]: 1635321 issued server command: /difficulty hard
+[16:43:48] [Server thread/INFO]: [1635321: The difficulty has been set to Hard]
+[16:47:28] [Server thread/WARN]: roelanford moved too quickly! -8.657470038310336,-1.0244240882136815,-10.661440012468747
+[16:47:41] [Server thread/INFO]: roelanford has made the advancement [Ice Bucket Challenge]
+[16:49:44] [User Authenticator #31/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[16:49:45] [Server thread/INFO]: matster1998[/10.105.186.239:57055] logged in with entity id 218650 at ([world]217.25899416612148, 31.0, 197.09583967133466)
+[16:51:47] [Server thread/INFO]: 1635321 issued server command: /scoreboard objectives add Deaths deathCount
+[16:51:47] [Server thread/INFO]: [1635321: Created new objective [Deaths]]
+[16:52:00] [Server thread/INFO]: 1635321 issued server command: /scoreboard objectives setdisplay list Deaths
+[16:52:00] [Server thread/INFO]: [1635321: Set display slot list to show objective Deaths]
+[16:52:29] [Server thread/INFO]: roelanford lost connection: Disconnected
+[16:52:29] [Server thread/INFO]: roelanford left the game
+[16:52:38] [User Authenticator #32/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[16:52:38] [Server thread/INFO]: roelanford[/216.164.58.29:50370] logged in with entity id 220154 at ([world]-93.48628803319554, 10.0, 10.593703727268743)
+[16:55:17] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i made an xp farm if anyone's trying to enchant stuff[m
+[16:55:42] [Server thread/INFO]: benkoontz000 has made the advancement [Monster Hunter]
+[16:56:57] [Server thread/INFO]: matster1998 drowned
+[16:57:39] [Server thread/WARN]: roelanford moved too quickly! 7.176961113856862,7.164773281826065,0.2830729323276415
+[16:59:09] [Server thread/INFO]: thatnerdjack was blown up by Creeper
+[16:59:35] [Server thread/WARN]: roelanford moved too quickly! -6.011962383543164,-6.231523797587016,-9.905266115856719
+[17:06:00] [User Authenticator #33/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[17:06:01] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:55933] logged in with entity id 226483 at ([world]153.0298716897445, 98.0, 477.17315472511723)
+[17:08:40] [Server thread/WARN]: roelanford moved wrongly!
+[17:11:53] [Netty Epoll Server IO #4/INFO]: <benkoontz000> food[m
+[17:11:56] [Netty Epoll Server IO #4/INFO]: <benkoontz000> help[m
+[17:12:06] [Netty Epoll Server IO #15/INFO]: <1635321> If you come to me I'll give you food[m
+[17:12:09] [Netty Epoll Server IO #4/INFO]: <benkoontz000> diamond chestpalte[m
+[17:12:11] [Netty Epoll Server IO #4/INFO]: <benkoontz000> feed me[m
+[17:12:25] [Netty Epoll Server IO #4/INFO]: <benkoontz000> vegan food[m
+[17:12:26] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> its still keep inv right?[m
+[17:12:26] [Netty Epoll Server IO #4/INFO]: <benkoontz000> plz[m
+[17:13:04] [Netty Epoll Server IO #6/INFO]: <matster1998> ben[m
+[17:13:05] [Netty Epoll Server IO #15/INFO]: <1635321> Ben join the voice chat[m
+[17:13:06] [Netty Epoll Server IO #6/INFO]: <matster1998> are u coming[m
+[17:13:10] [Netty Epoll Server IO #15/INFO]: <1635321> We are starting[m
+[17:13:12] [Netty Epoll Server IO #4/INFO]: <benkoontz000> talking to mommy[m
+[17:13:27] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> im going to join soon, listening to the video[m
+[17:15:09] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> sticky keys oof[m
+[17:15:54] [Server thread/WARN]: roelanford moved too quickly! -8.891501457668255,3.024424088213692,4.75020056724393
+[17:15:56] [Server thread/INFO]: thatnerdjack was slain by Spider
+[17:17:31] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> matster can i grab some bamboo?[m
+[17:18:24] [Server thread/INFO]: Villager EntityVillager['Farmer'/1, l='world', x=-2.16, y=64.00, z=187.50] died, message: 'Farmer was slain by Zombie'
+[17:18:25] [Server thread/INFO]: SlorseOverlord was slain by Spider
+[17:18:31] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[17:18:31] [Server thread/INFO]: benkoontz000 left the game
+[17:18:52] [User Authenticator #34/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[17:18:52] [Server thread/INFO]: benkoontz000[/73.133.132.224:54439] logged in with entity id 235718 at ([world]-139.15855250899534, 68.0, -309.86094679352465)
+[17:19:36] [Server thread/INFO]: roelanford was blown up by Creeper
+[17:21:12] [Server thread/INFO]: roelanford lost connection: Disconnected
+[17:21:12] [Server thread/INFO]: roelanford left the game
+[17:21:37] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[17:23:45] [User Authenticator #35/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[17:23:45] [Server thread/INFO]: roelanford[/216.164.58.29:49259] logged in with entity id 239930 at ([world]-157.8942749836713, 113.0, 72.96450903328382)
+[17:23:57] [Server thread/INFO]: thatnerdjack fell from a high place
+[17:25:06] [Server thread/INFO]: [GriefPrevention] roelanford placed suspicious WATER_BUCKET @ world: x-156, z68
+[17:37:24] [Server thread/WARN]: roelanford moved too quickly! -1.7446094518011535,-14.55414116287497,1.1522921211396948
+[17:39:31] [Netty Epoll Server IO #15/INFO]: <1635321> hi[m
+[17:40:30] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
+[17:40:37] [Netty Epoll Server IO #12/INFO]: <roelanford> hello[m
+[17:40:39] [Netty Epoll Server IO #15/INFO]: <1635321> hi[m
+[17:40:43] [Netty Epoll Server IO #12/INFO]: <roelanford> can i help you[m
+[17:41:38] [Server thread/INFO]: 1635321 was shot by Skeleton
+[17:42:13] [Server thread/INFO]: matster1998 was blown up by Creeper
+[17:51:23] [Server thread/INFO]: roelanford has made the advancement [We Need to Go Deeper]
+[17:51:27] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :O[m
+[17:51:31] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> :O[m
+[17:51:34] [Netty Epoll Server IO #15/INFO]: <1635321> That's an achievement[m
+[17:51:40] [Netty Epoll Server IO #12/INFO]: <roelanford> is it??[m
+[17:51:41] [Netty Epoll Server IO #11/INFO]: <benkoontz000> @chase[m
+[17:51:44] [Netty Epoll Server IO #11/INFO]: <benkoontz000> ;)[m
+[17:51:47] [Netty Epoll Server IO #12/INFO]: <roelanford> have we not made it yet?[m
+[17:51:51] [Netty Epoll Server IO #11/INFO]: <benkoontz000> ^^^[m
+[17:51:55] [Netty Epoll Server IO #11/INFO]: <benkoontz000> @chase?[m
+[17:51:59] [Netty Epoll Server IO #12/INFO]: <roelanford> ben don't make me smack you[m
+[17:52:00] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> we have[m
+[17:52:09] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> there are two portals that i know of[m
+[17:52:13] [Netty Epoll Server IO #15/INFO]: <1635321> Ben we had a whole conversation about comments like these[m
+[17:52:15] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> mine and slorse's?[m
+[17:52:22] [Netty Epoll Server IO #12/INFO]: <roelanford> lamooo[m
+[17:52:23] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> oop tea?[m
+[17:52:37] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> i dont have a port yet[m
+[17:52:38] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :tea:[m
+[17:52:45] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> oh oop[m
+[17:52:49] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> someone else does then[m
+[17:52:51] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> sorry pal\[m
+[17:52:58] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> chase does[m
+[17:54:54] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> hey[m
+[17:54:57] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> hello[m
+[17:55:00] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> would you like potatoes[m
+[17:55:10] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> sure thanks![m
+[17:55:19] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> wanna see some stuff lmao[m
+[17:55:23] [Server thread/INFO]: roelanford has completed the challenge [Return to Sender]
+[17:55:29] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :O[m
+[17:55:32] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> :O[m
+[17:55:34] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> i can get you carrots if you want, not that they're as useful[m
+[17:55:35] [Server thread/INFO]: roelanford fell from a high place
+[17:55:40] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i have some![m
+[17:55:42] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> sure[m
+[17:55:45] [Netty Epoll Server IO #12/INFO]: <roelanford> fuck i lost all my stuff[m
+[17:55:46] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> almost a stack i think[m
+[17:55:51] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> nice[m
+[17:55:53] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> yeah !![m
+[17:55:58] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> the nether fucked me over too[m
+[17:56:01] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> and oof for roland[m
+[17:56:22] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> ooh nice[m
+[17:56:25] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> yeee[m
+[17:56:35] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> it's where i got all the cobble for thi[m
+[17:57:05] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> second floor of mob farm[m
+[17:57:16] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> nice, is it automated at all?[m
+[17:57:18] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> ye[m
+[17:57:45] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> if you follow me[m
+[17:58:17] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> fall damage?[m
+[17:58:20] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> unfortunately this is in a different chunk[m
+[17:58:22] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> yeah[m
+[17:58:27] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> and water currents?[m
+[17:58:27] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> leaves them with half a heart[m
+[17:58:29] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> yep[m
+[17:58:30] [Server thread/WARN]: benkoontz000 moved too quickly! -9.887561401541006,-1.252203340253729,1.1888991308395873
+[17:58:31] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[17:58:31] [Server thread/INFO]: 1635321 left the game
+[17:58:32] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> nice[m
+[17:58:37] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> some old school mob farmin lol[m
+[17:58:53] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> ive got a setup like this in a different world[m
+[17:59:02] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> it's a reliable setup[m
+[17:59:06] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> and it's very cheap[m
+[17:59:15] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> sorry[m
+[17:59:15] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> not as large, built around a zombie spawner[m
+[17:59:20] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> didn't mean to smack you[m
+[17:59:20] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> its fine[m
+[17:59:38] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> but yeah that's it[m
+[17:59:51] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> its a nice setup[m
+[17:59:52] [Server thread/INFO]: roelanford tried to swim in lava
+[17:59:54] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> thnx[m
+[18:00:00] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> if you're looking for the nether portal[m
+[18:00:23] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> lookin for a good cave rn[m
+[18:01:00] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i don't know of any[m
+[18:01:07] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i've cleared most of these out[m
+[18:01:13] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> if anyone has bamboo[m
+[18:01:21] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i'll pay you in potatoes[m
+[18:01:30] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> matster has alot[m
+[18:01:38] [Netty Epoll Server IO #6/INFO]: <matster1998> we're having phil club atm[m
+[18:01:44] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> i have some back at my base[m
+[18:01:45] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> oh shit i totally forgot[m
+[18:01:57] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> welp[m
+[18:02:07] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> i have a ta meeting on zoom in 30 mins[m
+[18:02:28] [Server thread/INFO]: [GriefPrevention] benkoontz000 placed suspicious WATER_BUCKET @ world: x-1242, z213
+[18:02:46] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
+[18:04:35] [Server thread/INFO]: roelanford has made the advancement [Enchanter]
+[18:04:42] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :O[m
+[18:10:12] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z320
+[18:10:43] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z334
+[18:11:05] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z327
+[18:11:25] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z322
+[18:11:29] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z324
+[18:11:39] [Server thread/INFO]: roelanford fell from a high place
+[18:11:43] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z305
+[18:12:10] [Server thread/INFO]: roelanford lost connection: Disconnected
+[18:12:10] [Server thread/INFO]: roelanford left the game
+[18:12:23] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z320
+[18:12:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z315
+[18:12:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z313
+[18:13:34] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z305
+[18:13:44] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z305
+[18:13:48] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z305
+[18:13:52] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z305
+[18:14:01] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x610, z305
+[18:14:15] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z315
+[18:14:17] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z324
+[18:14:21] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z334
+[18:16:56] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z305
+[18:17:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z312
+[18:17:37] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z319
+[18:17:51] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z327
+[18:18:17] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z334
+[18:18:30] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z334
+[18:18:35] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z334
+[18:18:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z334
+[18:19:51] [Server thread/INFO]: SlorseOverlord was blown up by Creeper
+[18:20:02] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> keep inv is still on[m
+[18:20:06] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> yeah[m
+[18:20:13] [Netty Epoll Server IO #13/INFO]: <thatnerdjack> it just glitches in the nether for some reason[m
+[18:20:38] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x604, z334
+[18:21:04] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z312
+[18:21:20] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z315
+[18:21:26] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z324
+[18:21:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z319
+[18:21:42] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z327
+[18:22:11] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z327
+[18:25:29] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z319
+[18:25:49] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z326
+[18:26:03] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z313
+[18:26:18] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z324
+[18:26:21] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z315

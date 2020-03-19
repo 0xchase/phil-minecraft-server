@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2020-03-19 16:44:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
@@ -374,6 +380,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-03-18 17:24:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-19 16:53:02 -0400"
     },
     "done": true
   },
@@ -997,6 +1009,8 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-18 18:24:43 -0400",
       "minecraft:spider": "2020-03-18 17:49:57 -0400",
+      "minecraft:creeper": "2020-03-19 16:29:56 -0400",
+      "minecraft:witch": "2020-03-19 16:53:07 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
       "minecraft:zombie": "2020-03-18 18:12:48 -0400",
       "minecraft:zombie_villager": "2020-03-18 23:49:44 -0400"
@@ -1195,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-19 18:02:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-18 18:35:07 -0400"
@@ -1390,6 +1410,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-19 16:36:42 -0400"
     },
     "done": true
   },
@@ -1897,6 +1923,18 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-18 23:25:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-03-19 16:43:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-19 18:02:45 -0400"
     },
     "done": true
   },
