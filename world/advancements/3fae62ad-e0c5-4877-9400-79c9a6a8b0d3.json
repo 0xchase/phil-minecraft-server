@@ -669,6 +669,7 @@
       "minecraft:spider": "2020-03-18 19:33:24 -0400",
       "minecraft:creeper": "2020-03-18 19:23:19 -0400",
       "minecraft:silverfish": "2020-03-18 20:10:28 -0400",
+      "minecraft:enderman": "2020-03-19 00:35:21 -0400",
       "minecraft:zombie": "2020-03-18 17:05:52 -0400"
     },
     "done": false
@@ -934,6 +935,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-18 20:28:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2020-03-19 00:43:53 -0400"
     },
     "done": true
   },
@@ -1395,6 +1402,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-03-18 17:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2020-03-19 00:43:53 -0400"
     },
     "done": true
   },
