@@ -199,3 +199,59 @@
 [22:16:36] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :)[m
 [22:16:38] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
 [22:16:38] [Server thread/INFO]: benkoontz000 left the game
+[22:20:47] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[22:20:47] [Server thread/INFO]: matster1998 left the game
+[22:22:17] [User Authenticator #13/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[22:22:17] [Server thread/INFO]: matster1998[/10.105.186.239:57582] logged in with entity id 70397 at ([world]119.37126815800347, 80.0, 321.6229759852676)
+[22:26:23] [Server thread/INFO]: matster1998 has made the advancement [Not Today, Thank You]
+[22:29:08] [Server thread/INFO]: matster1998 has made the advancement [Hot Stuff]
+[22:31:12] [Server thread/INFO]: matster1998 has made the advancement [Diamonds!]
+[22:31:16] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ayy[m
+[22:31:21] [Netty Epoll Server IO #14/INFO]: <matster1998> :)[m
+[22:32:46] [Server thread/INFO]: Villager EntityVillager['Villager'/23, l='world', x=16.36, y=61.00, z=184.96] died, message: 'Villager was slain by Zombie'
+[22:34:50] [Netty Epoll Server IO #14/INFO]: <matster1998> 18 diamonds now[m
+[22:34:53] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how[m
+[22:34:55] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> even[m
+[22:34:58] [Netty Epoll Server IO #14/INFO]: <matster1998> in like 15 minutes lol[m
+[22:35:34] [User Authenticator #14/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[22:35:34] [Server thread/INFO]: LittyBoiz[/96.255.198.177:49502] logged in with entity id 74323 at ([world]-14.5, 69.0, 123.5)
+[22:35:36] [Netty Epoll Server IO #14/INFO]: <matster1998> 23 now[m
+[22:35:40] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how[m
+[22:35:42] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> also hi[m
+[22:35:52] [Netty Epoll Server IO #0/INFO]: [GriefPrevention] Muted pre-movement chat.
+[22:35:52] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> hey[m
+[22:35:56] [Netty Epoll Server IO #0/INFO]: [GriefPrevention] Muted repeat message.
+[22:35:56] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> hey[m
+[22:36:09] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> oh its the same map[m
+[22:36:13] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> yep[m
+[22:36:31] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> can i claim the same land again?[m
+[22:38:20] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> whatre u guys doing?[m
+[22:38:35] [Netty Epoll Server IO #14/INFO]: <matster1998> mining[m
+[22:38:38] [Netty Epoll Server IO #14/INFO]: <matster1998> now not[m
+[22:38:45] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> just trying to build a mildly better house lol[m
+[22:38:57] [Netty Epoll Server IO #14/INFO]: <matster1998> hi[m
+[22:39:14] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> someone looted all the chests[m
+[22:39:37] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> andkilled the cows[m
+[22:40:28] [Server thread/INFO]: LittyBoiz has made the advancement [A Seedy Place]
+[22:41:15] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> do we have fast tree cut?[m
+[22:41:20] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i don't think so[m
+[22:41:25] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> :([m
+[22:41:59] [Server thread/INFO]: matster1998 has made the advancement [Cover Me With Diamonds]
+[22:42:07] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> oooo[m
+[22:42:52] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> are u still part of the commune?[m
+[22:42:58] [Server thread/INFO]: LittyBoiz has made the advancement [Stone Age]
+[22:43:00] [Netty Epoll Server IO #14/INFO]: <matster1998> the commune hasn't been made yet[m
+[22:43:08] [Server thread/INFO]: LittyBoiz has made the advancement [Getting an Upgrade]
+[22:45:18] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> we have keep inv right?[m
+[22:45:21] [Server thread/INFO]: LittyBoiz has made the advancement [Sweet Dreams]
+[22:45:21] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ye[m
+[22:46:37] [Netty Epoll Server IO #14/INFO]: <matster1998> ooh 6 more[m
+[22:46:49] [User Authenticator #15/INFO]: UUID of player hammad22 is 487c185c-a0a3-4a24-9801-2f534dca24e5
+[22:46:49] [Server thread/INFO]: hammad22[/71.190.176.77:52661] logged in with entity id 78340 at ([world]-23.5, 65.0, 137.5)
+[22:47:21] [Server thread/INFO]: hammad22 has made the advancement [Sweet Dreams]
+[22:47:22] [User Authenticator #16/INFO]: UUID of player omar_swagboy is 2ad38e47-0d97-4808-a325-fe854f2c9822
+[22:47:22] [Server thread/INFO]: omar_swagboy[/76.21.247.244:58135] logged in with entity id 78639 at ([world]-23.5, 63.0, 129.5)
+[22:47:37] [Server thread/INFO]: LittyBoiz was slain by Zombie
+[22:48:10] [User Authenticator #17/INFO]: UUID of player Masudowoodo is 8610a9aa-a0fb-47b2-bfb9-a7c42b3b2aa3
+[22:48:10] [Server thread/INFO]: Masudowoodo[/100.16.220.168:56194] logged in with entity id 78959 at ([world]-15.5, 73.0, 133.5)
+[22:48:56] [Server thread/INFO]: Villager EntityVillager['Nitwit'/10, l='world', x=-37.93, y=66.00, z=143.11] died, message: 'Nitwit was slain by Zombie'
