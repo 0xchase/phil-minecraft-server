@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-18 22:52:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-18 20:09:14 -0400"
@@ -565,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-18 22:53:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-18 20:19:25 -0400"
@@ -671,6 +683,8 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-18 20:43:31 -0400",
       "minecraft:spider": "2020-03-18 22:35:16 -0400",
+      "minecraft:creeper": "2020-03-18 22:49:37 -0400",
+      "minecraft:witch": "2020-03-18 23:18:19 -0400",
       "minecraft:zombie": "2020-03-18 22:25:40 -0400",
       "minecraft:zombie_villager": "2020-03-18 22:26:09 -0400"
     },
@@ -1096,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-18 22:53:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-18 19:57:47 -0400"
@@ -1206,6 +1226,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-18 19:59:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-18 23:12:44 -0400"
     },
     "done": true
   },

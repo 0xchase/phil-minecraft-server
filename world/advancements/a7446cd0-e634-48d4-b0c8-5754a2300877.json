@@ -694,6 +694,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2020-03-18 23:13:01 -0400",
       "minecraft:zombie": "2020-03-18 16:33:03 -0400",
       "minecraft:zombie_villager": "2020-03-18 17:45:13 -0400"
     },
@@ -1080,6 +1081,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 14:26:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-18 23:13:02 -0400"
     },
     "done": true
   },
