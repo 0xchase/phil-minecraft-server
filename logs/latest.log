@@ -109,3 +109,9 @@
 [12:28:30] [Server thread/INFO]: [1635321: Set the time to 13000]
 [12:28:45] [Server thread/INFO]: 1635321 issued server command: /time set night
 [12:28:45] [Server thread/INFO]: [1635321: Set the time to 13000]
+[12:34:55] [User Authenticator #25/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[12:34:55] [Server thread/INFO]: roelanford[/216.164.58.29:49778] logged in with entity id 172947 at ([world]-158.70000002533197, 113.0000002, 78.29999997466803)
+[12:59:28] [Server thread/INFO]: roelanford lost connection: Disconnected
+[12:59:28] [Server thread/INFO]: roelanford left the game
+[13:45:15] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[13:45:15] [Server thread/INFO]: 1635321 left the game
