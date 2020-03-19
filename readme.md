@@ -13,17 +13,8 @@ Repository and backup for the club server
  - Command blocks enabled, command block output false
 
 ## Todo Game:
- - Flatten house land
- - Build house walls
- - Build plant farms
- - Mine in depth
-   - Stacks of iron, lapiz, gold
-   - Several diamonds
-   - Loot dungeons (saddles)
-   - Get level 30
  - Get horse
  - House animal farms
-   - Automatic cow farm
    - Automatic chicken farm
    - Automatic pig farm
  - Make infinity bow
