@@ -41,3 +41,18 @@
 [10:11:05] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52716] logged in with entity id 419991 at ([world]165.69999998807907, 56.0, 127.49639345642593)
 [10:19:50] [Server thread/WARN]: LittyBoiz moved wrongly!
 [10:24:48] [Server thread/WARN]: LittyBoiz moved wrongly!
+[10:37:49] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[10:37:49] [Server thread/INFO]: LittyBoiz left the game
+[11:29:47] [User Authenticator #60/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[11:29:47] [Server thread/INFO]: 1635321[/129.2.208.207:37892] logged in with entity id 423413 at ([world]-107.70000002533197, 72.0000002, 265.299999974668)
+[11:29:54] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[11:29:54] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[11:33:21] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 0 0
+[11:33:22] [Server thread/INFO]: [1635321: Teleported 1635321 to 1635321.5, 0.0, 0.5]
+[11:33:47] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 0 100 0
+[11:33:47] [Server thread/INFO]: [1635321: Teleported 1635321 to 0.5, 100.0, 0.5]
+[11:33:47] [Server thread/WARN]: 1635321 moved too quickly! -1635321.0,103.31053668742194,1.7802560476718472
+[11:35:17] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[11:35:17] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[11:35:33] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[11:35:33] [Server thread/INFO]: 1635321 left the game
