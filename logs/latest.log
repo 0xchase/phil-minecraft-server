@@ -3,3 +3,20 @@
 [03:56:24] [User Authenticator #55/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
 [03:56:24] [Server thread/INFO]: matster1998[/10.105.186.239:60305] logged in with entity id 391546 at ([world]79.38413387065275, 64.0, 179.45154873800084)
 [04:13:35] [Server thread/INFO]: matster1998 burned to death
+[04:34:25] [Server thread/INFO]: matster1998 drowned
+[04:47:29] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x70, z170;Vegan Commune:;This land is ;OUR;land.
+[04:48:01] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[04:48:01] [Server thread/INFO]: matster1998 left the game
+[04:55:20] [User Authenticator #56/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[04:55:20] [Server thread/INFO]: LittyBoiz[/96.255.198.177:51761] logged in with entity id 399393 at ([world]-68.94325266665179, 51.0, -239.61626086942843)
+[05:06:37] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x216, z316
+[05:28:45] [Server thread/INFO]: LittyBoiz was blown up by Creeper
+[05:36:17] [Server thread/WARN]: LittyBoiz moved wrongly!
+[05:36:50] [Server thread/INFO]: LittyBoiz drowned
+[05:40:31] [Server thread/WARN]: LittyBoiz moved wrongly!
+[05:41:08] [Server thread/WARN]: LittyBoiz moved wrongly!
+[05:45:42] [Server thread/INFO]: LittyBoiz was burnt to a crisp whilst fighting Zombie
+[05:46:00] [Server thread/INFO]: Villager EntityVillager['Villager'/409654, l='world', x=-533.70, y=84.00, z=552.89] died, message: 'Villager was slain by Zombie'
+[05:58:14] [Server thread/INFO]: LittyBoiz was shot by Skeleton
+[05:58:24] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[05:58:24] [Server thread/INFO]: LittyBoiz left the game
