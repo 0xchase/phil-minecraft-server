@@ -1,58 +1,171 @@
-[00:07:12] [Server thread/INFO]: matster1998 lost connection: Disconnected
-[00:07:12] [Server thread/INFO]: matster1998 left the game
-[03:56:24] [User Authenticator #55/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
-[03:56:24] [Server thread/INFO]: matster1998[/10.105.186.239:60305] logged in with entity id 391546 at ([world]79.38413387065275, 64.0, 179.45154873800084)
-[04:13:35] [Server thread/INFO]: matster1998 burned to death
-[04:34:25] [Server thread/INFO]: matster1998 drowned
-[04:47:29] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x70, z170;Vegan Commune:;This land is ;OUR;land.
-[04:48:01] [Server thread/INFO]: matster1998 lost connection: Disconnected
-[04:48:01] [Server thread/INFO]: matster1998 left the game
-[04:55:20] [User Authenticator #56/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[04:55:20] [Server thread/INFO]: LittyBoiz[/96.255.198.177:51761] logged in with entity id 399393 at ([world]-68.94325266665179, 51.0, -239.61626086942843)
-[05:06:37] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x216, z316
-[05:28:45] [Server thread/INFO]: LittyBoiz was blown up by Creeper
-[05:36:17] [Server thread/WARN]: LittyBoiz moved wrongly!
-[05:36:50] [Server thread/INFO]: LittyBoiz drowned
-[05:40:31] [Server thread/WARN]: LittyBoiz moved wrongly!
-[05:41:08] [Server thread/WARN]: LittyBoiz moved wrongly!
-[05:45:42] [Server thread/INFO]: LittyBoiz was burnt to a crisp whilst fighting Zombie
-[05:46:00] [Server thread/INFO]: Villager EntityVillager['Villager'/409654, l='world', x=-533.70, y=84.00, z=552.89] died, message: 'Villager was slain by Zombie'
-[05:58:14] [Server thread/INFO]: LittyBoiz was shot by Skeleton
-[05:58:24] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[05:58:24] [Server thread/INFO]: LittyBoiz left the game
-[09:08:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a455bf3[id=<null>,name=1635321,properties={},legacy=false] (/129.2.208.207:35234) lost connection: Disconnected
-[09:37:16] [User Authenticator #57/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[09:37:16] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52646] logged in with entity id 413705 at ([world]-453.2170865060088, 62.9375, 563.4663237707084)
-[09:44:09] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[09:44:09] [Server thread/INFO]: LittyBoiz left the game
-[09:44:13] [User Authenticator #58/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[09:44:13] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52659] logged in with entity id 414792 at ([world]-487.68931040855006, 69.0, 644.3858049179564)
-[09:45:18] [Server thread/INFO]: LittyBoiz has made the advancement [Not Today, Thank You]
-[09:45:20] [Server thread/INFO]: LittyBoiz was shot by Skeleton
-[09:49:10] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-116, z896
-[09:51:52] [Server thread/INFO]: LittyBoiz was blown up by Creeper
-[09:53:43] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-405, z530
-[09:56:02] [Server thread/INFO]: LittyBoiz drowned
-[10:04:50] [Server thread/INFO]: LittyBoiz tried to swim in lava
-[10:05:32] [Server thread/WARN]: LittyBoiz moved wrongly!
-[10:09:07] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[10:09:07] [Server thread/INFO]: LittyBoiz left the game
-[10:11:05] [User Authenticator #59/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[10:11:05] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52716] logged in with entity id 419991 at ([world]165.69999998807907, 56.0, 127.49639345642593)
-[10:19:50] [Server thread/WARN]: LittyBoiz moved wrongly!
-[10:24:48] [Server thread/WARN]: LittyBoiz moved wrongly!
-[10:37:49] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[10:37:49] [Server thread/INFO]: LittyBoiz left the game
-[11:29:47] [User Authenticator #60/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
-[11:29:47] [Server thread/INFO]: 1635321[/129.2.208.207:37892] logged in with entity id 423413 at ([world]-107.70000002533197, 72.0000002, 265.299999974668)
-[11:29:54] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
-[11:29:54] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
-[11:33:21] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 0 0
-[11:33:22] [Server thread/INFO]: [1635321: Teleported 1635321 to 1635321.5, 0.0, 0.5]
-[11:33:47] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 0 100 0
-[11:33:47] [Server thread/INFO]: [1635321: Teleported 1635321 to 0.5, 100.0, 0.5]
-[11:33:47] [Server thread/WARN]: 1635321 moved too quickly! -1635321.0,103.31053668742194,1.7802560476718472
-[11:35:17] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
-[11:35:17] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
-[11:35:33] [Server thread/INFO]: 1635321 lost connection: Disconnected
-[11:35:33] [Server thread/INFO]: 1635321 left the game
+[14:06:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:06:48] [Server thread/INFO]: Loading properties
+[14:06:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:06:48] [Server thread/INFO]: Generating keypair
+[14:06:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:06:48] [Server thread/INFO]: Using epoll channel type
+[14:06:49] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[14:06:53] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[14:06:53] [Server thread/INFO]: Preparing level "world"
+[14:06:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:06:54] [Server thread/INFO]: Loaded 6 recipes
+[14:06:55] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[14:06:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:56] [Server thread/INFO]: Time elapsed: 1011 ms
+[14:06:56] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[14:06:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:56] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[14:06:56] [Server thread/INFO]: Time elapsed: 652 ms
+[14:06:56] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[14:06:57] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:57] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[14:06:57] [Server thread/INFO]: Time elapsed: 784 ms
+[14:06:57] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[14:06:57] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[14:06:57] [Server thread/INFO]: [GriefPrevention] 12 total claims loaded.
+[14:06:57] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[14:06:57] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[14:06:57] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[14:06:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:06:58] [Server thread/INFO]: Done (4.967s)! For help, type "help"
+[14:08:12] [User Authenticator #1/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[14:08:12] [Server thread/INFO]: benkoontz000[/73.133.132.224:57210] logged in with entity id 196 at ([world]-878.5667782309815, 19.0, 722.6999999880791)
+[14:11:50] [Server thread/INFO]: benkoontz000 has made the advancement [Ice Bucket Challenge]
+[14:24:51] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:24:54] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[14:24:54] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[14:24:54] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[14:24:54] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[14:24:54] [Server thread/INFO]: [0;33;22mGriefPrevention: [0;37;1mAll commands for GriefPrevention[m
+[14:24:54] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/abandonallclaims: [0;37;1mDeletes ALL your claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/abandonclaim: [0;37;1mDeletes a claim.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/abandontoplevelclaim: [0;37;1mDeletes a claim and all its subdivisions.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/accesstrust: [0;37;1mGrants a player entry to your claim(s) and use of your bed.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/adjustbonusclaimblocks: [0;37;1mAdds or subtracts bonus claim blocks for a player.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/adjustbonusclaimblocksall: [0;37;1mAdds or subtracts bonus claim blocks for all online players.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/adminclaims: [0;37;1mSwitches the shovel tool to administrative claims mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/adminclaimslist: [0;37;1mLists all administrative claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/basicclaims: [0;37;1mSwitches the shovel tool back to basic claims mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/buyclaimblocks: [0;37;1mPurchases additional claim blocks with server money.  Doesn't work on servers without a Vault-compatible economy plugin.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/claim: [0;37;1mCreates a land claim centered at your current location.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/claimbook: [0;37;1mGives a player a manual about claiming land.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/claimexplosions: [0;37;1mToggles whether explosives may be used in a specific land claim.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/claimslist: [0;37;1mLists information about a player's claim blocks and claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/containertrust: [0;37;1mGrants a player access to your claim's containers, crops, animals, bed, buttons, and levers.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deletealladminclaims: [0;37;1mDeletes all administrative claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deleteallclaims: [0;37;1mDeletes all of another player's claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deleteclaim: [0;37;1mDeletes the claim you're standing in, even if it's not your claim.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deleteclaimsinworld: [0;37;1mDeletes all the claims in a world.  Only usable at the server console.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deleteuserclaimsinworld: [0;37;1mDeletes all the non-admin claims in a world.  Only usable at the server console.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/extendclaim: [0;37;1mResizes the land claim you're standing in by pushing or pulling its boundary in the direction you're facing.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/givepet: [0;37;1mAllows a player to give away a pet he or she tamed.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/gpblockinfo: [0;37;1mAllows an administrator to get technical information about blocks in the world and items in hand.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/gpreload: [0;37;1mReloads Grief Prevention's configuration settings.  Does NOT totally reload the entire plugin.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/ignoreclaims: [0;37;1mToggles ignore claims mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/ignoredplayerlist: [0;37;1mLists the players you're ignoring in chat.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/ignoreplayer: [0;37;1mIgnores another player's chat messages.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/permissiontrust: [0;37;1mGrants a player permission to grant his level of permission to others.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/restorenature: [0;37;1mSwitches the shovel tool to restoration mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/restorenatureaggressive: [0;37;1mSwitches the shovel tool to aggressive restoration mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/restorenaturefill: [0;37;1mSwitches the shovel tool to fill mode.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/restrictsubclaim: [0;37;1mRestricts a subclaim, so that it inherits no permissions from the parent claim[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/sellclaimblocks: [0;37;1mSells your claim blocks for server money.  Doesn't work on servers without a Vault-compatible economy plugin.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/separate: [0;37;1mForces two players to ignore each other in chat.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/setaccruedclaimblocks: [0;37;1mUpdates a player's accrued claim block total.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/siege: [0;37;1mInitiates a siege versus another player.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/softmute: [0;37;1mToggles whether a player's messages will only reach other soft-muted players.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/subdivideclaims: [0;37;1mSwitches the shovel tool to subdivision mode, used to subdivide your claims.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/transferclaim: [0;37;1mConverts an administrative claim to a private claim.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/trapped: [0;37;1mEjects you to nearby unclaimed land.  Has a substantial cooldown period.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/trust: [0;37;1mGrants a player full access to your claim(s).[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/trustlist: [0;37;1mLists permissions for the claim you're standing in.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/unignoreplayer: [0;37;1mUnignores another player's chat messages.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/unlockdrops: [0;37;1mAllows other players to pick up the items you dropped when you died.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/unseparate: [0;37;1mReverses /separate.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/untrust: [0;37;1mRevokes a player's access to your claim(s).[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[14:24:54] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[14:25:00] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:25:20] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:25:29] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[14:25:39] [User Authenticator #2/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[14:25:39] [Server thread/INFO]: 1635321[/129.2.208.207:39534] logged in with entity id 2742 at ([world]-109.24235833523076, 72.0, 262.47240320121307)
+[14:25:46] [Netty Epoll Server IO #2/INFO]: <benkoontz000> :wave:[m
+[14:26:18] [Server thread/INFO]: [GriefPrevention] benkoontz000 placed suspicious WATER_BUCKET @ world: x-735, z778
