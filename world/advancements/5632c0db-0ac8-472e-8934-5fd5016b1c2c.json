@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-19 21:48:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-18 20:18:52 -0400"
@@ -387,6 +393,7 @@
     "criteria": {
       "apple": "2020-03-18 23:46:03 -0400",
       "bread": "2020-03-18 22:26:14 -0400",
+      "beetroot": "2020-03-19 21:49:53 -0400",
       "carrot": "2020-03-18 20:06:56 -0400"
     },
     "done": false

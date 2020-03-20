@@ -477,3 +477,77 @@
 [20:06:29] [Server thread/INFO]: thatnerdjack left the game
 [20:13:47] [User Authenticator #46/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
 [20:13:47] [Server thread/INFO]: roelanford[/216.164.58.29:50489] logged in with entity id 318595 at ([world]-175.69999998807907, 108.0, 65.01686250590902)
+[20:32:49] [Server thread/INFO]: roelanford was killed by Witch using magic
+[20:50:30] [User Authenticator #47/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[20:50:30] [Server thread/INFO]: benkoontz000[/73.133.132.224:55065] logged in with entity id 327527 at ([world]-854.9285079207195, 21.0, 782.4757754247386)
+[20:53:10] [Netty Epoll Server IO #4/INFO]: <benkoontz000> HAI[m
+[21:00:42] [Server thread/WARN]: roelanford moved wrongly!
+[21:00:51] [Server thread/INFO]: roelanford lost connection: Disconnected
+[21:00:51] [Server thread/INFO]: roelanford left the game
+[21:06:53] [Netty Epoll Server IO #4/INFO]: <benkoontz000> T[m
+[21:08:21] [User Authenticator #48/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[21:08:21] [Server thread/INFO]: thatnerdjack[/68.134.216.48:53029] logged in with entity id 332246 at ([world]568.8187940778977, 63.0, 313.1104078282737)
+[21:08:34] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ben! :D[m
+[21:08:38] [Netty Epoll Server IO #4/INFO]: <benkoontz000> hey bby[m
+[21:08:53] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how's it goin?[m
+[21:08:57] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> sorry that's like[m
+[21:09:01] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> my default question[m
+[21:09:08] [Netty Epoll Server IO #4/INFO]: <benkoontz000> its okay[m
+[21:09:19] [Netty Epoll Server IO #4/INFO]: <benkoontz000> ill just give my default answer[m
+[21:09:21] [Netty Epoll Server IO #4/INFO]: <benkoontz000> guud[m
+[21:09:25] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> noice[m
+[21:09:26] [Netty Epoll Server IO #4/INFO]: <benkoontz000> hby?[m
+[21:09:29] [Netty Epoll Server IO #4/INFO]: <benkoontz000> '[m
+[21:09:42] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i'm ok[m
+[21:09:46] [User Authenticator #49/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[21:09:46] [Server thread/INFO]: 1635321[/129.2.208.207:33524] logged in with entity id 332761 at ([world]-102.97928610972251, 72.0, 266.45392567255055)
+[21:09:49] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> the reality of online classes is settling in[m
+[21:09:51] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[21:09:51] [Server thread/INFO]: 1635321 left the game
+[21:09:52] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> hey chase[m
+[21:09:54] [Netty Epoll Server IO #4/INFO]: <benkoontz000> lmao[m
+[21:09:55] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> bye chase[m
+[21:11:29] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i'm trying to set up a tabletop rpg type dealio over discord[m
+[21:11:34] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> which is hard lmao[m
+[21:11:42] [Netty Epoll Server IO #4/INFO]: <benkoontz000> yeah[m
+[21:11:47] [Netty Epoll Server IO #4/INFO]: <benkoontz000> sounds cool thou[m
+[21:12:49] [User Authenticator #50/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[21:12:49] [Server thread/INFO]: matster1998[/10.105.186.239:64624] logged in with entity id 333767 at ([world]82.80081350905529, 63.0, 172.35751404862822)
+[21:15:33] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> what're y'all up to[m
+[21:18:00] [User Authenticator #51/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[21:18:00] [Server thread/INFO]: 1635321[/129.2.208.207:33540] logged in with entity id 335923 at ([world]-102.97928610972251, 72.0, 266.45392567255055)
+[21:21:47] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> anyone have slimeballs?[m
+[21:25:49] [User Authenticator #52/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[21:25:49] [Server thread/INFO]: roelanford[/216.164.58.29:50632] logged in with entity id 339769 at ([world]798.9190788557479, 53.1862621355448, -773.698219217733)
+[21:29:12] [Server thread/INFO]: 1635321 was shot by Skeleton
+[21:29:16] [Netty Epoll Server IO #4/INFO]: <benkoontz000> f[m
+[21:29:20] [Netty Epoll Server IO #14/INFO]: <roelanford> loser[m
+[21:29:26] [Netty Epoll Server IO #4/INFO]: <benkoontz000> ,,,[m
+[21:29:27] [Netty Epoll Server IO #12/INFO]: <1635321> Should have worn armpr[m
+[21:29:30] [Netty Epoll Server IO #4/INFO]: <benkoontz000> looks at death count[m
+[21:29:43] [Netty Epoll Server IO #14/INFO]: <roelanford> looks at hair length[m
+[21:30:44] [Server thread/WARN]: roelanford moved wrongly!
+[21:30:50] [Netty Epoll Server IO #11/INFO]: <matster1998> lolol[m
+[21:31:28] [Server thread/WARN]: roelanford moved wrongly!
+[21:31:52] [Server thread/INFO]: roelanford drowned
+[21:39:51] [Server thread/INFO]: roelanford tried to swim in lava
+[21:41:24] [Server thread/INFO]: thatnerdjack tried to swim in lava to escape Zombie
+[21:46:26] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:47:33] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:47:44] [Server thread/WARN]: Boat moved wrongly!
+[21:47:57] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:48:35] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:49:45] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:51:49] [Server thread/INFO]: thatnerdjack was killed by Witch using magic
+[21:57:17] [Server thread/INFO]: thatnerdjack has made the advancement [Take Aim]
+[21:57:20] [Server thread/INFO]: roelanford was blown up by Creeper
+[22:09:18] [Server thread/INFO]: 1635321 has made the advancement [Enchanter]
+[22:11:23] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[22:11:23] [Server thread/INFO]: 1635321 left the game
+[22:23:59] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[22:23:59] [Server thread/INFO]: benkoontz000 left the game
+[22:27:15] [Server thread/INFO]: roelanford tried to swim in lava
+[22:28:31] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[22:28:31] [Server thread/INFO]: thatnerdjack left the game
+[22:28:57] [Server thread/INFO]: matster1998 issued server command: /kill
+[22:29:38] [Server thread/INFO]: matster1998 tried to swim in lava
