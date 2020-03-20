@@ -169,3 +169,154 @@
 [14:25:39] [Server thread/INFO]: 1635321[/129.2.208.207:39534] logged in with entity id 2742 at ([world]-109.24235833523076, 72.0, 262.47240320121307)
 [14:25:46] [Netty Epoll Server IO #2/INFO]: <benkoontz000> :wave:[m
 [14:26:18] [Server thread/INFO]: [GriefPrevention] benkoontz000 placed suspicious WATER_BUCKET @ world: x-735, z778
+[14:35:05] [Server thread/INFO]: 1635321 issued server command: /difficulty hard
+[14:35:05] [Server thread/INFO]: [1635321: The difficulty has been set to Hard]
+[14:35:50] [Server thread/INFO]: benkoontz000 has made the advancement [Sweet Dreams]
+[14:41:51] [User Authenticator #3/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[14:41:51] [Server thread/INFO]: thatnerdjack[/68.134.216.48:58077] logged in with entity id 7049 at ([world]520.5286749285328, 70.0, 274.8562816716163)
+[14:41:55] [Netty Epoll Server IO #2/INFO]: <benkoontz000> hai[m
+[14:41:59] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> hey![m
+[14:42:20] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> i'm gna try and get my mic set up so i can actually talk in discord lol[m
+[14:42:26] [Netty Epoll Server IO #2/INFO]: <benkoontz000> POG[m
+[14:51:11] [Netty Epoll Server IO #2/INFO]: <benkoontz000> sleep?[m
+[14:51:22] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> 1 sec[m
+[14:51:41] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[14:51:41] [Server thread/INFO]: 1635321 left the game
+[14:51:43] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> ok waitin[m
+[14:51:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@475a9d1[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:55447) lost connection: Disconnected
+[14:52:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@7478d8d8[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:55472) lost connection: Disconnected
+[14:53:03] [Server thread/WARN]: thatnerdjack moved wrongly!
+[14:53:49] [Netty Epoll Server IO #2/INFO]: <benkoontz000> brb[m
+[14:53:51] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[14:53:51] [Server thread/INFO]: benkoontz000 left the game
+[14:53:52] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> kk[m
+[14:54:55] [Server thread/WARN]: thatnerdjack moved wrongly!
+[14:55:36] [User Authenticator #4/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[14:55:36] [Server thread/INFO]: benkoontz000[/73.133.132.224:57362] logged in with entity id 12097 at ([world]-758.3000000119209, 49.0, 845.055100141496)
+[14:55:40] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> wb[m
+[14:58:16] [Server thread/WARN]: thatnerdjack moved wrongly!
+[14:58:39] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:02:00] [User Authenticator #5/INFO]: Disconnecting /10.104.149.178:55232: Failed to verify username!
+[15:02:00] [User Authenticator #5/ERROR]: Username 'jackster182' tried to join with an invalid session
+[15:02:00] [Server thread/INFO]: /10.104.149.178:55232 lost connection: Failed to verify username!
+[15:02:00] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:02:06] [User Authenticator #6/INFO]: Disconnecting /10.104.149.178:55233: Failed to verify username!
+[15:02:06] [User Authenticator #6/ERROR]: Username 'jackster182' tried to join with an invalid session
+[15:02:06] [Server thread/INFO]: /10.104.149.178:55233 lost connection: Failed to verify username!
+[15:02:19] [User Authenticator #7/INFO]: Disconnecting /10.104.149.178:55235: Failed to verify username!
+[15:02:19] [User Authenticator #7/ERROR]: Username 'jackster182' tried to join with an invalid session
+[15:02:19] [Server thread/INFO]: /10.104.149.178:55235 lost connection: Failed to verify username!
+[15:02:59] [Netty Epoll Server IO #13/INFO]: <benkoontz000> sleep?[m
+[15:03:09] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> i'm not near a bed :([m
+[15:03:20] [Netty Epoll Server IO #13/INFO]: <benkoontz000> can u log off real quick?[m
+[15:03:22] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[15:03:22] [Server thread/INFO]: thatnerdjack left the game
+[15:03:47] [User Authenticator #8/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:03:47] [Server thread/INFO]: Jackamonga[/10.104.149.178:55266] logged in with entity id 15395 at ([world]-16.5, 69.0, 132.5)
+[15:03:55] [User Authenticator #9/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[15:03:55] [Server thread/INFO]: thatnerdjack[/68.134.216.48:58163] logged in with entity id 15510 at ([world]1023.4840093577395, 69.0, 64.13787463038366)
+[15:04:01] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> howdy[m
+[15:04:51] [Netty Epoll Server IO #5/INFO]: <Jackamonga> yo this place is lit af frfr[m
+[15:04:58] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:05:24] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:07:05] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:09:35] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:12:54] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:14:09] [Netty Epoll Server IO #13/INFO]: <benkoontz000> sleep or log out[m
+[15:14:13] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[15:14:13] [Server thread/INFO]: thatnerdjack left the game
+[15:14:16] [Netty Epoll Server IO #13/INFO]: <benkoontz000> im in bed[m
+[15:14:18] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:14:18] [Server thread/INFO]: Jackamonga left the game
+[15:14:42] [User Authenticator #10/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:14:42] [Server thread/INFO]: Jackamonga[/10.104.149.178:55284] logged in with entity id 22403 at ([world]-247.62371444937114, 70.0, 613.906901052177)
+[15:14:48] [User Authenticator #11/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[15:14:48] [Server thread/INFO]: thatnerdjack[/68.134.216.48:58226] logged in with entity id 22638 at ([world]1767.1482772314353, 62.07326525706943, -106.38247155459592)
+[15:15:18] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:17:32] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:20:01] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:20:54] [Server thread/INFO]: benkoontz000 has made the advancement [Enchanter]
+[15:21:04] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:22:32] [Server thread/INFO]: Jackamonga hit the ground too hard
+[15:22:39] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:23:27] [Server thread/WARN]: thatnerdjack moved wrongly!
+[15:23:50] [Server thread/INFO]: thatnerdjack drowned
+[15:23:56] [Netty Epoll Server IO #10/INFO]: <thatnerdjack> oof[m
+[15:24:50] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:24:50] [Server thread/INFO]: Jackamonga left the game
+[15:25:09] [Netty Epoll Server IO #10/INFO]: <thatnerdjack> time to disconnect?[m
+[15:25:31] [User Authenticator #12/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:25:31] [Server thread/INFO]: Jackamonga[/10.104.149.178:55301] logged in with entity id 31800 at ([world]72.76229452465259, 64.0, 153.44795554641988)
+[15:25:34] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:25:34] [Server thread/INFO]: Jackamonga left the game
+[15:25:37] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[15:25:37] [Server thread/INFO]: thatnerdjack left the game
+[15:26:14] [User Authenticator #13/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[15:26:14] [Server thread/INFO]: thatnerdjack[/68.134.216.48:58313] logged in with entity id 31982 at ([world]517.0849402788385, 70.0, 277.6264829678449)
+[15:26:17] [User Authenticator #14/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:26:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@566e57ed[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@1d7694f9]},legacy=false] (/10.104.149.178:55304): You must wait 14 seconds before logging-in again.
+[15:26:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@566e57ed[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@1d7694f9]},legacy=false] (/10.104.149.178:55304) lost connection: You must wait 14 seconds before logging-in again.
+[15:26:31] [User Authenticator #15/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:26:31] [Server thread/INFO]: Jackamonga[/10.104.149.178:55311] logged in with entity id 32208 at ([world]72.76229452465259, 64.0, 153.44795554641988)
+[15:33:42] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[15:33:42] [Server thread/INFO]: benkoontz000 left the game
+[15:33:57] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[15:33:57] [Server thread/INFO]: thatnerdjack left the game
+[15:34:31] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:34:31] [Server thread/INFO]: Jackamonga left the game
+[15:34:42] [User Authenticator #16/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:34:42] [Server thread/INFO]: Jackamonga[/10.104.149.178:55322] logged in with entity id 35972 at ([world]-421.22897276226144, 69.0, 930.4816365118477)
+[15:35:10] [User Authenticator #17/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[15:35:10] [Server thread/INFO]: benkoontz000[/73.133.132.224:58235] logged in with entity id 36173 at ([world]-700.7163218339165, 70.0, 809.1857612381064)
+[15:36:37] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:36:37] [Server thread/INFO]: Jackamonga left the game
+[15:36:54] [User Authenticator #18/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:36:54] [Server thread/INFO]: Jackamonga[/10.104.149.178:55329] logged in with entity id 36793 at ([world]-420.2467736914068, 74.0, 907.4479538325681)
+[15:36:56] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:36:56] [Server thread/INFO]: Jackamonga left the game
+[15:37:27] [User Authenticator #19/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:37:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@595e69bb[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@6cd94fa4]},legacy=false] (/10.104.149.178:55332): You must wait 27 seconds before logging-in again.
+[15:37:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@595e69bb[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@6cd94fa4]},legacy=false] (/10.104.149.178:55332) lost connection: You must wait 27 seconds before logging-in again.
+[15:38:14] [User Authenticator #20/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:38:14] [Server thread/INFO]: Jackamonga[/10.104.149.178:55338] logged in with entity id 37171 at ([world]-420.2467736914068, 74.0, 907.4479538325681)
+[15:38:17] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:38:17] [Server thread/INFO]: Jackamonga left the game
+[15:39:06] [User Authenticator #21/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:39:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c230cc2[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@72773cb7]},legacy=false] (/10.104.149.178:55344): You must wait 8 seconds before logging-in again.
+[15:39:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c230cc2[id=1fd923ff-6086-4fca-b8bc-3feab3ed9730,name=Jackamonga,properties={textures=[com.mojang.authlib.properties.Property@72773cb7]},legacy=false] (/10.104.149.178:55344) lost connection: You must wait 8 seconds before logging-in again.
+[15:39:18] [User Authenticator #22/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:39:18] [Server thread/INFO]: Jackamonga[/10.104.149.178:55346] logged in with entity id 37449 at ([world]-420.2467736914068, 74.0, 907.4479538325681)
+[15:39:23] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:39:23] [Server thread/INFO]: Jackamonga left the game
+[15:40:53] [User Authenticator #23/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:40:53] [Server thread/INFO]: Jackamonga[/10.104.149.178:55349] logged in with entity id 37829 at ([world]-416.5775926079936, 71.0, 908.3000000119209)
+[15:41:07] [Server thread/INFO]: Jackamonga was slain by Zombie
+[15:41:14] [Server thread/INFO]: Jackamonga has made the advancement [Sweet Dreams]
+[15:41:17] [Netty Epoll Server IO #7/INFO]: <benkoontz000> rip[m
+[15:41:19] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[15:41:19] [Server thread/INFO]: benkoontz000 left the game
+[15:41:28] [User Authenticator #24/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[15:41:28] [Server thread/INFO]: benkoontz000[/73.133.132.224:58267] logged in with entity id 38203 at ([world]-779.7385226273738, 66.0, 782.9785200629548)
+[15:45:52] [Server thread/INFO]: Jackamonga fell from a high place
+[15:49:28] [User Authenticator #25/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[15:49:28] [Server thread/INFO]: thatnerdjack[/68.134.216.48:58733] logged in with entity id 40781 at ([world]517.4052698494286, 70.0, 273.036597701356)
+[15:52:04] [Netty Epoll Server IO #4/INFO]: <benkoontz000> rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr[m
+[15:52:24] [Netty Epoll Server IO #4/INFO]: <benkoontz000> log out or sleep[m
+[15:52:29] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[15:52:29] [Server thread/INFO]: Jackamonga left the game
+[15:56:55] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[15:56:55] [Server thread/INFO]: benkoontz000 left the game
+[15:57:27] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[15:57:27] [Server thread/INFO]: thatnerdjack left the game
+[16:08:39] [User Authenticator #26/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[16:08:39] [Server thread/INFO]: roelanford[/216.164.58.29:54510] logged in with entity id 43444 at ([world]-159.69999998807907, 114.0, 77.32156992569526)
+[16:13:51] [User Authenticator #27/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[16:13:51] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:60605] logged in with entity id 44065 at ([world]145.30000001192093, 121.0, 477.80972338198603)
+[16:14:50] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[16:14:50] [Server thread/INFO]: SlorseOverlord left the game
+[16:17:13] [Server thread/INFO]: roelanford lost connection: Disconnected
+[16:17:13] [Server thread/INFO]: roelanford left the game
+[16:17:47] [User Authenticator #28/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[16:17:47] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:50136] logged in with entity id 44651 at ([world]149.00854258931938, 119.0, 482.4771574932064)
+[16:23:03] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[16:23:03] [Server thread/INFO]: SlorseOverlord left the game

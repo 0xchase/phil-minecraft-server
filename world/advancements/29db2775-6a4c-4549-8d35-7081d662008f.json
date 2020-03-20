@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-03-18 17:29:02 -0400"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-03-18 18:25:21 -0400"
@@ -224,6 +236,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-19 16:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-20 15:11:41 -0400"
     },
     "done": true
   },
@@ -257,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-03-20 15:09:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 18:48:21 -0400"
@@ -269,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-18 19:49:36 -0400"
@@ -278,6 +308,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2020-03-18 19:54:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
     },
     "done": true
   },
@@ -416,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-03-20 15:09:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-18 17:29:02 -0400"
@@ -503,6 +545,7 @@
       "minecraft:witch": "2020-03-19 16:53:07 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
       "minecraft:zombie": "2020-03-18 18:12:48 -0400",
+      "minecraft:drowned": "2020-03-20 15:05:43 -0400",
       "minecraft:zombie_villager": "2020-03-18 23:49:44 -0400"
     },
     "done": false
@@ -516,6 +559,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-03-18 22:09:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-03-20 14:53:16 -0400"
     },
     "done": true
   },
@@ -783,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-03-20 15:12:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-18 18:37:22 -0400"
@@ -956,8 +1011,10 @@
       "minecraft:forest": "2020-03-18 17:23:43 -0400",
       "minecraft:mountains": "2020-03-18 17:46:33 -0400",
       "minecraft:taiga": "2020-03-19 21:44:02 -0400",
+      "minecraft:giant_tree_taiga": "2020-03-20 14:58:35 -0400",
       "minecraft:taiga_hills": "2020-03-18 18:06:41 -0400",
       "minecraft:birch_forest": "2020-03-18 17:51:20 -0400",
+      "minecraft:warm_ocean": "2020-03-20 15:14:11 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-03-19 21:47:57 -0400",
       "minecraft:beach": "2020-03-19 21:45:45 -0400",
       "minecraft:dark_forest": "2020-03-18 17:24:46 -0400",
@@ -966,6 +1023,7 @@
       "minecraft:birch_forest_hills": "2020-03-19 21:44:45 -0400",
       "minecraft:wooded_mountains": "2020-03-18 17:46:39 -0400",
       "minecraft:wooded_hills": "2020-03-18 17:45:41 -0400",
+      "minecraft:giant_tree_taiga_hills": "2020-03-20 14:58:47 -0400",
       "minecraft:swamp": "2020-03-19 21:49:25 -0400",
       "minecraft:plains": "2020-03-18 17:24:49 -0400"
     },
@@ -1049,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-18 17:35:43 -0400"
@@ -1097,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-03-20 15:09:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-03-18 22:06:05 -0400"
@@ -1118,6 +1188,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 18:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-03-20 15:15:56 -0400"
     },
     "done": true
   },
@@ -1427,6 +1503,7 @@
       "baked_potato": "2020-03-18 22:50:47 -0400",
       "apple": "2020-03-18 19:01:20 -0400",
       "potato": "2020-03-18 22:09:26 -0400",
+      "cooked_cod": "2020-03-20 15:53:03 -0400",
       "bread": "2020-03-18 23:56:24 -0400",
       "rotten_flesh": "2020-03-18 18:13:13 -0400",
       "suspicious_stew": "2020-03-19 21:58:39 -0400",
@@ -1514,9 +1591,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-03-18 19:23:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
     },
     "done": true
   },
@@ -1547,6 +1636,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2020-03-18 18:51:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
     },
     "done": true
   },
@@ -1727,6 +1822,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-03-18 18:18:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
     },
     "done": true
   },
@@ -1934,6 +2035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-03-18 17:47:19 -0400"
@@ -1973,6 +2080,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-03-18 18:18:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-03-20 15:15:56 -0400"
     },
     "done": true
   },
@@ -2048,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-03-18 18:21:44 -0400"
@@ -2057,6 +2176,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-03-20 15:05:46 -0400"
     },
     "done": true
   },
@@ -2132,6 +2257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-03-20 14:53:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-03-18 22:09:24 -0400"
@@ -2172,6 +2303,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2020-03-19 21:31:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-03-20 14:53:16 -0400"
     },
     "done": true
   },
@@ -2331,6 +2468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-03-20 14:53:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-03-18 22:56:27 -0400"
@@ -2346,6 +2489,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_pink_dye": "2020-03-18 18:51:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-20 14:58:54 -0400"
     },
     "done": true
   },
