@@ -393,3 +393,87 @@
 [18:26:03] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z313
 [18:26:18] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z324
 [18:26:21] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z315
+[18:29:44] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[18:29:44] [Server thread/INFO]: benkoontz000 left the game
+[18:31:39] [User Authenticator #36/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[18:31:39] [Server thread/INFO]: benkoontz000[/73.133.132.224:54708] logged in with entity id 286608 at ([world]-795.3000000119209, 41.0, 830.6999999880791)
+[18:36:02] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[18:36:02] [Server thread/INFO]: thatnerdjack left the game
+[18:37:54] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[18:37:54] [Server thread/INFO]: benkoontz000 left the game
+[18:40:16] [User Authenticator #37/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[18:40:16] [Server thread/INFO]: benkoontz000[/73.133.132.224:54742] logged in with entity id 290176 at ([world]-758.3000000119209, 16.0, 817.3945688381775)
+[18:42:38] [User Authenticator #38/INFO]: UUID of player Cherrybomber88 is a02add0f-1da9-437a-84ba-6abf00ff3696
+[18:42:38] [Server thread/INFO]: Cherrybomber88[/73.149.2.147:56324] logged in with entity id 291212 at ([world]-13.5, 72.0, 127.5)
+[18:43:37] [Server thread/INFO]: benkoontz000 has made the advancement [Diamonds!]
+[18:44:18] [User Authenticator #39/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[18:44:18] [Server thread/INFO]: roelanford[/216.164.58.29:49573] logged in with entity id 292127 at ([world]-158.5, 113.0000002, 78.5)
+[18:44:29] [Server thread/INFO]: matster1998 was blown up by Creeper
+[18:45:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a864100[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:52904) lost connection: Disconnected
+[18:46:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@169bffa7[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:52906) lost connection: Disconnected
+[18:46:15] [Server thread/INFO]: Cherrybomber88 has made the advancement [Stone Age]
+[18:47:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@202d9324[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:52961) lost connection: Disconnected
+[18:48:52] [Server thread/INFO]: [GriefPrevention] roelanford placed a sign @ world: x-106, z246;hi chase
+[18:49:04] [Server thread/INFO]: [GriefPrevention] roelanford placed a sign @ world: x-107, z246;you're doing ;amazing
+[18:49:10] [Server thread/INFO]: [GriefPrevention] roelanford placed a sign @ world: x-108, z246;-roe
+[18:50:20] [Server thread/INFO]: SlorseOverlord has made the advancement [Diamonds!]
+[18:51:17] [Server thread/INFO]: Cherrybomber88 has made the advancement [Getting an Upgrade]
+[18:54:13] [Server thread/INFO]: SlorseOverlord was slain by Zombie
+[18:54:18] [Server thread/INFO]: roelanford fell from a high place
+[18:54:22] [Netty Epoll Server IO #2/INFO]: <benkoontz000> rip[m
+[18:54:24] [Netty Epoll Server IO #2/INFO]: [GriefPrevention] Muted repeat message.
+[18:54:24] [Netty Epoll Server IO #2/INFO]: <benkoontz000> rip[m
+[18:58:25] [Server thread/INFO]: roelanford has made the advancement [A Seedy Place]
+[18:59:20] [Netty Epoll Server IO #6/INFO]: <matster1998> i have beetroot and pumpkin[m
+[19:00:43] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[19:00:43] [Server thread/INFO]: matster1998 left the game
+[19:00:47] [Server thread/INFO]: SlorseOverlord fell from a high place
+[19:04:41] [Server thread/INFO]: roelanford was shot by Skeleton
+[19:05:03] [Server thread/INFO]: [GriefPrevention] roelanford placed suspicious WATER_BUCKET @ world: x-183, z48
+[19:05:24] [Server thread/INFO]: Cherrybomber88 has made the advancement [Monster Hunter]
+[19:05:33] [Server thread/INFO]: [GriefPrevention] roelanford placed suspicious WATER_BUCKET @ world: x-183, z42
+[19:07:17] [Netty Epoll Server IO #9/INFO]: <SlorseOverlord> anyone got kelp yet?[m
+[19:07:25] [Server thread/INFO]: SlorseOverlord fell from a high place
+[19:07:33] [User Authenticator #40/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[19:07:33] [Server thread/INFO]: thatnerdjack[/68.134.216.48:52004] logged in with entity id 304115 at ([world]521.6670248661449, 14.0, 276.94135867218245)
+[19:08:06] [User Authenticator #41/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[19:08:06] [Server thread/INFO]: matster1998[/10.105.186.239:60941] logged in with entity id 304519 at ([world]76.29999997466803, 64.0000002, 180.29999997466803)
+[19:10:01] [Server thread/INFO]: roelanford lost connection: Disconnected
+[19:10:01] [Server thread/INFO]: roelanford left the game
+[19:14:38] [Server thread/INFO]: Cherrybomber88 lost connection: Disconnected
+[19:14:38] [Server thread/INFO]: Cherrybomber88 left the game
+[19:14:43] [User Authenticator #42/INFO]: UUID of player Cherrybomber88 is a02add0f-1da9-437a-84ba-6abf00ff3696
+[19:14:43] [Server thread/INFO]: Cherrybomber88[/73.149.2.147:56457] logged in with entity id 308924 at ([world]367.2506359239816, 60.0, 514.905325108778)
+[19:14:49] [Server thread/INFO]: Cherrybomber88 lost connection: Disconnected
+[19:14:49] [Server thread/INFO]: Cherrybomber88 left the game
+[19:17:21] [Server thread/INFO]: SlorseOverlord has made the advancement [Ice Bucket Challenge]
+[19:19:23] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[19:19:23] [Server thread/INFO]: benkoontz000 left the game
+[19:21:30] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[19:21:30] [Server thread/INFO]: matster1998 left the game
+[19:23:14] [Server thread/INFO]: SlorseOverlord tried to swim in lava
+[19:24:19] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[19:24:19] [Server thread/INFO]: thatnerdjack left the game
+[19:29:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d5bb7e[id=<null>,name=FangedLion,properties={},legacy=false] (/98.117.37.128:53055) lost connection: Disconnected
+[19:32:27] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[19:32:27] [Server thread/INFO]: SlorseOverlord left the game
+[19:41:16] [User Authenticator #43/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[19:41:16] [Server thread/INFO]: 1635321[/129.2.208.207:33428] logged in with entity id 313621 at ([world]-103.87751505311613, 72.0, 266.4593733936016)
+[19:45:39] [Server thread/INFO]: 1635321 issued server command: /
+[19:45:54] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:45:54] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:48:49] [Server thread/INFO]: 1635321 has made the advancement [A Terrible Fortress]
+[19:53:00] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:53:00] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:55:03] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[19:55:03] [Server thread/INFO]: 1635321 left the game
+[19:55:14] [User Authenticator #44/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[19:55:14] [Server thread/INFO]: roelanford[/216.164.58.29:50246] logged in with entity id 318306 at ([world]-175.69999998807907, 108.0, 65.01686250590902)
+[19:55:26] [Server thread/INFO]: roelanford lost connection: Disconnected
+[19:55:26] [Server thread/INFO]: roelanford left the game
+[20:06:17] [User Authenticator #45/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[20:06:17] [Server thread/INFO]: thatnerdjack[/68.134.216.48:52365] logged in with entity id 318411 at ([world]583.7416150550964, 66.0, 315.38402908691177)
+[20:06:29] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[20:06:29] [Server thread/INFO]: thatnerdjack left the game
+[20:13:47] [User Authenticator #46/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[20:13:47] [Server thread/INFO]: roelanford[/216.164.58.29:50489] logged in with entity id 318595 at ([world]-175.69999998807907, 108.0, 65.01686250590902)
