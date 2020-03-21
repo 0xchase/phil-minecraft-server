@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-21 15:14:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-18 14:28:44 -0400"
@@ -992,6 +998,7 @@
       "minecraft:creeper": "2020-03-20 13:57:12 -0400",
       "minecraft:phantom": "2020-03-19 16:22:48 -0400",
       "minecraft:zombie": "2020-03-18 16:33:03 -0400",
+      "minecraft:drowned": "2020-03-21 16:27:44 -0400",
       "minecraft:zombie_villager": "2020-03-18 17:45:13 -0400"
     },
     "done": false
@@ -1122,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-03-21 15:57:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-18 14:11:55 -0400"
@@ -1173,6 +1186,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-03-18 14:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-21 16:09:03 -0400"
     },
     "done": true
   },
@@ -1799,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-03-21 16:09:03 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-03-18 23:34:13 -0400"
@@ -1910,6 +1935,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-03-19 11:45:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-03-21 15:14:30 -0400"
     },
     "done": true
   },
