@@ -1037,6 +1037,7 @@
       "minecraft:spider": "2020-03-18 23:28:00 -0400",
       "minecraft:creeper": "2020-03-19 04:24:20 -0400",
       "minecraft:zombie": "2020-03-18 22:51:50 -0400",
+      "minecraft:drowned": "2020-03-21 16:49:35 -0400",
       "minecraft:zombie_villager": "2020-03-19 04:19:43 -0400"
     },
     "done": false
@@ -1128,6 +1129,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2020-03-20 09:57:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-03-21 16:39:47 -0400"
     },
     "done": true
   },
