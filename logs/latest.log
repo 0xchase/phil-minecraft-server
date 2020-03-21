@@ -18,3 +18,17 @@
 [06:50:14] [Server thread/INFO]: LittyBoiz[/96.255.198.177:53722] logged in with entity id 91406 at ([world]172.80743853399144, 64.0, 127.58368606313127)
 [06:51:37] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
 [06:51:37] [Server thread/INFO]: LittyBoiz left the game
+[10:37:08] [User Authenticator #41/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[10:37:08] [Server thread/INFO]: LittyBoiz[/96.255.198.177:54542] logged in with entity id 91785 at ([world]178.4262404736209, 65.0, 127.30000001192093)
+[10:39:39] [Server thread/INFO]: [GriefPrevention] Rescued LittyBoiz from a nether portal.
+Teleported from Location{world=CraftWorld{name=world_nether},x=15.5,y=63.0,z=21.3894408837549,pitch=32.474865,yaw=265.92398} to Location{world=CraftWorld{name=world},x=-0.3829571831975596,y=63.0,z=178.6105591162451,pitch=32.474865,yaw=85.92398}
+[10:44:27] [Server thread/INFO]: LittyBoiz was slain by Zombie Pigman
+[10:55:17] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed a sign @ world: x-115, z279; i am reporting;this to the vegan ;commune
+[10:58:39] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[10:58:39] [Server thread/INFO]: LittyBoiz left the game
+[12:28:42] [User Authenticator #42/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[12:28:42] [Server thread/INFO]: 1635321[/129.2.208.207:49742] logged in with entity id 94909 at ([world]-83.67799401567949, 71.9375, 276.4374001088746)
+[12:30:53] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[12:30:53] [Server thread/INFO]: 1635321 left the game
+[12:33:52] [User Authenticator #43/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[12:33:52] [Server thread/INFO]: 1635321[/129.2.208.207:49780] logged in with entity id 95338 at ([world]-96.62061452257551, 72.0, 263.4738534853465)
