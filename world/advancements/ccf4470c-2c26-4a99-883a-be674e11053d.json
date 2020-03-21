@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-03-20 05:44:35 -0400"
@@ -86,6 +92,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 22:56:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-03-21 06:42:19 -0400"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-18 23:51:23 -0400"
@@ -378,9 +396,11 @@
       "sweet_berries": "2020-03-20 05:25:09 -0400",
       "cooked_beef": "2020-03-19 04:28:13 -0400",
       "baked_potato": "2020-03-18 23:04:53 -0400",
+      "bread": "2020-03-21 06:32:01 -0400",
       "dried_kelp": "2020-03-20 10:29:07 -0400",
       "melon_slice": "2020-03-20 10:02:54 -0400",
       "beetroot": "2020-03-20 10:16:03 -0400",
+      "golden_carrot": "2020-03-21 06:44:20 -0400",
       "mushroom_stew": "2020-03-19 03:26:09 -0400",
       "carrot": "2020-03-18 22:53:46 -0400"
     },
@@ -596,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-18 23:12:47 -0400"
@@ -653,6 +679,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-03-19 04:05:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
     },
     "done": true
   },
@@ -951,6 +983,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-03-19 04:05:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-03-21 06:42:19 -0400"
     },
     "done": true
   },
@@ -1263,6 +1301,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-03-20 05:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-03-21 06:42:31 -0400"
     },
     "done": true
   },
@@ -1614,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-18 23:32:06 -0400"
@@ -1779,6 +1829,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-03-19 04:27:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-03-21 06:43:05 -0400"
     },
     "done": true
   },
