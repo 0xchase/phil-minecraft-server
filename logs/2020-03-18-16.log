@@ -1,0 +1,131 @@
+[17:42:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:42:28] [Server thread/INFO]: Loading properties
+[17:42:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:28] [Server thread/INFO]: Generating keypair
+[17:42:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:29] [Server thread/INFO]: Using epoll channel type
+[17:42:29] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[17:42:34] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[17:42:34] [Server thread/INFO]: Preparing level "world"
+[17:42:34] [Server thread/ERROR]: Exception reading ./world/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:139) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.b(SourceFile:127) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.isConvertable(SourceFile:117) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.convertWorld(MinecraftServer.java:238) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:359) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:34] [Server thread/ERROR]: Exception reading ./world/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.WorldNBTStorage.getWorldData(WorldNBTStorage.java:124) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:367) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:34] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:42:36] [Server thread/INFO]: Loaded 6 recipes
+[17:42:36] [Server thread/ERROR]: Exception reading ./world_nether/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:139) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.b(SourceFile:127) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.isConvertable(SourceFile:117) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.convertWorld(MinecraftServer.java:238) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:359) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:36] [Server thread/ERROR]: Exception reading ./world_nether/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.WorldNBTStorage.getWorldData(WorldNBTStorage.java:124) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:423) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:36] [Server thread/ERROR]: Exception reading ./world_the_end/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:139) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.b(SourceFile:127) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.isConvertable(SourceFile:117) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.convertWorld(MinecraftServer.java:238) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:359) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:36] [Server thread/ERROR]: Exception reading ./world_the_end/level.dat
+java.io.EOFException: null
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:269) ~[?:?]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:259) ~[?:?]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:80) ~[?:?]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:92) ~[?:?]
+	at net.minecraft.server.v1_15_R1.NBTCompressedStreamTools.a(SourceFile:25) ~[server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.Convertable.a(SourceFile:155) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.WorldNBTStorage.getWorldData(WorldNBTStorage.java:124) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:423) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:254) [server.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [server.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[17:42:36] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[17:42:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:42:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:42:37] [Server thread/INFO]: Time elapsed: 1038 ms
+[17:42:37] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:42:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:42:38] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[17:42:38] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:42:39] [Server-Worker-4/INFO]: Preparing spawn area: 84%
+[17:42:39] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[17:42:39] [Server thread/INFO]: Time elapsed: 2106 ms
+[17:42:39] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:42:39] [Server thread/INFO]: Preparing spawn area: 0%
+[17:42:40] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[17:42:40] [Server thread/INFO]: Time elapsed: 654 ms
+[17:42:40] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[17:42:40] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[17:42:40] [Server thread/INFO]: [GriefPrevention] 2 total claims loaded.
+[17:42:40] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[17:42:40] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[17:42:40] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[17:42:40] [Thread-10/WARN]: Failed to load player data for 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[17:42:40] [Thread-10/WARN]: Failed to load player data for 29db2775-6a4c-4549-8d35-7081d662008f
+[17:42:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:42:40] [Server thread/INFO]: Done (6.400s)! For help, type "help"
+[17:42:51] [Thread-2/INFO]: Stopping server
+[17:42:51] [Thread-2/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0

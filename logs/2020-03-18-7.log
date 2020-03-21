@@ -1,0 +1,37 @@
+[10:52:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:52:01] [Server thread/INFO]: Loading properties
+[10:52:01] [Server thread/INFO]: Default game type: SURVIVAL
+[10:52:01] [Server thread/INFO]: Generating keypair
+[10:52:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:52:01] [Server thread/INFO]: Using epoll channel type
+[10:52:02] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[10:52:02] [Server thread/INFO]: Preparing level "world"
+[10:52:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:52:06] [Server thread/INFO]: Loaded 6 recipes
+[10:52:06] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[10:52:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:08] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:52:08] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[10:52:08] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:52:08] [Server-Worker-7/INFO]: Preparing spawn area: 95%
+[10:52:09] [Server thread/INFO]: Preparing spawn area: 95%
+[10:52:09] [Server thread/INFO]: Time elapsed: 3459 ms
+[10:52:09] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[10:52:10] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:10] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[10:52:10] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:52:11] [Server-Worker-2/INFO]: Preparing spawn area: 91%
+[10:52:11] [Server thread/INFO]: Time elapsed: 1748 ms
+[10:52:11] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[10:52:11] [Server thread/INFO]: Preparing spawn area: 0%
+[10:52:12] [Server-Worker-3/INFO]: Preparing spawn area: 84%
+[10:52:12] [Server thread/INFO]: Time elapsed: 612 ms
+[10:52:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:52:12] [Server thread/INFO]: Done (10.010s)! For help, type "help"
+[10:52:13] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[10:52:15] [Server thread/INFO]: 1635321[/129.2.208.207:43000] logged in with entity id 213 at ([world]-7.544098046672288, 76.0, 139.53193917281828)
+[10:52:20] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[10:52:20] [Server thread/INFO]: 1635321 left the game
+[10:52:25] [Thread-2/INFO]: Stopping server
+[10:52:25] [Thread-2/INFO]: Saving players

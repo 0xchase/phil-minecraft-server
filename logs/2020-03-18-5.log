@@ -1,0 +1,34 @@
+[10:41:24] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:41:24] [Server thread/INFO]: Loading properties
+[10:41:24] [Server thread/INFO]: Default game type: SURVIVAL
+[10:41:24] [Server thread/INFO]: Generating keypair
+[10:41:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:41:25] [Server thread/INFO]: Using epoll channel type
+[10:41:25] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[10:41:25] [Server thread/INFO]: Preparing level "world"
+[10:41:25] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:41:29] [Server thread/INFO]: Loaded 6 recipes
+[10:41:29] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[10:41:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:32] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[10:41:32] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:41:32] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:41:32] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[10:41:33] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[10:41:33] [Server-Worker-5/INFO]: Preparing spawn area: 94%
+[10:41:34] [Server thread/INFO]: Time elapsed: 4333 ms
+[10:41:34] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[10:41:34] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:34] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[10:41:35] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[10:41:35] [Server-Worker-4/INFO]: Preparing spawn area: 94%
+[10:41:35] [Server thread/INFO]: Time elapsed: 1637 ms
+[10:41:35] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[10:41:36] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:36] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[10:41:36] [Server thread/INFO]: Time elapsed: 809 ms
+[10:41:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:41:36] [Server thread/INFO]: Done (11.154s)! For help, type "help"
+[10:41:48] [Thread-2/INFO]: Stopping server

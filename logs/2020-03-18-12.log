@@ -1,0 +1,60 @@
+[13:40:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:40:43] [Server thread/INFO]: Loading properties
+[13:40:43] [Server thread/INFO]: Default game type: SURVIVAL
+[13:40:43] [Server thread/INFO]: Generating keypair
+[13:40:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:40:44] [Server thread/INFO]: Using epoll channel type
+[13:40:44] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:40:47] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[13:40:47] [Server thread/INFO]: Preparing level "world"
+[13:40:47] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:40:49] [Server thread/INFO]: Loaded 6 recipes
+[13:40:50] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[13:40:50] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:50] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:52] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[13:40:52] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[13:40:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[13:40:52] [Server-Worker-4/INFO]: Preparing spawn area: 95%
+[13:40:53] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[13:40:53] [Server thread/INFO]: Time elapsed: 3354 ms
+[13:40:53] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[13:40:53] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:54] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[13:40:54] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[13:40:55] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[13:40:55] [Server thread/INFO]: Time elapsed: 1689 ms
+[13:40:55] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[13:40:55] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:55] [Server-Worker-5/INFO]: Preparing spawn area: 94%
+[13:40:55] [Server thread/INFO]: Time elapsed: 534 ms
+[13:40:55] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[13:40:55] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[13:40:55] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[13:40:55] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[13:40:55] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[13:40:56] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[13:40:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:40:56] [Server thread/INFO]: Done (8.238s)! For help, type "help"
+[13:41:04] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[13:41:04] [Server thread/INFO]: 1635321[/129.2.208.207:37778] logged in with entity id 201 at ([world]-9.412905865443378, 76.0, 139.7887574073479)
+[13:41:54] [Server thread/INFO]: Nothing changed. The player already is an operator
+[13:42:03] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[13:42:03] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[13:47:51] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[13:47:51] [Server thread/INFO]: 1635321 left the game
+[13:47:55] [Server thread/INFO]: Stopping the server
+[13:47:55] [Server thread/INFO]: Stopping server
+[13:47:55] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[13:47:55] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[13:47:55] [Server thread/INFO]: Saving players
+[13:47:55] [Server thread/INFO]: Saving worlds
+[13:47:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:47:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:47:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

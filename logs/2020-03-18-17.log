@@ -1,0 +1,453 @@
+[17:43:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:43:18] [Server thread/INFO]: Loading properties
+[17:43:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:43:18] [Server thread/INFO]: Generating keypair
+[17:43:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:43:18] [Server thread/INFO]: Using epoll channel type
+[17:43:19] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[17:43:22] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[17:43:22] [Server thread/INFO]: Preparing level "world"
+[17:43:22] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:43:24] [Server thread/INFO]: Loaded 6 recipes
+[17:43:24] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[17:43:25] [Server thread/INFO]: Preparing spawn area: 0%
+[17:43:25] [Server thread/INFO]: Preparing spawn area: 0%
+[17:43:25] [Server thread/INFO]: Time elapsed: 930 ms
+[17:43:25] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:43:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:43:26] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:43:26] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[17:43:27] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:43:27] [Server-Worker-4/INFO]: Preparing spawn area: 93%
+[17:43:27] [Server thread/INFO]: Time elapsed: 2241 ms
+[17:43:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:43:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:43:28] [Server-Worker-5/INFO]: Preparing spawn area: 84%
+[17:43:28] [Server thread/INFO]: Time elapsed: 633 ms
+[17:43:28] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[17:43:28] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[17:43:28] [Server thread/INFO]: [GriefPrevention] 2 total claims loaded.
+[17:43:28] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[17:43:28] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[17:43:28] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[17:43:28] [Thread-10/WARN]: Failed to load player data for 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[17:43:28] [Thread-10/WARN]: Failed to load player data for 29db2775-6a4c-4549-8d35-7081d662008f
+[17:43:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:43:28] [Server thread/INFO]: Done (6.170s)! For help, type "help"
+[17:43:36] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[17:43:37] [Server thread/INFO]: 1635321[/129.2.208.207:59198] logged in with entity id 174 at ([world]-107.8127082206048, 68.0, 261.69999998807907)
+[17:43:53] [User Authenticator #2/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[17:43:53] [Server thread/WARN]: Failed to load player data for thatnerdjack
+[17:43:53] [Server thread/INFO]: thatnerdjack[/129.2.208.60:57783] logged in with entity id 290 at ([world]-15.5, 73.0, 133.5)
+[17:44:03] [Netty Epoll Server IO #1/INFO]: <1635321> Hah sorry[m
+[17:44:09] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> lol all good[m
+[17:44:12] [Netty Epoll Server IO #1/INFO]: <1635321> Did you lose any stuff?[m
+[17:44:18] [User Authenticator #3/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[17:44:18] [Server thread/WARN]: Failed to load player data for SlorseOverlord
+[17:44:18] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:53201] logged in with entity id 393 at ([world]-8.5, 76.0, 134.5)
+[17:44:20] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> my whole inventory haha[m
+[17:44:22] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> it's ok[m
+[17:44:24] [Netty Epoll Server IO #1/INFO]: <1635321> What did you have[m
+[17:44:25] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> just wood tools[m
+[17:44:29] [Netty Epoll Server IO #5/INFO]: <SlorseOverlord> oof[m
+[17:44:30] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> don't worry about it[m
+[17:44:31] [Netty Epoll Server IO #1/INFO]: <1635321> I can give it to you[m
+[17:44:35] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> it's ok![m
+[17:44:51] [Netty Epoll Server IO #1/INFO]: <1635321> Well at least I know the backup worked[m
+[17:44:59] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> yeah that's definitely a plus[m
+[17:45:37] [Server thread/INFO]: 1635321 issued server command: /give thatnerdjack minecraft:wooden_axe 2
+[17:45:37] [Server thread/INFO]: [1635321: Gave 2 [Wooden Axe] to thatnerdjack]
+[17:45:43] [Netty Epoll Server IO #5/INFO]: <SlorseOverlord> i didnt have anything too valuable, would be nice if i could get like 10 cola back tho[m
+[17:45:44] [Server thread/INFO]: 1635321 issued server command: /give thatnerdjack minecraft:wooden_pickaxe 2
+[17:45:44] [Server thread/INFO]: [1635321: Gave 2 [Wooden Pickaxe] to thatnerdjack]
+[17:45:52] [Netty Epoll Server IO #5/INFO]: <SlorseOverlord> coal lol[m
+[17:46:00] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> thanks lol[m
+[17:46:00] [Server thread/INFO]: 1635321 issued server command: /give thatnerdjack minecraft:coal 10
+[17:46:00] [Server thread/INFO]: [1635321: Gave 10 [Coal] to thatnerdjack]
+[17:46:26] [Server thread/INFO]: SlorseOverlord has made the advancement [A Seedy Place]
+[17:47:00] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[17:47:00] [Server thread/INFO]: 1635321 left the game
+[17:47:12] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:47:13] [Server thread/INFO]: Saved the game
+[17:49:57] [Server thread/INFO]: thatnerdjack has made the advancement [Monster Hunter]
+[17:50:57] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:50:57] [Server thread/INFO]: Saved the game
+[17:52:39] [Server thread/WARN]: thatnerdjack moved wrongly!
+[17:54:29] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[17:54:29] [Server thread/INFO]: SlorseOverlord left the game
+[17:55:42] [User Authenticator #4/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[17:55:42] [Server thread/INFO]: benkoontz000[/73.133.132.224:51788] logged in with entity id 4455 at ([world]-7.5, 66.0, 122.5)
+[17:55:52] [Server thread/INFO]: thatnerdjack has made the advancement [Getting an Upgrade]
+[17:55:54] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> howdy[m
+[17:55:59] [Netty Epoll Server IO #9/INFO]: <benkoontz000> hai[m
+[17:56:08] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> how's it goin[m
+[17:56:53] [Netty Epoll Server IO #9/INFO]: <benkoontz000> okay[m
+[17:56:57] [Netty Epoll Server IO #9/INFO]: <benkoontz000> hbu?[m
+[17:57:07] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> starting to get a bit stir-crazy[m
+[17:57:22] [Netty Epoll Server IO #9/INFO]: <benkoontz000> lmao[m
+[17:57:27] [Netty Epoll Server IO #9/INFO]: <benkoontz000> your not the only one[m
+[18:00:24] [Server thread/INFO]: benkoontz000 has made the advancement [Stone Age]
+[18:00:34] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[18:00:34] [Server thread/INFO]: benkoontz000 left the game
+[18:00:45] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[18:06:43] [Server thread/INFO]: thatnerdjack was blown up by Creeper
+[18:08:38] [User Authenticator #5/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[18:08:38] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:53361] logged in with entity id 8423 at ([world]146.00393010200892, 98.0, 477.92966648976574)
+[18:08:48] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[18:25:38] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[18:38:48] [Server thread/INFO]: thatnerdjack was slain by Zombie
+[18:44:52] [Server thread/INFO]: thatnerdjack has made the advancement [Sweet Dreams]
+[18:48:21] [Server thread/INFO]: thatnerdjack has made the advancement [Acquire Hardware]
+[18:54:21] [User Authenticator #6/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[18:54:21] [Server thread/INFO]: 1635321[/129.2.208.207:59288] logged in with entity id 21485 at ([world]-102.30000001192093, 71.0, 266.30601297685314)
+[18:54:25] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> wb[m
+[18:54:28] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[18:54:28] [Server thread/INFO]: 1635321 left the game
+[19:12:40] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[19:33:37] [Server thread/INFO]: SlorseOverlord has made the advancement [Acquire Hardware]
+[19:34:43] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[19:37:07] [Server thread/INFO]: SlorseOverlord has made the advancement [Isn't It Iron Pick]
+[19:37:53] [Server thread/INFO]: SlorseOverlord has made the advancement [Suit Up]
+[19:43:22] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> finally got a ed so if you ever want to sleep just say[m
+[19:43:27] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> ay[m
+[19:43:29] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> alrighty[m
+[19:45:02] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> sleep?[m
+[19:45:10] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> 1 sec[m
+[19:45:16] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> ye[m
+[19:45:40] [Server thread/INFO]: thatnerdjack was slain by Spider
+[19:45:46] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> ready[m
+[19:50:22] [Server thread/INFO]: SlorseOverlord has made the advancement [Not Today, Thank You]
+[19:56:30] [User Authenticator #7/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[19:56:30] [Server thread/INFO]: matster1998[/10.105.186.239:57071] logged in with entity id 38506 at ([world]-15.5, 71.0, 130.5)
+[19:57:56] [Server thread/INFO]: Villager EntityVillager['Armorer'/5, l='world', x=-36.61, y=63.00, z=148.30] died, message: 'Armorer was slain by Zombie'
+[19:59:43] [Server thread/INFO]: matster1998 has made the advancement [Stone Age]
+[20:00:31] [Server thread/INFO]: matster1998 has made the advancement [Getting an Upgrade]
+[20:02:55] [Server thread/INFO]: matster1998 has made the advancement [Sweet Dreams]
+[20:07:04] [Server thread/INFO]: matster1998 has made the advancement [A Seedy Place]
+[20:11:00] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> found silverfish[m
+[20:11:05] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> woo[m
+[20:11:19] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> do they only spawn by strongholds?[m
+[20:11:24] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> nope[m
+[20:11:29] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> ok[m
+[20:17:34] [Netty Epoll Server IO #0/INFO]: <matster1998> oh no[m
+[20:17:38] [Netty Epoll Server IO #0/INFO]: <matster1998> i also found silverfish[m
+[20:17:38] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> oh no?[m
+[20:21:09] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> can silverfish spawn anywhere?[m
+[20:21:14] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> i believe so[m
+[20:21:18] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> i dont know[m
+[20:21:27] [Netty Epoll Server IO #0/INFO]: <matster1998> who is slorse overlord[m
+[20:21:33] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> who are you lmao[m
+[20:21:42] [Netty Epoll Server IO #0/INFO]: <matster1998> matt , duh[m
+[20:21:44] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> isaiah[m
+[20:21:45] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> ohh[m
+[20:21:55] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> havent been to a meeting yet lol[m
+[20:22:08] [Netty Epoll Server IO #0/INFO]: <matster1998> oh lol[m
+[20:22:21] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> ill probably drop in the vc one tommorow tho[m
+[20:22:33] [Server thread/INFO]: matster1998 has made the advancement [Acquire Hardware]
+[20:22:48] [Server thread/INFO]: matster1998 has made the advancement [Isn't It Iron Pick]
+[20:27:05] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[20:27:57] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x137, z479
+[20:30:25] [Server thread/INFO]: matster1998 was slain by Cave Spider
+[20:30:27] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> f[m
+[20:30:40] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> mine shaft?[m
+[20:30:44] [Netty Epoll Server IO #0/INFO]: <matster1998> yeah[m
+[20:30:47] [Netty Epoll Server IO #12/INFO]: <SlorseOverlord> nice[m
+[20:34:28] [Server thread/INFO]: matster1998 has made the advancement [Suit Up]
+[20:43:31] [Server thread/INFO]: matster1998 has made the advancement [Monster Hunter]
+[20:46:14] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[20:46:14] [Server thread/INFO]: thatnerdjack left the game
+[20:46:54] [Server thread/INFO]: matster1998 drowned
+[20:55:44] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[20:55:44] [Server thread/INFO]: matster1998 left the game
+[21:01:18] [Server thread/WARN]: SlorseOverlord was kicked for floating too long!
+[21:01:18] [Server thread/INFO]: SlorseOverlord lost connection: Flying is not enabled on this server
+[21:01:18] [Server thread/INFO]: SlorseOverlord left the game
+[21:01:29] [User Authenticator #8/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[21:01:29] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:53691] logged in with entity id 58529 at ([world]145.29999997466803, 98.0000002, 480.299999974668)
+[21:37:28] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[21:37:28] [Server thread/INFO]: SlorseOverlord left the game
+[21:41:40] [User Authenticator #9/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[21:41:40] [Server thread/INFO]: thatnerdjack[/129.2.208.60:58721] logged in with entity id 63247 at ([world]518.1080931733399, 70.0, 278.59458902118234)
+[21:44:58] [Server thread/INFO]: thatnerdjack has made the advancement [Suit Up]
+[21:52:50] [Server thread/INFO]: thatnerdjack has made the advancement [Isn't It Iron Pick]
+[21:56:44] [Server thread/INFO]: thatnerdjack was slain by Cave Spider
+[22:02:11] [Server thread/INFO]: thatnerdjack was slain by Cave Spider
+[22:09:48] [User Authenticator #10/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[22:09:48] [Server thread/INFO]: 1635321[/129.2.208.207:59470] logged in with entity id 67514 at ([world]-102.30000001192093, 71.0, 266.30601297685314)
+[22:09:54] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[22:09:54] [Server thread/INFO]: 1635321 left the game
+[22:12:53] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[22:14:52] [User Authenticator #11/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[22:14:52] [Server thread/INFO]: matster1998[/10.105.186.239:57571] logged in with entity id 68464 at ([world]118.57269118187776, 80.0, 322.0878411474806)
+[22:15:15] [User Authenticator #12/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[22:15:15] [Server thread/INFO]: benkoontz000[/73.133.132.224:52631] logged in with entity id 68636 at ([world]193.0977676698156, 62.0, 140.5019443170987)
+[22:15:21] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> howdy[m
+[22:15:23] [Netty Epoll Server IO #10/INFO]: <matster1998> hi[m
+[22:15:24] [Netty Epoll Server IO #11/INFO]: <benkoontz000> HAI[m
+[22:15:39] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> hows it goin[m
+[22:15:44] [Netty Epoll Server IO #11/INFO]: <benkoontz000> good[m
+[22:15:50] [Netty Epoll Server IO #11/INFO]: <benkoontz000> just wanted to see who is on here[m
+[22:15:54] [Netty Epoll Server IO #11/INFO]: <benkoontz000> going to bed[m
+[22:15:59] [Netty Epoll Server IO #11/INFO]: <benkoontz000> sleep tight[m
+[22:16:01] [Netty Epoll Server IO #10/INFO]: <matster1998> night[m
+[22:16:04] [Netty Epoll Server IO #11/INFO]: <benkoontz000> you cuties[m
+[22:16:07] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> night[m
+[22:16:07] [Netty Epoll Server IO #11/INFO]: <benkoontz000> <3[m
+[22:16:09] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> <3[m
+[22:16:27] [Netty Epoll Server IO #11/INFO]: <benkoontz000> @matt <3?[m
+[22:16:31] [Netty Epoll Server IO #10/INFO]: <matster1998> <3[m
+[22:16:36] [Netty Epoll Server IO #11/INFO]: <benkoontz000> :)[m
+[22:16:38] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[22:16:38] [Server thread/INFO]: benkoontz000 left the game
+[22:20:47] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[22:20:47] [Server thread/INFO]: matster1998 left the game
+[22:22:17] [User Authenticator #13/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[22:22:17] [Server thread/INFO]: matster1998[/10.105.186.239:57582] logged in with entity id 70397 at ([world]119.37126815800347, 80.0, 321.6229759852676)
+[22:26:23] [Server thread/INFO]: matster1998 has made the advancement [Not Today, Thank You]
+[22:29:08] [Server thread/INFO]: matster1998 has made the advancement [Hot Stuff]
+[22:31:12] [Server thread/INFO]: matster1998 has made the advancement [Diamonds!]
+[22:31:16] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ayy[m
+[22:31:21] [Netty Epoll Server IO #14/INFO]: <matster1998> :)[m
+[22:32:46] [Server thread/INFO]: Villager EntityVillager['Villager'/23, l='world', x=16.36, y=61.00, z=184.96] died, message: 'Villager was slain by Zombie'
+[22:34:50] [Netty Epoll Server IO #14/INFO]: <matster1998> 18 diamonds now[m
+[22:34:53] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how[m
+[22:34:55] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> even[m
+[22:34:58] [Netty Epoll Server IO #14/INFO]: <matster1998> in like 15 minutes lol[m
+[22:35:34] [User Authenticator #14/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[22:35:34] [Server thread/INFO]: LittyBoiz[/96.255.198.177:49502] logged in with entity id 74323 at ([world]-14.5, 69.0, 123.5)
+[22:35:36] [Netty Epoll Server IO #14/INFO]: <matster1998> 23 now[m
+[22:35:40] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how[m
+[22:35:42] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> also hi[m
+[22:35:52] [Netty Epoll Server IO #0/INFO]: [GriefPrevention] Muted pre-movement chat.
+[22:35:52] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> hey[m
+[22:35:56] [Netty Epoll Server IO #0/INFO]: [GriefPrevention] Muted repeat message.
+[22:35:56] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> hey[m
+[22:36:09] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> oh its the same map[m
+[22:36:13] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> yep[m
+[22:36:31] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> can i claim the same land again?[m
+[22:38:20] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> whatre u guys doing?[m
+[22:38:35] [Netty Epoll Server IO #14/INFO]: <matster1998> mining[m
+[22:38:38] [Netty Epoll Server IO #14/INFO]: <matster1998> now not[m
+[22:38:45] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> just trying to build a mildly better house lol[m
+[22:38:57] [Netty Epoll Server IO #14/INFO]: <matster1998> hi[m
+[22:39:14] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> someone looted all the chests[m
+[22:39:37] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> andkilled the cows[m
+[22:40:28] [Server thread/INFO]: LittyBoiz has made the advancement [A Seedy Place]
+[22:41:15] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> do we have fast tree cut?[m
+[22:41:20] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i don't think so[m
+[22:41:25] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> :([m
+[22:41:59] [Server thread/INFO]: matster1998 has made the advancement [Cover Me With Diamonds]
+[22:42:07] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> oooo[m
+[22:42:52] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> are u still part of the commune?[m
+[22:42:58] [Server thread/INFO]: LittyBoiz has made the advancement [Stone Age]
+[22:43:00] [Netty Epoll Server IO #14/INFO]: <matster1998> the commune hasn't been made yet[m
+[22:43:08] [Server thread/INFO]: LittyBoiz has made the advancement [Getting an Upgrade]
+[22:45:18] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> we have keep inv right?[m
+[22:45:21] [Server thread/INFO]: LittyBoiz has made the advancement [Sweet Dreams]
+[22:45:21] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ye[m
+[22:46:37] [Netty Epoll Server IO #14/INFO]: <matster1998> ooh 6 more[m
+[22:46:49] [User Authenticator #15/INFO]: UUID of player hammad22 is 487c185c-a0a3-4a24-9801-2f534dca24e5
+[22:46:49] [Server thread/INFO]: hammad22[/71.190.176.77:52661] logged in with entity id 78340 at ([world]-23.5, 65.0, 137.5)
+[22:47:21] [Server thread/INFO]: hammad22 has made the advancement [Sweet Dreams]
+[22:47:22] [User Authenticator #16/INFO]: UUID of player omar_swagboy is 2ad38e47-0d97-4808-a325-fe854f2c9822
+[22:47:22] [Server thread/INFO]: omar_swagboy[/76.21.247.244:58135] logged in with entity id 78639 at ([world]-23.5, 63.0, 129.5)
+[22:47:37] [Server thread/INFO]: LittyBoiz was slain by Zombie
+[22:48:10] [User Authenticator #17/INFO]: UUID of player Masudowoodo is 8610a9aa-a0fb-47b2-bfb9-a7c42b3b2aa3
+[22:48:10] [Server thread/INFO]: Masudowoodo[/100.16.220.168:56194] logged in with entity id 78959 at ([world]-15.5, 73.0, 133.5)
+[22:48:56] [Server thread/INFO]: Villager EntityVillager['Nitwit'/10, l='world', x=-37.93, y=66.00, z=143.11] died, message: 'Nitwit was slain by Zombie'
+[22:50:04] [Server thread/INFO]: hammad22 has made the advancement [Acquire Hardware]
+[22:50:09] [Server thread/INFO]: LittyBoiz was blown up by Creeper
+[22:50:34] [Server thread/INFO]: hammad22 has made the advancement [Isn't It Iron Pick]
+[22:51:06] [Server thread/INFO]: omar_swagboy has made the advancement [Sweet Dreams]
+[22:51:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/8, l='world', x=-15.18, y=65.00, z=143.34] died, message: 'Farmer was slain by Zombie'
+[22:51:39] [Server thread/INFO]: hammad22 has made the advancement [Stone Age]
+[22:51:50] [Server thread/INFO]: LittyBoiz has made the advancement [Monster Hunter]
+[22:52:04] [Server thread/INFO]: omar_swagboy has made the advancement [A Seedy Place]
+[22:52:28] [Server thread/INFO]: omar_swagboy was slain by Zombie
+[22:52:51] [Server thread/INFO]: Masudowoodo hit the ground too hard whilst trying to escape Skeleton
+[22:53:06] [Server thread/INFO]: hammad22 has made the advancement [Diamonds!]
+[22:53:13] [Server thread/INFO]: matster1998 has made the advancement [Ice Bucket Challenge]
+[22:54:15] [Server thread/INFO]: LittyBoiz was slain by Zombie
+[22:54:45] [Netty Epoll Server IO #14/INFO]: <matster1998> i just heard an explosion lol[m
+[22:54:57] [Server thread/INFO]: omar_swagboy has made the advancement [Stone Age]
+[22:55:07] [Server thread/INFO]: omar_swagboy has made the advancement [Getting an Upgrade]
+[22:55:23] [Server thread/INFO]: hammad22 was slain by Zombie
+[22:56:27] [Server thread/INFO]: thatnerdjack has made the advancement [Diamonds!]
+[22:56:36] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> finally,,,[m
+[22:56:43] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> congrats[m
+[22:56:47] [Server thread/INFO]: LittyBoiz has made the advancement [Acquire Hardware]
+[22:56:48] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ty[m
+[22:56:58] [Server thread/INFO]: omar_swagboy fell from a high place
+[22:57:13] [Server thread/INFO]: LittyBoiz has made the advancement [Isn't It Iron Pick]
+[22:58:06] [Server thread/INFO]: Masudowoodo has made the advancement [A Seedy Place]
+[22:59:16] [User Authenticator #18/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[22:59:16] [Server thread/INFO]: roelanford[/216.164.58.29:49435] logged in with entity id 84168 at ([world]-15.5, 69.0, 121.5)
+[22:59:22] [Server thread/INFO]: omar_swagboy fell from a high place
+[22:59:23] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> hi[m
+[22:59:32] [Netty Epoll Server IO #5/INFO]: [GriefPrevention] Muted pre-movement chat.
+[22:59:32] [Netty Epoll Server IO #5/INFO]: <roelanford> helloooo[m
+[22:59:56] [Server thread/INFO]: LittyBoiz was shot by Skeleton
+[23:00:38] [Server thread/INFO]: omar_swagboy has made the advancement [Diamonds!]
+[23:00:49] [Server thread/INFO]: omar_swagboy has made the advancement [Acquire Hardware]
+[23:00:49] [Server thread/INFO]: omar_swagboy has made the advancement [Suit Up]
+[23:01:01] [Netty Epoll Server IO #14/INFO]: <matster1998> umm wheres the spawn[m
+[23:01:04] [Netty Epoll Server IO #14/INFO]: <matster1998> anyone know the coords[m
+[23:01:17] [Server thread/INFO]: matster1998 issued server command: /spawn
+[23:01:17] [User Authenticator #19/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[23:01:17] [Server thread/INFO]: 1635321[/129.2.208.207:59540] logged in with entity id 85348 at ([world]-102.30000001192093, 71.0, 266.30601297685314)
+[23:01:24] [Netty Epoll Server IO #14/INFO]: <matster1998> hi[m
+[23:01:28] [Netty Epoll Server IO #14/INFO]: <matster1998> chase where is the spawn[m
+[23:01:31] [Netty Epoll Server IO #6/INFO]: <1635321> Hey[m
+[23:01:31] [Netty Epoll Server IO #14/INFO]: <matster1998> in terms of coords[m
+[23:01:32] [Netty Epoll Server IO #5/INFO]: <roelanford> -25, 63?[m
+[23:01:40] [Netty Epoll Server IO #6/INFO]: <1635321> Jump in lava to find out[m
+[23:01:44] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> oop[m
+[23:01:46] [Server thread/INFO]: matster1998 fell from a high place
+[23:01:50] [Netty Epoll Server IO #6/INFO]: <1635321> Or that[m
+[23:01:51] [Server thread/INFO]: omar_swagboy has made the advancement [Isn't It Iron Pick]
+[23:03:03] [Server thread/INFO]: thatnerdjack has made the advancement [Hot Stuff]
+[23:04:25] [Server thread/INFO]: hammad22 has made the advancement [Monster Hunter]
+[23:04:50] [Server thread/INFO]: roelanford has made the advancement [Stone Age]
+[23:05:15] [Server thread/INFO]: LittyBoiz was slain by Zombie
+[23:05:24] [Server thread/INFO]: roelanford has made the advancement [Getting an Upgrade]
+[23:05:37] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> roe[m
+[23:05:42] [Netty Epoll Server IO #5/INFO]: <roelanford> yes[m
+[23:05:45] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> do you have a quick torch i can borrow[m
+[23:05:57] [Netty Epoll Server IO #5/INFO]: <roelanford> no but i'm about to make one[m
+[23:06:04] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> youre the person down there with the crafting table right[m
+[23:06:10] [Netty Epoll Server IO #5/INFO]: <roelanford> yeah[m
+[23:06:10] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x508, z301
+[23:06:12] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x509, z301
+[23:06:39] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x510, z302
+[23:06:43] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x509, z302
+[23:07:01] [Server thread/INFO]: roelanford was shot by Skeleton
+[23:07:05] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> oh[m
+[23:07:08] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> rest in peace roe[m
+[23:07:12] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> i was coming to save you[m
+[23:07:21] [Netty Epoll Server IO #5/INFO]: <roelanford> lmaooo you take one that i've placed[m
+[23:07:26] [Netty Epoll Server IO #5/INFO]: <roelanford> aww thank you[m
+[23:07:50] [Netty Epoll Server IO #14/INFO]: <matster1998> is explosion damage off?[m
+[23:07:57] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ye[m
+[23:08:17] [Netty Epoll Server IO #5/INFO]: <roelanford> also i can move and build elsewhere[m
+[23:08:18] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> i took a torch though[m
+[23:08:20] [Server thread/INFO]: LittyBoiz has made the advancement [Suit Up]
+[23:08:23] [Server thread/INFO]: Masudowoodo has made the advancement [Monster Hunter]
+[23:08:25] [Server thread/INFO]: roelanford has made the advancement [Monster Hunter]
+[23:08:30] [Server thread/INFO]: hammad22 has made the advancement [Ice Bucket Challenge]
+[23:09:12] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x507, z302
+[23:09:15] [Server thread/INFO]: omar_swagboy has made the advancement [Ice Bucket Challenge]
+[23:09:27] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x507, z301
+[23:09:52] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x507, z302
+[23:09:55] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x508, z301
+[23:09:56] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x510, z302
+[23:09:59] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x511, z302
+[23:10:00] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x511, z302
+[23:10:01] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x506, z302
+[23:11:02] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> does anyone want potatoes?[m
+[23:11:04] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i have like[m
+[23:11:06] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> 2 stacks[m
+[23:11:15] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> yeah sure illltake some[m
+[23:11:16] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> can u putsome in a chest?[m
+[23:11:26] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> where?[m
+[23:11:38] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> near spawn? whenever u come by[m
+[23:11:41] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> kk[m
+[23:12:08] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/4, l='world', x=-87.11, y=64.12, z=198.33] died, message: 'Weaponsmith was slain by Zombie'
+[23:12:27] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x507, z302
+[23:12:29] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x510, z302
+[23:12:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x510, z303
+[23:12:33] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x506, z302
+[23:13:30] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x508, z302
+[23:13:33] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x508, z303
+[23:14:14] [Server thread/INFO]: hammad22 burned to death
+[23:14:27] [Server thread/INFO]: omar_swagboy issued server command: /givepet hammad22
+[23:14:57] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> has anyone found a swamp yet?[m
+[23:15:01] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> yeah[m
+[23:15:06] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> west of spawn[m
+[23:15:27] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious LAVA_BUCKET @ world: x509, z302
+[23:15:32] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x509, z303
+[23:17:06] [Netty Epoll Server IO #2/INFO]: <omar_swagboy> 185-11-218 Nether Portal[m
+[23:17:17] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i'm about to finish another[m
+[23:17:59] [Server thread/INFO]: hammad22 has made the advancement [We Need to Go Deeper]
+[23:18:00] [Server thread/INFO]: omar_swagboy has made the advancement [We Need to Go Deeper]
+[23:18:52] [Netty Epoll Server IO #14/INFO]: <matster1998> so many people on[m
+[23:19:14] [Netty Epoll Server IO #14/INFO]: <matster1998> why didn't yall tell me u were in discord[m
+[23:19:21] [Server thread/INFO]: Masudowoodo hit the ground too hard
+[23:20:36] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z195;VEGAN COMMUNE
+[23:20:53] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z197;FROM THIS SIDE;OF THE RIVER;TO THE MOUNTAINS;We Own This Land
+[23:21:33] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z195;Rule 1: THOU;SHALL NOT HARM;NON-HOSTILE;ANIMALS
+[23:22:11] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z196;Rule 2: THOU ;SHALL NOT ;HARVEST FROM;Non-Hostile Mobs
+[23:22:27] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z197;Rule 3: ;You must stan;contrapoints
+[23:22:30] [Server thread/INFO]: 1635321 was shot by Skeleton
+[23:22:42] [Server thread/INFO]: roelanford fell from a high place
+[23:22:45] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z195;Spiders during;the day are not;hostile 
+[23:22:59] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x64, z196;You can't ride;horses either
+[23:24:44] [Server thread/INFO]: hammad22 tried to swim in lava
+[23:25:51] [Server thread/INFO]: LittyBoiz tried to swim in lava
+[23:26:21] [Server thread/INFO]: omar_swagboy has made the advancement [A Terrible Fortress]
+[23:26:33] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/6, l='world', x=24.39, y=63.00, z=138.30] died, message: 'Leatherworker was slain by Zombie'
+[23:26:47] [Server thread/INFO]: thatnerdjack has made the advancement [We Need to Go Deeper]
+[23:27:29] [Server thread/INFO]: omar_swagboy tried to swim in lava
+[23:27:32] [Server thread/INFO]: hammad22 has made the advancement [Getting an Upgrade]
+[23:29:09] [Server thread/INFO]: LittyBoiz was shot by Skeleton
+[23:29:35] [Server thread/INFO]: thatnerdjack burned to death
+[23:29:36] [Server thread/INFO]: Masudowoodo hit the ground too hard
+[23:29:41] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> wait[m
+[23:29:47] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> my inventory just got wiped[m
+[23:30:03] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> oh no[m
+[23:30:04] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[23:30:04] [Server thread/INFO]: thatnerdjack left the game
+[23:30:06] [User Authenticator #20/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[23:30:06] [Server thread/INFO]: thatnerdjack[/129.2.208.60:59055] logged in with entity id 102648 at ([world]517.8326991853093, 70.0, 272.9257658917461)
+[23:30:10] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> shit[m
+[23:30:12] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> did u get it back[m
+[23:30:15] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> no[m
+[23:30:19] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> rip[m
+[23:30:25] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> where did you leave it[m
+[23:30:38] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> uh i drowned myself in lava to get back[m
+[23:30:40] [Netty Epoll Server IO #4/INFO]: <Masudowoodo> like did it drop or did it just get wiped[m
+[23:30:46] [Server thread/INFO]: omar_swagboy fell from a high place
+[23:30:48] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> wiped i would assume[m
+[23:30:52] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[23:30:52] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[23:30:55] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[23:30:55] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[23:31:20] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> wtf that didn't wipe it[m
+[23:32:14] [Server thread/INFO]: Villager EntityVillager['Farmer'/9, l='world', x=-47.38, y=72.00, z=108.06] died, message: 'Farmer was slain by Zombie'
+[23:32:29] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> welp[m
+[23:32:32] [Server thread/INFO]: hammad22 has made the advancement [A Terrible Fortress]
+[23:33:29] [Server thread/INFO]: Masudowoodo fell from a high place
+[23:33:54] [Server thread/INFO]: Masudowoodo lost connection: Disconnected
+[23:33:54] [Server thread/INFO]: Masudowoodo left the game
+[23:34:03] [Server thread/INFO]: omar_swagboy lost connection: Disconnected
+[23:34:03] [Server thread/INFO]: omar_swagboy left the game
+[23:34:20] [Server thread/INFO]: hammad22 was slain by Wither Skeleton
+[23:34:28] [Server thread/INFO]: hammad22 lost connection: Disconnected
+[23:34:28] [Server thread/INFO]: hammad22 left the game
+[23:37:52] [Server thread/INFO]: 1635321 issued server command: /weather clear 999999
+[23:37:52] [Server thread/INFO]: [1635321: Set the weather to clear]
+[23:37:54] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> did u get ur stuff jack?[m
+[23:37:56] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> no[m
+[23:37:59] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> it's gone[m
+[23:38:03] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> it's fine tho[m
+[23:38:05] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> did u lose much[m
+[23:38:53] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> nah not really[m
+[23:38:56] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> just iron tools[m
+[23:39:06] [Server thread/INFO]: roelanford has made the advancement [Acquire Hardware]
+[23:40:00] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> did u drop potatoes ?[m
+[23:40:04] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> yeah...[m
+[23:40:12] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> give it like 10 minutes and i'll have more[m
+[23:42:37] [Server thread/INFO]: roelanford has made the advancement [Isn't It Iron Pick]
+[23:42:48] [Server thread/INFO]: roelanford has made the advancement [Suit Up]
+[23:43:33] [Netty Epoll Server IO #14/INFO]: <matster1998> anyone see an ocean biome?[m
+[23:47:14] [Server thread/INFO]: Villager EntityVillager['Librarian'/109324, l='world', x=53.69, y=66.93, z=-954.61] died, message: 'Librarian was slain by Zombie'
+[23:47:15] [Server thread/INFO]: LittyBoiz was blown up by Creeper
+[23:47:54] [Netty Epoll Server IO #5/INFO]: <roelanford> wait who put this shit beneath me[m
+[23:48:34] [Netty Epoll Server IO #8/INFO]: <thatnerdjack> ?[m
+[23:49:08] [Netty Epoll Server IO #5/INFO]: <roelanford> wtf there was a bunch of glowstone and gold blocks below me and then they vanished[m
+[23:49:30] [Netty Epoll Server IO #6/INFO]: <1635321> That has to do with a land claiming plugin[m
+[23:49:53] [Netty Epoll Server IO #6/INFO]: <1635321> If people aren't using I might remove it but you can use a golden shovel to claim land so no one else can delete the blocks[m
+[23:49:58] [Server thread/WARN]: matster1998 moved wrongly!
+[23:50:13] [Netty Epoll Server IO #5/INFO]: <roelanford> oh okay i see[m
+[23:55:53] [Server thread/WARN]: matster1998 moved wrongly!
+[23:58:25] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[23:58:25] [Server thread/INFO]: LittyBoiz left the game

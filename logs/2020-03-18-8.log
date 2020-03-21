@@ -1,0 +1,39 @@
+[10:57:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:57:01] [Server thread/INFO]: Loading properties
+[10:57:01] [Server thread/INFO]: Default game type: SURVIVAL
+[10:57:01] [Server thread/INFO]: Generating keypair
+[10:57:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:57:01] [Server thread/INFO]: Using epoll channel type
+[10:57:01] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[10:57:02] [Server thread/INFO]: Preparing level "world"
+[10:57:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[10:57:05] [Server thread/INFO]: Loaded 6 recipes
+[10:57:05] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[10:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:08] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[10:57:08] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[10:57:08] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[10:57:08] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[10:57:08] [Server-Worker-7/INFO]: Preparing spawn area: 95%
+[10:57:09] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[10:57:09] [Server thread/INFO]: Time elapsed: 3586 ms
+[10:57:09] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[10:57:09] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:10] [Server thread/INFO]: Preparing spawn area: 64%
+[10:57:10] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:57:11] [Server-Worker-5/INFO]: Preparing spawn area: 92%
+[10:57:11] [Server thread/INFO]: Time elapsed: 1757 ms
+[10:57:11] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[10:57:11] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:11] [Server-Worker-2/INFO]: Preparing spawn area: 84%
+[10:57:11] [Server thread/INFO]: Time elapsed: 695 ms
+[10:57:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:57:12] [Server thread/INFO]: Done (9.990s)! For help, type "help"
+[10:57:12] [User Authenticator #1/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[10:57:12] [Server thread/INFO]: 1635321[/129.2.208.207:43022] logged in with entity id 213 at ([world]-9.412905865443378, 76.0, 139.7887574073479)
+[10:57:16] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[10:57:16] [Server thread/INFO]: 1635321 left the game
+[10:58:04] [User Authenticator #2/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[10:58:04] [Server thread/INFO]: thatnerdjack[/129.2.208.60:55560] logged in with entity id 214 at ([world]-21.5, 68.0, 138.5)
+[10:58:09] [Thread-2/INFO]: Stopping server
