@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-03-21 21:03:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
@@ -863,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-03-21 21:03:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-03-18 22:09:24 -0400"
@@ -1063,6 +1075,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-03-21 21:52:18 -0400",
       "minecraft:forest": "2020-03-18 17:23:43 -0400",
       "minecraft:mountains": "2020-03-18 17:46:33 -0400",
       "minecraft:taiga": "2020-03-19 21:44:02 -0400",
@@ -1079,6 +1092,7 @@
       "minecraft:wooded_mountains": "2020-03-18 17:46:39 -0400",
       "minecraft:wooded_hills": "2020-03-18 17:45:41 -0400",
       "minecraft:giant_tree_taiga_hills": "2020-03-20 14:58:47 -0400",
+      "minecraft:stone_shore": "2020-03-21 21:38:20 -0400",
       "minecraft:swamp": "2020-03-19 21:49:25 -0400",
       "minecraft:plains": "2020-03-18 17:24:49 -0400"
     },
@@ -1351,6 +1365,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-18 19:49:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-03-21 21:03:35 -0400"
     },
     "done": true
   },

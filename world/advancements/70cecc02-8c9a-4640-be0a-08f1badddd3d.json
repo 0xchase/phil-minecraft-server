@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-03-21 21:18:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-03-19 17:09:34 -0400"
@@ -545,9 +551,12 @@
       "minecraft:skeleton": "2020-03-18 23:33:38 -0400",
       "minecraft:ghast": "2020-03-19 17:55:23 -0400",
       "minecraft:spider": "2020-03-18 23:56:27 -0400",
+      "minecraft:creeper": "2020-03-21 21:27:58 -0400",
+      "minecraft:slime": "2020-03-21 21:23:11 -0400",
       "minecraft:enderman": "2020-03-18 23:37:09 -0400",
       "minecraft:zombie": "2020-03-18 23:08:25 -0400",
-      "minecraft:drowned": "2020-03-19 20:44:32 -0400"
+      "minecraft:drowned": "2020-03-19 20:44:32 -0400",
+      "minecraft:zombie_villager": "2020-03-21 21:24:14 -0400"
     },
     "done": false
   },
@@ -794,6 +803,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-03-19 18:02:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-21 21:18:51 -0400"
     },
     "done": true
   },
@@ -1049,6 +1064,7 @@
       "minecraft:forest": "2020-03-18 22:59:16 -0400",
       "minecraft:mountains": "2020-03-18 23:03:09 -0400",
       "minecraft:taiga": "2020-03-19 21:28:24 -0400",
+      "minecraft:desert_hills": "2020-03-21 21:40:44 -0400",
       "minecraft:giant_tree_taiga": "2020-03-19 21:29:00 -0400",
       "minecraft:deep_cold_ocean": "2020-03-19 20:45:54 -0400",
       "minecraft:desert": "2020-03-19 17:12:54 -0400",
@@ -1092,6 +1108,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-03-19 20:44:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-21 21:28:30 -0400"
     },
     "done": true
   },
@@ -1404,6 +1426,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2020-03-19 17:52:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-03-21 21:27:32 -0400"
     },
     "done": true
   },
@@ -2283,6 +2311,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-03-18 23:03:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-21 21:24:46 -0400"
     },
     "done": true
   },

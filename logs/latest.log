@@ -165,3 +165,44 @@ Teleported from Location{world=CraftWorld{name=world_nether},x=15.5,y=63.0,z=21.
 [20:12:42] [Server thread/INFO]: 1635321[/129.2.208.207:57690] logged in with entity id 158173 at ([world]-101.68531077460466, 72.0, 264.92243876809266)
 [20:16:57] [Server thread/INFO]: 1635321 lost connection: Disconnected
 [20:16:57] [Server thread/INFO]: 1635321 left the game
+[20:52:02] [User Authenticator #58/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[20:52:02] [Server thread/INFO]: thatnerdjack[/68.134.216.48:51556] logged in with entity id 158748 at ([world]515.9713747692731, 70.0, 288.8526239681774)
+[20:53:18] [User Authenticator #59/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[20:53:18] [Server thread/INFO]: roelanford[/216.164.58.29:56922] logged in with entity id 159038 at ([world]-156.59460145603097, 113.0, 78.24137226863348)
+[20:53:23] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> heya[m
+[20:53:29] [Netty Epoll Server IO #7/INFO]: <roelanford> hellooo[m
+[20:57:38] [Server thread/WARN]: thatnerdjack moved wrongly!
+[20:59:33] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:03:13] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:11:29] [Server thread/WARN]: roelanford moved wrongly!
+[21:11:52] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:17:12] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:18:17] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:19:43] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:20:01] [Server thread/INFO]: roelanford was slain by Spider
+[21:21:12] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:23:02] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:23:29] [Server thread/INFO]: roelanford was slain by Slime
+[21:24:46] [Server thread/INFO]: roelanford has made the advancement [Take Aim]
+[21:24:57] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:25:37] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:26:06] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:27:02] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:32:45] [Server thread/WARN]: roelanford moved wrongly!
+[21:32:56] [Server thread/WARN]: roelanford moved too quickly! -0.6982416704396428,0.0,-14.487194575532413
+[21:33:01] [Server thread/WARN]: roelanford moved too quickly! -4.211959563842072,-6.2906165855374425,-8.545381356590696
+[21:35:16] [Server thread/WARN]: roelanford moved too quickly! -9.57435350812284,-1.0,6.870150949641356
+[21:41:43] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i found a village![m
+[21:42:15] [Netty Epoll Server IO #7/INFO]: <roelanford> oh really? where?[m
+[21:42:25] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> about 1000 blocks from spawn[m
+[21:42:31] [Netty Epoll Server IO #7/INFO]: <roelanford> cool[m
+[21:42:31] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i'm mapping the area[m
+[21:49:45] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:51:31] [Server thread/WARN]: thatnerdjack moved wrongly!
+[21:54:09] [Server thread/INFO]: roelanford lost connection: Disconnected
+[21:54:09] [Server thread/INFO]: roelanford left the game
+[21:54:37] [Server thread/WARN]: thatnerdjack moved wrongly!
+[22:04:52] [Server thread/INFO]: thatnerdjack fell from a high place
+[22:17:38] [Server thread/INFO]: thatnerdjack was blown up by Creeper
+[22:19:50] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[22:19:50] [Server thread/INFO]: thatnerdjack left the game
