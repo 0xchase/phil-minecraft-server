@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-03-18 23:04:11 -0400"
@@ -212,6 +218,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2020-03-18 23:56:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
@@ -269,9 +281,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-03-21 23:04:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-03-21 23:21:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 23:39:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
@@ -462,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-03-21 23:21:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-18 23:04:50 -0400"
@@ -553,6 +589,8 @@
       "minecraft:spider": "2020-03-18 23:56:27 -0400",
       "minecraft:creeper": "2020-03-21 21:27:58 -0400",
       "minecraft:slime": "2020-03-21 21:23:11 -0400",
+      "minecraft:phantom": "2020-03-21 23:51:41 -0400",
+      "minecraft:husk": "2020-03-21 23:37:53 -0400",
       "minecraft:enderman": "2020-03-18 23:37:09 -0400",
       "minecraft:zombie": "2020-03-18 23:08:25 -0400",
       "minecraft:drowned": "2020-03-19 20:44:32 -0400",
@@ -623,6 +661,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-03-19 20:25:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
@@ -980,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-03-18 23:02:26 -0400"
@@ -1195,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-03-22 00:20:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2020-03-19 15:19:59 -0400"
@@ -1267,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-03-21 23:26:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-18 23:04:50 -0400"
@@ -1318,6 +1380,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-19 20:37:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-03-21 23:26:04 -0400"
     },
     "done": true
   },
@@ -1477,9 +1545,11 @@
       "cooked_mutton": "2020-03-18 23:12:49 -0400",
       "cooked_beef": "2020-03-18 23:06:54 -0400",
       "beef": "2020-03-19 20:26:47 -0400",
+      "spider_eye": "2020-03-21 23:11:04 -0400",
       "mutton": "2020-03-18 23:06:25 -0400",
       "bread": "2020-03-19 17:19:01 -0400",
       "rotten_flesh": "2020-03-18 22:59:54 -0400",
+      "salmon": "2020-03-21 23:35:14 -0400",
       "cooked_chicken": "2020-03-19 16:11:58 -0400",
       "cooked_salmon": "2020-03-19 21:42:20 -0400",
       "carrot": "2020-03-19 19:04:32 -0400"
@@ -1786,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-21 23:04:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-19 00:33:45 -0400"
@@ -1852,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-03-19 12:47:33 -0400"
@@ -1879,6 +1961,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-18 23:03:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
@@ -2062,6 +2150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-03-22 00:20:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-03-18 23:03:48 -0400"
@@ -2230,6 +2324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-03-21 23:21:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-03-19 12:47:33 -0400"
@@ -2269,6 +2369,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2020-03-19 17:52:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
@@ -2419,6 +2525,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-03-18 23:04:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-21 23:05:05 -0400"
     },
     "done": true
   },
