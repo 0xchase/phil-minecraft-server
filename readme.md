@@ -4,20 +4,14 @@ Repository and backup for the club server
 
 ---
 
-## Todo Admin:
- - Setup gamerules
- - Setup plugins (claim land, no building/deleting, can steal stuff)
- - Setup spawn point, list rules
- - Keep only certain items on death (weapons, armor)
- - Keep levels when killed by PvP
- - Command blocks enabled, command block output false
-
 ## Todo Game:
  - Get horse
+ - Build replica of lounge
+ - Build mob arena
+ - Build PvP arena
  - House animal farms
    - Automatic chicken farm
    - Automatic pig farm
- - Make infinity bow
  - Go on exploring adventure
    - Get 30 enchanting XP on each travel, make maps in each direction
    - On each return trip, enchant new thing
@@ -29,6 +23,8 @@ Repository and backup for the club server
    - Underground, walls of obsidian
    - Tunnel entrance, button will dispense lava briefly
    - Exterior is covered with lava. Source block on top is covered with obsidian platform, with more lava on top
+ - Prison trap
+   - Drops person into tunnel, dumps lava into room to force people into jail
  - Trapped chest in chest room, makes floor open up
  - Nether portal
  - Defeat the ender dragon
