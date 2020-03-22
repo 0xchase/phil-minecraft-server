@@ -221,3 +221,13 @@
 [16:23:24] [Server thread/INFO]: Jackamonga[/10.104.149.178:62820] logged in with entity id 356366 at ([world]237.7066591818064, 64.0, -756.3665477449701)
 [16:26:07] [User Authenticator #77/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
 [16:26:08] [Server thread/INFO]: 1635321[/10.105.131.8:55847] logged in with entity id 357072 at ([world]-100.11450064021179, 72.0, 260.3266803323653)
+[16:30:17] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[16:30:17] [Server thread/INFO]: 1635321 left the game
+[16:58:27] [Server thread/INFO]: Jackamonga drowned
+[17:13:05] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[17:13:05] [Server thread/INFO]: Jackamonga left the game
+[17:53:35] [User Authenticator #78/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
+[17:53:35] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:50461] logged in with entity id 365802 at ([world]-15.5, 73.0, 135.5)
+[17:57:29] [Server thread/INFO]: CrazyOldTree was slain by Spider
+[17:57:33] [Server thread/INFO]: CrazyOldTree lost connection: Disconnected
+[17:57:33] [Server thread/INFO]: CrazyOldTree left the game

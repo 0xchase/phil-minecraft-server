@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-03-22 17:57:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-22 17:53:59 -0400",
+      "minecraft:river": "2020-03-22 17:53:35 -0400",
+      "minecraft:plains": "2020-03-22 17:57:06 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
