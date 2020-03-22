@@ -584,6 +584,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-03-22 00:42:50 -0400",
       "minecraft:skeleton": "2020-03-18 23:33:38 -0400",
       "minecraft:ghast": "2020-03-19 17:55:23 -0400",
       "minecraft:spider": "2020-03-18 23:56:27 -0400",
@@ -679,6 +680,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-18 23:03:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-03-22 00:42:50 -0400"
     },
     "done": true
   },
