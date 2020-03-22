@@ -211,3 +211,13 @@
 [14:10:09] [Netty Epoll Server IO #14/INFO]: <benkoontz000> peace[m
 [14:10:09] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
 [14:10:09] [Server thread/INFO]: thatnerdjack left the game
+[14:35:55] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[14:35:55] [Server thread/INFO]: benkoontz000 left the game
+[15:33:54] [User Authenticator #75/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[15:33:55] [Server thread/INFO]: Jackamonga[/10.104.149.178:62741] logged in with entity id 348600 at ([world]270.0730269338459, 64.0, -803.2187428189114)
+[16:21:14] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[16:21:14] [Server thread/INFO]: Jackamonga left the game
+[16:23:24] [User Authenticator #76/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[16:23:24] [Server thread/INFO]: Jackamonga[/10.104.149.178:62820] logged in with entity id 356366 at ([world]237.7066591818064, 64.0, -756.3665477449701)
+[16:26:07] [User Authenticator #77/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[16:26:08] [Server thread/INFO]: 1635321[/10.105.131.8:55847] logged in with entity id 357072 at ([world]-100.11450064021179, 72.0, 260.3266803323653)
