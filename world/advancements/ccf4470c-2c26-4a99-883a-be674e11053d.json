@@ -517,6 +517,7 @@
       "minecraft:magma_cube": "2020-03-22 09:32:39 -0400",
       "minecraft:spider": "2020-03-18 23:28:00 -0400",
       "minecraft:creeper": "2020-03-19 04:24:20 -0400",
+      "minecraft:slime": "2020-03-22 12:18:25 -0400",
       "minecraft:zombie": "2020-03-18 22:51:50 -0400",
       "minecraft:drowned": "2020-03-21 16:49:35 -0400",
       "minecraft:zombie_villager": "2020-03-19 04:19:43 -0400"
@@ -928,6 +929,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-03-18 23:08:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-03-22 12:18:34 -0400"
     },
     "done": true
   },
@@ -1414,6 +1421,7 @@
       "melon_slice": "2020-03-20 10:02:54 -0400",
       "beetroot": "2020-03-20 10:16:03 -0400",
       "golden_carrot": "2020-03-21 06:44:20 -0400",
+      "cooked_chicken": "2020-03-22 12:17:04 -0400",
       "mushroom_stew": "2020-03-19 03:26:09 -0400",
       "carrot": "2020-03-18 22:53:46 -0400"
     },
@@ -1560,6 +1568,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2020-03-19 04:17:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-22 12:21:56 -0400"
     },
     "done": true
   },
@@ -1863,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-03-22 12:18:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-03-21 06:25:31 -0400"
@@ -2130,6 +2150,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-03-22 02:29:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-03-22 12:18:34 -0400"
     },
     "done": true
   },
