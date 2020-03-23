@@ -381,3 +381,102 @@
 [14:19:49] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> ok[m
 [14:29:26] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-1095, z667
 [14:31:11] [Server thread/INFO]: Villager EntityVillager['Nitwit'/507421, l='world', x=-1056.83, y=55.00, z=715.23] died, message: 'Nitwit was slain by Zombie'
+[14:32:35] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-1084, z688
+[14:42:21] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[14:42:21] [Server thread/INFO]: LittyBoiz left the game
+[14:43:30] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[14:43:30] [Server thread/INFO]: thatnerdjack left the game
+[14:45:35] [User Authenticator #99/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[14:45:35] [Server thread/INFO]: Jackamonga[/10.104.149.178:50468] logged in with entity id 513772 at ([world]324.3401559715586, 63.0, -853.1217783057207)
+[14:49:08] [Server thread/INFO]: [GriefPrevention] Jackamonga placed suspicious WATER_BUCKET @ world: x258, z-882
+[14:51:18] [User Authenticator #100/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[14:51:18] [Server thread/INFO]: LittyBoiz[/96.255.198.177:59524] logged in with entity id 514815 at ([world]-1054.0245599172135, 54.0, 714.6358559998848)
+[14:57:03] [Server thread/INFO]: LittyBoiz was pricked to death
+[15:01:55] [User Authenticator #101/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[15:01:55] [Server thread/INFO]: roelanford[/216.164.58.29:61602] logged in with entity id 518364 at ([world]354.56029332175495, 63.0, 100.70115022358694)
+[15:03:02] [Server thread/WARN]: Jackamonga moved wrongly!
+[15:11:07] [Server thread/INFO]: [GriefPrevention] Jackamonga placed suspicious WATER_BUCKET @ world: x314, z-927
+[15:15:41] [Server thread/INFO]: Jackamonga has made the advancement [What a Deal!]
+[15:15:53] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> yo[m
+[15:15:59] [Netty Epoll Server IO #0/INFO]: <Jackamonga> sup[m
+[15:16:33] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> selling power 3 bow, name your price[m
+[15:17:00] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> if interested[m
+[15:17:01] [Netty Epoll Server IO #0/INFO]: <Jackamonga> lmao I don't even remember what the enchantments mean tbh[m
+[15:17:22] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> power increases damage done[m
+[15:17:33] [Netty Epoll Server IO #0/INFO]: <Jackamonga> I'm not very far though so probably not now[m
+[15:18:00] [Server thread/INFO]: roelanford has made the advancement [What a Deal!]
+[15:18:14] [Netty Epoll Server IO #0/INFO]: <Jackamonga> oh my gahd twinsies[m
+[15:20:12] [Server thread/INFO]: roelanford has made the advancement [Best Friends Forever]
+[15:20:45] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> ok so i am stuck[m
+[15:20:49] [Server thread/INFO]: Jackamonga has made the advancement [Best Friends Forever]
+[15:20:50] [Server thread/INFO]: LittyBoiz issued server command: /trapped
+[15:20:56] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> nvm[m
+[15:21:06] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> landclaim is annoying[m
+[15:21:32] [Server thread/WARN]: roelanford moved wrongly!
+[15:22:04] [Server thread/INFO]: LittyBoiz issued server command: /trapped
+[15:22:14] [Server thread/INFO]: [GriefPrevention] Rescued trapped player LittyBoiz from world: x-735, z788 to world: x-740, z776.
+[15:24:52] [Server thread/INFO]: LittyBoiz was slain by Enderman
+[15:25:55] [Server thread/INFO]: Jackamonga was shot by Skeleton
+[15:26:28] [Server thread/INFO]: roelanford was slain by Drowned
+[15:26:37] [Netty Epoll Server IO #0/INFO]: <Jackamonga> damn we suck lol[m
+[15:26:58] [Netty Epoll Server IO #4/INFO]: <roelanford> lmao hip[m
+[15:39:37] [Server thread/INFO]: roelanford has made the advancement [A Terrible Fortress]
+[15:39:54] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> how do u get that[m
+[15:40:14] [Netty Epoll Server IO #4/INFO]: <roelanford> someone found a fortress in the nether a built a path to it[m
+[15:40:52] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> btw keep inv doesnt work in the nether if u die in nether, you die irl[m
+[15:41:06] [Netty Epoll Server IO #4/INFO]: <roelanford> yeah i'm hip thanks[m
+[15:41:15] [Netty Epoll Server IO #0/INFO]: <Jackamonga> oh shit I want to die in the nether[m
+[15:41:22] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> ben lost some good shit today[m
+[15:41:22] [Netty Epoll Server IO #0/INFO]: <Jackamonga> whos got a portal[m
+[15:41:24] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> it was sad[m
+[15:41:28] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> there is a portal in spawn[m
+[15:42:09] [Server thread/WARN]: Jackamonga moved wrongly!
+[15:42:37] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> sleep?[m
+[15:42:47] [Server thread/INFO]: roelanford was slain by Zombie
+[15:42:51] [Netty Epoll Server IO #4/INFO]: <roelanford> sure[m
+[15:43:07] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> squaa[m
+[15:46:12] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> when do classes start?[m
+[15:48:05] [Netty Epoll Server IO #0/INFO]: <Jackamonga> next monday[m
+[15:48:27] [Netty Epoll Server IO #0/INFO]: <Jackamonga> I realized how much stuff I have due soon[m
+[15:48:34] [Netty Epoll Server IO #0/INFO]: <Jackamonga> I'm so fucked lol[m
+[15:49:09] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> f[m
+[15:49:19] [Netty Epoll Server IO #0/INFO]: <Jackamonga> thank you sir[m
+[15:49:35] [Netty Epoll Server IO #0/INFO]: <Jackamonga> I'm ignoring my problems by playing minecraft[m
+[15:49:50] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> mood[m
+[15:50:08] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> two of my favorite pasttimes[m
+[15:52:26] [Server thread/INFO]: roelanford has made the advancement [Into Fire]
+[15:52:59] [Server thread/INFO]: LittyBoiz was blown up by Creeper
+[15:53:02] [Netty Epoll Server IO #2/INFO]: <LittyBoiz> f[m
+[15:53:03] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[15:53:03] [Server thread/INFO]: LittyBoiz left the game
+[15:53:09] [Server thread/INFO]: roelanford was slain by Wither Skeleton
+[15:53:51] [Server thread/WARN]: Jackamonga moved wrongly!
+[15:56:53] [Server thread/INFO]: roelanford was slain by Wither Skeleton
+[15:57:43] [Server thread/INFO]: Jackamonga was slain by Enderman
+[15:58:11] [User Authenticator #102/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[15:58:12] [Server thread/INFO]: benkoontz000[/73.133.132.224:62680] logged in with entity id 543894 at ([world]-735.700000025332, 103.0000002, 794.299999974668)
+[15:58:24] [Netty Epoll Server IO #0/INFO]: <Jackamonga> sup daddy[m
+[15:58:29] [Netty Epoll Server IO #7/INFO]: <benkoontz000> LICK[m
+[16:00:08] [User Authenticator #103/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[16:00:08] [Server thread/INFO]: thatnerdjack[/68.134.216.48:65529] logged in with entity id 544821 at ([world]606.3000000119209, 43.0, 314.30000001192093)
+[16:00:13] [Netty Epoll Server IO #9/INFO]: <thatnerdjack> howdy[m
+[16:02:01] [Server thread/WARN]: Boat moved wrongly!
+[16:02:01] [Server thread/WARN]: Boat moved wrongly!
+[16:02:01] [Server thread/WARN]: Boat moved wrongly!
+[16:02:01] [Server thread/WARN]: Boat moved wrongly!
+[16:02:05] [Server thread/WARN]: Jackamonga moved wrongly!
+[16:05:46] [Server thread/INFO]: Jackamonga lost connection: Timed out
+[16:05:46] [Server thread/INFO]: Jackamonga left the game
+[16:06:18] [User Authenticator #104/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[16:06:18] [Server thread/INFO]: Jackamonga[/10.104.149.178:50560] logged in with entity id 548560 at ([world]314.40550511029625, 63.0, -775.9226747967161)
+[16:07:43] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[16:07:43] [Server thread/INFO]: benkoontz000 left the game
+[16:08:37] [Server thread/WARN]: roelanford moved wrongly!
+[16:09:15] [User Authenticator #105/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[16:09:15] [Server thread/INFO]: benkoontz000[/73.133.132.224:49964] logged in with entity id 550260 at ([world_nether]-130.45503695570335, 87.0, 297.3370763372981)
+[16:09:39] [Server thread/INFO]: roelanford was shot by Skeleton
+[16:15:37] [Server thread/INFO]: thatnerdjack fell from a high place
+[16:15:37] [Server thread/INFO]: roelanford lost connection: Disconnected
+[16:15:37] [Server thread/INFO]: roelanford left the game
+[16:19:17] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[16:19:17] [Server thread/INFO]: Jackamonga left the game
