@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-03-23 03:09:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-03-18 23:44:41 -0400"
@@ -1201,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-03-23 03:25:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2020-03-20 05:51:30 -0400"
@@ -1264,6 +1276,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2020-03-20 05:51:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-03-23 03:25:47 -0400"
     },
     "done": true
   },
@@ -1425,6 +1443,7 @@
       "golden_carrot": "2020-03-21 06:44:20 -0400",
       "cooked_chicken": "2020-03-22 12:17:04 -0400",
       "mushroom_stew": "2020-03-19 03:26:09 -0400",
+      "cooked_salmon": "2020-03-23 03:31:42 -0400",
       "carrot": "2020-03-18 22:53:46 -0400"
     },
     "done": false
