@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 18:48:21 -0400"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-18 18:35:07 -0400"
@@ -599,6 +611,7 @@
       "minecraft:slime": "2020-03-19 21:49:49 -0400",
       "minecraft:phantom": "2020-03-21 16:49:08 -0400",
       "minecraft:witch": "2020-03-19 16:53:07 -0400",
+      "minecraft:husk": "2020-03-22 20:02:11 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
       "minecraft:zombie": "2020-03-18 18:12:48 -0400",
       "minecraft:drowned": "2020-03-20 15:05:43 -0400",
@@ -810,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-03-18 18:21:44 -0400"
@@ -861,6 +880,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-19 16:36:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-03-22 19:57:49 -0400"
     },
     "done": true
   },
@@ -1110,11 +1135,15 @@
       "minecraft:forest": "2020-03-18 17:23:43 -0400",
       "minecraft:mountains": "2020-03-18 17:46:33 -0400",
       "minecraft:taiga": "2020-03-19 21:44:02 -0400",
+      "minecraft:desert_hills": "2020-03-22 20:13:48 -0400",
       "minecraft:giant_tree_taiga": "2020-03-20 14:58:35 -0400",
+      "minecraft:deep_cold_ocean": "2020-03-22 19:59:34 -0400",
       "minecraft:taiga_hills": "2020-03-18 18:06:41 -0400",
+      "minecraft:desert": "2020-03-22 19:56:16 -0400",
       "minecraft:birch_forest": "2020-03-18 17:51:20 -0400",
       "minecraft:warm_ocean": "2020-03-20 15:14:11 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-03-19 21:47:57 -0400",
+      "minecraft:savanna_plateau": "2020-03-22 20:16:20 -0400",
       "minecraft:beach": "2020-03-19 21:45:45 -0400",
       "minecraft:dark_forest": "2020-03-18 17:24:46 -0400",
       "minecraft:river": "2020-03-18 10:58:04 -0400",
@@ -1125,6 +1154,7 @@
       "minecraft:giant_tree_taiga_hills": "2020-03-20 14:58:47 -0400",
       "minecraft:stone_shore": "2020-03-21 21:38:20 -0400",
       "minecraft:swamp": "2020-03-19 21:49:25 -0400",
+      "minecraft:savanna": "2020-03-22 19:57:39 -0400",
       "minecraft:plains": "2020-03-18 17:24:49 -0400"
     },
     "done": false
@@ -1279,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-18 19:52:16 -0400"
@@ -1354,6 +1390,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2020-03-19 00:02:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
     },
     "done": true
   },
@@ -1438,6 +1480,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-03-18 23:26:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-03-22 19:56:25 -0400"
     },
     "done": true
   },
@@ -1795,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-03-19 21:31:49 -0400"
@@ -1936,6 +1990,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2020-03-21 16:37:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
     },
     "done": true
   },
@@ -2287,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-03-18 17:46:00 -0400"
@@ -2383,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-22 19:58:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-18 17:29:02 -0400"
@@ -2428,6 +2500,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-20 14:53:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2020-03-22 19:57:49 -0400"
     },
     "done": true
   },
