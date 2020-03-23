@@ -619,6 +619,7 @@
       "minecraft:witch": "2020-03-19 16:53:07 -0400",
       "minecraft:husk": "2020-03-22 20:02:11 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
+      "minecraft:enderman": "2020-03-23 14:18:27 -0400",
       "minecraft:zombie": "2020-03-18 18:12:48 -0400",
       "minecraft:drowned": "2020-03-20 15:05:43 -0400",
       "minecraft:zombie_villager": "2020-03-18 23:49:44 -0400"
@@ -628,6 +629,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-19 21:45:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-23 13:08:18 -0400"
     },
     "done": true
   },
@@ -1703,6 +1710,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2020-03-19 21:56:14 -0400",
+      "cooked_beef": "2020-03-23 13:20:45 -0400",
       "baked_potato": "2020-03-18 22:50:47 -0400",
       "beef": "2020-03-22 20:36:11 -0400",
       "apple": "2020-03-18 19:01:20 -0400",
@@ -1886,6 +1894,12 @@
       "has_sand": "2020-03-18 19:49:36 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-03-23 13:32:20 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2196,6 +2210,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-03-23 13:45:09 -0400"
     },
     "done": true
   },
@@ -2725,6 +2745,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-18 18:15:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-03-23 13:32:20 -0400"
     },
     "done": true
   },

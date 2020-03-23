@@ -157,3 +157,227 @@
 [12:11:16] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
 [12:11:16] [Server thread/INFO]: benkoontz000 left the game
 [12:11:19] [Server thread/INFO]: roelanford was shot by Skeleton
+[12:35:16] [Server thread/INFO]: roelanford was shot by Skeleton
+[12:44:46] [Server thread/INFO]: roelanford fell from a high place
+[12:56:26] [User Authenticator #91/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[12:56:26] [Server thread/INFO]: LittyBoiz[/96.255.198.177:59233] logged in with entity id 473566 at ([world]206.32537719820112, 99.0, 136.89556031293205)
+[12:56:39] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> hello[m
+[12:56:48] [Netty Epoll Server IO #9/INFO]: <roelanford> hiya[m
+[12:56:59] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> what's new in the hood[m
+[12:57:09] [Netty Epoll Server IO #9/INFO]: <roelanford> planting flowers[m
+[12:58:18] [Server thread/WARN]: LittyBoiz moved wrongly!
+[12:58:40] [User Authenticator #92/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[12:58:40] [Server thread/INFO]: benkoontz000[/73.133.132.224:61178] logged in with entity id 474071 at ([world]-732.4619350286374, 103.0, 806.0300884230796)
+[12:58:47] [Netty Epoll Server IO #14/INFO]: <benkoontz000> hai all[m
+[12:58:53] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> yo[m
+[13:00:38] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> purchasing a stack of arrows, anyone interested?[m
+[13:00:55] [Netty Epoll Server IO #14/INFO]: <benkoontz000> what are you offering[m
+[13:00:57] [Netty Epoll Server IO #14/INFO]: <benkoontz000> ?[m
+[13:01:00] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> market price[m
+[13:01:01] [Netty Epoll Server IO #14/INFO]: <benkoontz000> I will sell[m
+[13:01:11] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> name your price[m
+[13:01:18] [Netty Epoll Server IO #14/INFO]: <benkoontz000> 1 diamond[m
+[13:01:22] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> bet[m
+[13:02:21] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> oh shit what's up[m
+[13:02:25] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> people are online[m
+[13:02:25] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> meet me at the chicago stock exchange[m
+[13:02:34] [Netty Epoll Server IO #14/INFO]: <benkoontz000> come to -700,800 to make trade[m
+[13:02:52] [Server thread/INFO]: roelanford lost connection: Disconnected
+[13:02:52] [Server thread/INFO]: roelanford left the game
+[13:02:56] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> anyone want to start on that coliseum rn?[m
+[13:03:31] [Netty Epoll Server IO #14/INFO]: <benkoontz000> at some point[m
+[13:04:54] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> ok but jut to be clear, it's 64 arrows to me, not at me[m
+[13:05:00] [Netty Epoll Server IO #14/INFO]: <benkoontz000> Fine[m
+[13:05:05] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> lol[m
+[13:05:21] [Server thread/WARN]: LittyBoiz moved wrongly!
+[13:06:02] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> does the river at spawn take me there?[m
+[13:06:07] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> or is walking the best way[m
+[13:06:14] [Netty Epoll Server IO #14/INFO]: <benkoontz000> im not sure[m
+[13:06:30] [Server thread/WARN]: benkoontz000 moved wrongly!
+[13:06:33] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> otw[m
+[13:08:18] [Server thread/INFO]: thatnerdjack has made the advancement [Enchanter]
+[13:08:22] [Netty Epoll Server IO #14/INFO]: <benkoontz000> yay[m
+[13:08:28] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> woo[m
+[13:08:35] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> diamond pick w unbreaking iii[m
+[13:08:42] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> bruh moment[m
+[13:08:43] [Netty Epoll Server IO #14/INFO]: <benkoontz000> :)[m
+[13:08:49] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> party[m
+[13:09:18] [Netty Epoll Server IO #14/INFO]: <benkoontz000> sleep?[m
+[13:09:22] [Netty Epoll Server IO #14/INFO]: <benkoontz000> or log off?[m
+[13:09:24] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> i can log[m
+[13:09:30] [Netty Epoll Server IO #14/INFO]: <benkoontz000> in bed[m
+[13:09:32] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[13:09:32] [Server thread/INFO]: LittyBoiz left the game
+[13:09:33] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> same[m
+[13:09:54] [Server thread/INFO]: benkoontz000 has made the advancement [We Need to Go Deeper]
+[13:09:59] [User Authenticator #93/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[13:10:00] [Server thread/INFO]: LittyBoiz[/96.255.198.177:59251] logged in with entity id 478646 at ([world]-448.8796477578586, 66.0, 515.3040248503386)
+[13:10:12] [Netty Epoll Server IO #14/INFO]: <benkoontz000> fuck[m
+[13:10:28] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> whatup[m
+[13:10:32] [Netty Epoll Server IO #14/INFO]: <benkoontz000> the portal took me to spawn @gaurav[m
+[13:10:56] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> ok ill be there[m
+[13:12:25] [Server thread/INFO]: LittyBoiz fell from a high place
+[13:12:38] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> wya[m
+[13:12:48] [Netty Epoll Server IO #14/INFO]: <benkoontz000> trapped inside Matt's[m
+[13:12:54] [Server thread/INFO]: benkoontz000 issued server command: /trapped
+[13:12:55] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> u see the prank?[m
+[13:13:00] [Netty Epoll Server IO #14/INFO]: <benkoontz000> yee[m
+[13:13:04] [Server thread/INFO]: [GriefPrevention] Rescued trapped player benkoontz000 from world: x78, z171 to world: x74, z151.
+[13:13:09] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> i got the door[m
+[13:13:56] [Netty Epoll Server IO #14/INFO]: <benkoontz000> no death message?[m
+[13:14:05] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> ?[m
+[13:14:16] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> it said you killed me[m
+[13:14:19] [Netty Epoll Server IO #14/INFO]: <benkoontz000> oh[m
+[13:14:29] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> drop the arrows[m
+[13:14:32] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> i will drop my diamond[m
+[13:14:54] [Server thread/INFO]: benkoontz000 was shot by LittyBoiz
+[13:15:00] [Netty Epoll Server IO #14/INFO]: <benkoontz000> lol[m
+[13:15:13] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> i hope u didnt spawn all the way back[m
+[13:15:54] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> what is that bow[m
+[13:16:01] [Server thread/INFO]: LittyBoiz was shot by benkoontz000 using [Ping*]
+[13:16:12] [Netty Epoll Server IO #14/INFO]: <benkoontz000> power V[m
+[13:16:18] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> BRUH[m
+[13:16:34] [Netty Epoll Server IO #14/INFO]: <benkoontz000> drop the diamond and ill give you the other half of the stack[m
+[13:16:36] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> gun control headass[m
+[13:16:43] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> i was going o[m
+[13:17:39] [Netty Epoll Server IO #14/INFO]: <benkoontz000> show me the builds[m
+[13:17:45] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> what builds?[m
+[13:17:48] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> wait what builds?[m
+[13:17:52] [Netty Epoll Server IO #14/INFO]: <benkoontz000> just stuff near spawn[m
+[13:17:59] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> there is nothing[m
+[13:18:01] [Netty Epoll Server IO #14/INFO]: <benkoontz000> I havent been here forever[m
+[13:18:02] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> there's nothin other than the vegan commune[m
+[13:18:03] [Netty Epoll Server IO #14/INFO]: <benkoontz000> rip[m
+[13:18:07] [User Authenticator #94/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
+[13:18:07] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:53573] logged in with entity id 481605 at ([world]-33.69999998807907, 63.0, 170.7611153610723)
+[13:18:08] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> and a few chests with stone in them[m
+[13:18:12] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> hello?[m
+[13:18:13] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> yea map restart[m
+[13:18:19] [Netty Epoll Server IO #14/INFO]: <benkoontz000> hai @jack[m
+[13:18:22] [Netty Epoll Server IO #14/INFO]: <benkoontz000> hai Eya[m
+[13:18:25] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> i had buitl a small arena that got yeeted[m
+[13:18:40] [Netty Epoll Server IO #14/INFO]: <benkoontz000> what does your gear have on it?[m
+[13:18:45] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> nothing[m
+[13:18:52] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> sword has sharp 2[m
+[13:19:11] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> bruh dont shoot at eya[m
+[13:19:21] [Server thread/INFO]: [GriefPrevention] benkoontz000 placed suspicious WATER_BUCKET @ world: x9, z238
+[13:19:40] [Server thread/INFO]: CrazyOldTree was slain by benkoontz000
+[13:19:43] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> :([m
+[13:20:05] [Server thread/INFO]: LittyBoiz was slain by benkoontz000
+[13:20:11] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> what does ur sword have[m
+[13:20:24] [Netty Epoll Server IO #14/INFO]: <benkoontz000> sharpness 3[m
+[13:20:35] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> knife control[m
+[13:20:47] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> we need a municipial government up in the joint[m
+[13:20:58] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> rules and regulations headass[m
+[13:21:05] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> how do we enforce tho lol[m
+[13:21:21] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> we need a municipial milita[m
+[13:21:31] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> do we tho[m
+[13:21:36] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> municipial govt would also build infrastructure[m
+[13:21:58] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> a series of dedicated individuals could do that as well[m
+[13:22:21] [Netty Epoll Server IO #14/INFO]: <benkoontz000> I volunteer to be the soviern[m
+[13:22:32] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> you dont volunteer[m
+[13:22:35] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> you just be[m
+[13:23:03] [Server thread/INFO]: CrazyOldTree was shot by Skeleton
+[13:23:21] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> dude how did u get power v so fast[m
+[13:24:14] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[13:24:14] [Server thread/INFO]: LittyBoiz left the game
+[13:25:21] [Server thread/INFO]: CrazyOldTree has made the advancement [Sweet Dreams]
+[13:25:26] [Netty Epoll Server IO #14/INFO]: <benkoontz000> awww[m
+[13:25:34] [Netty Epoll Server IO #14/INFO]: <benkoontz000> look at Eya doing shit[m
+[13:25:38] [Netty Epoll Server IO #14/INFO]: <benkoontz000> im in bed too[m
+[13:25:43] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> 1sec[m
+[13:27:37] [Server thread/INFO]: CrazyOldTree was shot by Skeleton
+[13:27:58] [User Authenticator #95/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[13:27:58] [Netty Epoll Server IO #14/INFO]: <benkoontz000> crazyoldtree is my mom FYI lol[m
+[13:27:58] [Server thread/INFO]: LittyBoiz[/96.255.198.177:59341] logged in with entity id 485506 at ([world]79.95321861498465, 64.0, 142.40107816456313)
+[13:28:24] [Netty Epoll Server IO #2/INFO]: <CrazyOldTree> I didnt think the skeletons came out in the day[m
+[13:28:30] [Netty Epoll Server IO #14/INFO]: <benkoontz000> they dont[m
+[13:28:40] [Netty Epoll Server IO #14/INFO]: <benkoontz000> but can survive the nights if they avoid the sun[m
+[13:28:52] [Netty Epoll Server IO #2/INFO]: <CrazyOldTree> one just killed me[m
+[13:29:07] [Netty Epoll Server IO #14/INFO]: <benkoontz000> see last message[m
+[13:29:25] [Netty Epoll Server IO #2/INFO]: <CrazyOldTree> oh :([m
+[13:32:20] [Server thread/INFO]: thatnerdjack has made the advancement [The Parrots and the Bats]
+[13:32:43] [Netty Epoll Server IO #14/INFO]: <benkoontz000> oh my[m
+[13:34:14] [Server thread/INFO]: CrazyOldTree has made the advancement [Stone Age]
+[13:36:33] [Netty Epoll Server IO #14/INFO]: <benkoontz000> brb[m
+[13:36:34] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[13:36:34] [Server thread/INFO]: benkoontz000 left the game
+[13:42:14] [User Authenticator #96/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[13:42:14] [Server thread/INFO]: benkoontz000[/73.133.132.224:61944] logged in with entity id 492619 at ([world]-735.5507913374715, 103.0, 793.984535188715)
+[13:42:38] [Server thread/WARN]: benkoontz000 moved wrongly!
+[13:43:02] [Server thread/INFO]: CrazyOldTree was shot by Skeleton
+[13:44:27] [Server thread/INFO]: thatnerdjack burned to death
+[13:46:04] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-1014, z753
+[13:46:21] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> why do villagefs shake head when you try to trade?[m
+[13:46:34] [Netty Epoll Server IO #7/INFO]: <benkoontz000> idk[m
+[13:46:36] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> they overhauled how it works i think[m
+[13:46:39] [Netty Epoll Server IO #7/INFO]: <benkoontz000> some of them no like us[m
+[13:47:31] [Server thread/INFO]: LittyBoiz has made the advancement [What a Deal!]
+[13:47:37] [Netty Epoll Server IO #7/INFO]: <benkoontz000> noice[m
+[13:48:15] [Server thread/INFO]: benkoontz000 has made the advancement [A Terrible Fortress]
+[13:50:50] [Server thread/INFO]: benkoontz000 has made the advancement [Into Fire]
+[13:51:39] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> mans is trading sticks for emeralds[m
+[13:52:12] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> send mans to get executive mba[m
+[13:54:22] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> two sticks for an arrow, godo deal?[m
+[13:54:29] [Netty Epoll Server IO #7/INFO]: <benkoontz000> yep[m
+[13:56:36] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> yall able to sleep?[m
+[13:56:42] [Netty Epoll Server IO #7/INFO]: <benkoontz000> in nether[m
+[13:57:06] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> is that a maybe?[m
+[13:57:38] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[13:57:38] [Server thread/INFO]: benkoontz000 left the game
+[13:57:43] [User Authenticator #97/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[13:57:43] [Server thread/INFO]: benkoontz000[/73.133.132.224:61981] logged in with entity id 501130 at ([world_nether]-54.30487401549173, 25.641565316804854, 178.30000001192093)
+[13:57:51] [Server thread/INFO]: benkoontz000 tried to swim in lava
+[13:58:01] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> bro keep inv isnt on in the nether[m
+[13:58:13] [Netty Epoll Server IO #9/INFO]: <benkoontz000> lmao[m
+[13:58:25] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> did mans lost power v[m
+[13:58:26] [Server thread/INFO]: CrazyOldTree was slain by Zombie
+[13:58:29] [Netty Epoll Server IO #9/INFO]: <benkoontz000> yep[m
+[13:58:34] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> bruh moment[m
+[13:58:54] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> i found out the hard way too[m
+[13:58:57] [Netty Epoll Server IO #9/INFO]: <benkoontz000> time to take a break lmao[m
+[13:58:58] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> same[m
+[13:59:01] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> f[m
+[13:59:03] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> sorry ben :([m
+[13:59:05] [Netty Epoll Server IO #9/INFO]: <benkoontz000> cya later[m
+[13:59:08] [Netty Epoll Server IO #9/INFO]: <benkoontz000> hahaha[m
+[13:59:09] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> cya[m
+[13:59:11] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[13:59:11] [Server thread/INFO]: benkoontz000 left the game
+[13:59:13] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> mood[m
+[13:59:14] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> oof[m
+[13:59:19] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> that's rough[m
+[13:59:33] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> that's like i made a complete map of the surrounding 1000 blocks[m
+[13:59:51] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> and then i left it in a chest bc it has the same sprite as a buried treasure map[m
+[13:59:53] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-1097, z663
+[13:59:55] [Server thread/INFO]: LittyBoiz was shot by Skeleton
+[14:00:01] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> and i couldn't find it after an hour[m
+[14:00:08] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> BRUH[m
+[14:00:14] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i wanted death[m
+[14:01:44] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> isnt there a way to fast travel w nether portals?[m
+[14:05:00] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> yeah[m
+[14:05:16] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> basically each block travelled corresponds to 7 overworld blocks[m
+[14:05:28] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> it's a little wonky with multiple overworld portals on a server[m
+[14:06:24] [Server thread/INFO]: CrazyOldTree was shot by Skeleton
+[14:06:28] [Server thread/INFO]: CrazyOldTree lost connection: Disconnected
+[14:06:28] [Server thread/INFO]: CrazyOldTree left the game
+[14:06:37] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> oop[m
+[14:06:42] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> what're you workingon?[m
+[14:06:48] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> trading w villagers[m
+[14:06:55] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> anything good?[m
+[14:07:00] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> 2 stick for arrows[m
+[14:08:27] [Server thread/INFO]: LittyBoiz has made the advancement [Ol' Betsy]
+[14:08:33] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ay nice[m
+[14:09:25] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> i just bought 5 crossbows from mans for 20 emeral[m
+[14:15:49] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[14:15:49] [Server thread/INFO]: LittyBoiz left the game
+[14:16:00] [Server thread/INFO]: thatnerdjack fell from a high place
+[14:16:13] [User Authenticator #98/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[14:16:13] [Server thread/INFO]: LittyBoiz[/96.255.198.177:59400] logged in with entity id 507400 at ([world]-1025.335475297712, 65.0, 723.4253917197684)
+[14:17:17] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> sleep?[m
+[14:17:23] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> ye[m
+[14:18:39] [Server thread/INFO]: thatnerdjack was slain by Enderman
+[14:19:34] [Netty Epoll Server IO #6/INFO]: <thatnerdjack> i'm going to afk in the mob farm for a bit[m
+[14:19:49] [Netty Epoll Server IO #12/INFO]: <LittyBoiz> ok[m
+[14:29:26] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed suspicious WATER_BUCKET @ world: x-1095, z667
+[14:31:11] [Server thread/INFO]: Villager EntityVillager['Nitwit'/507421, l='world', x=-1056.83, y=55.00, z=715.23] died, message: 'Nitwit was slain by Zombie'
