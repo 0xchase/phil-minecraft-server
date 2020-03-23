@@ -1679,6 +1679,7 @@
     "criteria": {
       "sweet_berries": "2020-03-19 21:56:14 -0400",
       "baked_potato": "2020-03-18 22:50:47 -0400",
+      "beef": "2020-03-22 20:36:11 -0400",
       "apple": "2020-03-18 19:01:20 -0400",
       "potato": "2020-03-18 22:09:26 -0400",
       "cooked_cod": "2020-03-20 15:53:03 -0400",
@@ -2591,6 +2592,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-03-21 16:24:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-22 20:30:54 -0400"
     },
     "done": true
   },
