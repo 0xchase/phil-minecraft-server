@@ -570,3 +570,95 @@
 [18:24:43] [Netty Epoll Server IO #13/INFO]: <roelanford> *nah[m
 [18:29:04] [Server thread/INFO]: SlorseOverlord was slain by Zombie
 [18:30:43] [Server thread/INFO]: thatnerdjack fell from a high place
+[18:34:40] [Server thread/INFO]: SlorseOverlord was slain by Zombie
+[18:38:10] [Server thread/INFO]: roelanford tried to swim in lava
+[18:41:28] [User Authenticator #112/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[18:41:28] [Server thread/INFO]: 1635321[/10.105.140.184:60269] logged in with entity id 599122 at ([world]-102.55792318384499, 72.0, 267.6695383491998)
+[18:41:33] [Netty Epoll Server IO #0/INFO]: <thatnerdjack> howdy[m
+[18:41:36] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> heyo[m
+[18:41:38] [Netty Epoll Server IO #2/INFO]: <1635321> Hi all[m
+[18:41:54] [Netty Epoll Server IO #2/INFO]: <1635321> Wow look at that death count[m
+[18:42:06] [Netty Epoll Server IO #0/INFO]: <thatnerdjack> ?[m
+[18:42:18] [Netty Epoll Server IO #2/INFO]: <1635321> 42 deaths haha[m
+[18:42:19] [Netty Epoll Server IO #6/INFO]: <SlorseOverlord> keep inv doesn't work in the nether :([m
+[18:42:27] [Netty Epoll Server IO #2/INFO]: <1635321> Yeah idk why[m
+[18:43:55] [Netty Epoll Server IO #0/INFO]: <thatnerdjack> did we ever decide who was building the coliseum?[m
+[18:45:15] [Netty Epoll Server IO #2/INFO]: <1635321> Has Matt seen the Vegan commune yet[m
+[18:45:23] [Netty Epoll Server IO #0/INFO]: <thatnerdjack> no i don't think he's been on[m
+[18:53:11] [Server thread/INFO]: thatnerdjack was blown up by Creeper
+[18:53:21] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[18:53:21] [Server thread/INFO]: 1635321 left the game
+[18:57:13] [Server thread/INFO]: roelanford drowned
+[18:57:35] [Server thread/INFO]: roelanford lost connection: Disconnected
+[18:57:35] [Server thread/INFO]: roelanford left the game
+[18:59:28] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z305
+[18:59:53] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z322
+[19:00:08] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z305
+[19:00:13] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z305
+[19:00:30] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x610, z305
+[19:00:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z305
+[19:00:50] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x617, z305
+[19:01:09] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z315
+[19:01:16] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z305
+[19:09:01] [Server thread/INFO]: thatnerdjack was blown up by Creeper
+[19:09:04] [Netty Epoll Server IO #0/INFO]: <thatnerdjack> ffs[m
+[19:13:24] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[19:13:24] [Server thread/INFO]: SlorseOverlord left the game
+[19:34:51] [User Authenticator #113/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[19:34:51] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:52807] logged in with entity id 614629 at ([world]267.6685207184081, 30.0, 438.69467349112773)
+[19:44:23] [User Authenticator #114/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[19:44:23] [Server thread/INFO]: roelanford[/216.164.58.29:62560] logged in with entity id 616719 at ([world]354.0454316235502, 64.0, 109.18801038582495)
+[19:44:28] [Server thread/INFO]: roelanford lost connection: Disconnected
+[19:44:28] [Server thread/INFO]: roelanford left the game
+[19:45:35] [Server thread/INFO]: SlorseOverlord was blown up by Creeper
+[19:46:28] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z312
+[19:47:23] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z312
+[19:47:46] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z312
+[19:48:03] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z315
+[19:48:09] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z319
+[19:48:26] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z334
+[19:48:30] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z324
+[19:48:41] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z315
+[19:48:51] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z319
+[19:49:05] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z326
+[19:49:34] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z312
+[19:49:37] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z312
+[19:49:46] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z312
+[19:50:09] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z320
+[19:50:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z319
+[19:50:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z324
+[19:50:49] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z327
+[19:50:58] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z334
+[19:51:23] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z334
+[19:51:24] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x610, z334
+[19:51:40] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z327
+[19:51:55] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z334
+[19:52:00] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z334
+[19:52:16] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x604, z334
+[19:52:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z324
+[19:52:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z324
+[19:53:10] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x602, z327
+[19:53:20] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z327
+[19:53:45] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z327
+[19:54:05] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z327
+[19:56:07] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[19:56:07] [Server thread/INFO]: thatnerdjack left the game
+[19:56:42] [Server thread/INFO]: Saving the game (this may take a moment!)
+[19:56:42] [Server thread/INFO]: Saved the game
+[20:02:27] [User Authenticator #115/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[20:02:27] [Server thread/INFO]: Jackamonga[/10.104.149.178:51646] logged in with entity id 620452 at ([world]325.2348902946691, 63.0, -851.6893220627378)
+[20:02:48] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
+[20:05:15] [Server thread/WARN]: Jackamonga moved wrongly!
+[20:07:01] [Server thread/INFO]: Jackamonga was slain by Zombie
+[20:13:10] [Server thread/INFO]: SlorseOverlord was blown up by Creeper
+[20:14:26] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[20:14:26] [Server thread/INFO]: SlorseOverlord left the game
+[20:21:18] [Server thread/INFO]: Jackamonga drowned
+[20:24:33] [Server thread/WARN]: Jackamonga moved wrongly!
+[20:25:19] [Server thread/INFO]: Jackamonga drowned
+[20:32:28] [Server thread/ERROR]: Block at 549, 51, -927 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@39733030. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[20:33:11] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[20:33:11] [Server thread/INFO]: Jackamonga left the game
+[20:33:13] [User Authenticator #116/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[20:33:13] [Server thread/INFO]: Jackamonga[/10.104.149.178:51679] logged in with entity id 630547 at ([world]547.4126975727942, 62.07326521750937, -778.2582530949139)
+[20:33:21] [Server thread/WARN]: Jackamonga moved wrongly!
