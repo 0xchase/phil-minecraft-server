@@ -858,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-03-24 14:24:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-18 18:00:24 -0400"
@@ -1060,7 +1066,8 @@
       "minecraft:wither_skeleton": "2020-03-23 13:48:46 -0400",
       "minecraft:cave_spider": "2020-03-20 15:38:17 -0400",
       "minecraft:enderman": "2020-03-19 18:02:43 -0400",
-      "minecraft:zombie": "2020-03-19 16:55:42 -0400"
+      "minecraft:zombie": "2020-03-19 16:55:42 -0400",
+      "minecraft:drowned": "2020-03-24 14:20:54 -0400"
     },
     "done": false
   },

@@ -51,3 +51,35 @@
 [12:12:53] [Netty Epoll Server IO #15/INFO]: <LittyBoiz> do u know where this nether fortress is? someone said there was a path[m
 [12:21:05] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
 [12:21:05] [Server thread/INFO]: LittyBoiz left the game
+[12:41:22] [Server thread/INFO]: thatnerdjack fell from a high place
+[13:11:51] [User Authenticator #126/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[13:11:51] [Server thread/INFO]: roelanford[/216.164.58.29:63824] logged in with entity id 673633 at ([world]356.6732278865428, 64.0, 106.30000001192093)
+[13:18:47] [Netty Epoll Server IO #1/INFO]: <thatnerdjack> oh hey[m
+[13:19:28] [Netty Epoll Server IO #3/INFO]: <roelanford> hi![m
+[13:38:27] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[13:38:27] [Server thread/INFO]: thatnerdjack left the game
+[13:58:41] [Server thread/INFO]: roelanford lost connection: Disconnected
+[13:58:41] [Server thread/INFO]: roelanford left the game
+[14:10:43] [User Authenticator #127/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[14:10:44] [Server thread/INFO]: benkoontz000[/73.133.132.224:49979] logged in with entity id 680871 at ([world]-733.6329325397659, 103.0, 793.4289682886936)
+[14:11:06] [User Authenticator #128/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[14:11:06] [Server thread/INFO]: thatnerdjack[/68.134.216.48:55611] logged in with entity id 681001 at ([world]522.6999999880791, 76.0, 272.76249998807907)
+[14:11:56] [Netty Epoll Server IO #7/INFO]: <thatnerdjack> heya[m
+[14:11:59] [Netty Epoll Server IO #5/INFO]: <benkoontz000> hey boo[m
+[14:24:40] [Server thread/INFO]: benkoontz000 has made the advancement [Hot Stuff]
+[14:28:38] [Netty Epoll Server IO #7/INFO]: <thatnerdjack> sleep?[m
+[14:28:39] [Netty Epoll Server IO #7/INFO]: <thatnerdjack> i'll dc[m
+[14:28:50] [Netty Epoll Server IO #5/INFO]: <benkoontz000> im away from bed[m
+[14:28:52] [Netty Epoll Server IO #7/INFO]: <thatnerdjack> shit[m
+[14:29:50] [Netty Epoll Server IO #5/INFO]: <benkoontz000> otw to bed now[m
+[14:30:26] [Netty Epoll Server IO #5/INFO]: <benkoontz000> in bed[m
+[14:30:31] [Netty Epoll Server IO #7/INFO]: <thatnerdjack> oki[m
+[14:30:34] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[14:30:34] [Server thread/INFO]: thatnerdjack left the game
+[14:30:42] [User Authenticator #129/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[14:30:42] [Server thread/INFO]: thatnerdjack[/68.134.216.48:55690] logged in with entity id 687325 at ([world]548.1831236207777, 70.0, 269.0323605435733)
+[14:30:48] [Netty Epoll Server IO #9/INFO]: <thatnerdjack> thanks[m
+[14:30:49] [Netty Epoll Server IO #9/INFO]: <thatnerdjack> sorry[m
+[14:32:54] [User Authenticator #130/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
+[14:32:54] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:54123] logged in with entity id 688205 at ([world]-59.81376940815641, 65.0477029800225, 261.23367620873245)
+[14:35:00] [Server thread/WARN]: thatnerdjack moved wrongly!
