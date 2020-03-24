@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-03-24 15:29:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-03-20 15:11:41 -0400"
@@ -705,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-03-24 14:53:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-03-22 00:04:56 -0400"
@@ -933,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-24 15:00:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-03-23 23:11:27 -0400"
@@ -984,6 +1002,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-18 19:49:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-24 15:00:00 -0400"
     },
     "done": true
   },
@@ -1258,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-24 15:00:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-03-18 17:29:02 -0400"
@@ -1459,6 +1489,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-18 18:35:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-03-24 14:53:53 -0400"
     },
     "done": true
   },
@@ -1783,6 +1819,7 @@
       "salmon": "2020-03-21 16:32:37 -0400",
       "melon_slice": "2020-03-21 16:33:32 -0400",
       "beetroot": "2020-03-18 17:34:13 -0400",
+      "cooked_chicken": "2020-03-24 15:27:04 -0400",
       "cooked_salmon": "2020-03-18 18:35:29 -0400",
       "carrot": "2020-03-18 17:53:34 -0400"
     },
@@ -1932,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-03-24 14:53:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
@@ -1958,6 +2001,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2020-03-24 14:32:46 -0400",
+      "minecraft:cow": "2020-03-24 14:41:29 -0400",
       "minecraft:chicken": "2020-03-23 13:32:20 -0400"
     },
     "done": false
@@ -2782,6 +2827,18 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-03-19 21:31:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-03-24 15:29:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-03-24 15:06:33 -0400"
     },
     "done": true
   },

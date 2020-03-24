@@ -576,6 +576,7 @@
       "minecraft:spider": "2020-03-20 22:12:38 -0400",
       "minecraft:creeper": "2020-03-21 15:10:44 -0400",
       "minecraft:witch": "2020-03-21 23:12:17 -0400",
+      "minecraft:cave_spider": "2020-03-24 15:26:08 -0400",
       "minecraft:silverfish": "2020-03-21 15:43:07 -0400",
       "minecraft:enderman": "2020-03-23 15:58:00 -0400",
       "minecraft:zombie": "2020-03-21 00:21:09 -0400",
@@ -587,6 +588,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-20 22:33:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-24 16:29:08 -0400"
     },
     "done": true
   },
@@ -1389,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-03-24 15:32:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-03-20 15:35:31 -0400"
@@ -1875,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-24 16:13:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-20 23:48:54 -0400"
@@ -2058,6 +2077,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-03-21 23:46:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-03-24 16:18:31 -0400"
     },
     "done": true
   },
@@ -2418,6 +2443,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-03-23 20:59:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-24 16:13:02 -0400"
     },
     "done": true
   },
