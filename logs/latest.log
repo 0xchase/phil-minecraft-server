@@ -686,3 +686,12 @@
 [21:44:42] [Server thread/INFO]: roelanford[/216.164.58.29:63583] logged in with entity id 645064 at ([world]354.0454316235502, 64.0, 109.18801038582495)
 [21:54:33] [Server thread/INFO]: roelanford lost connection: Disconnected
 [21:54:33] [Server thread/INFO]: roelanford left the game
+[22:39:53] [User Authenticator #119/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
+[22:39:53] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:53318] logged in with entity id 646287 at ([world]153.63152044457246, 125.0, 477.4494021985332)
+[22:40:30] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[22:40:30] [Server thread/INFO]: SlorseOverlord left the game
+[23:05:59] [User Authenticator #120/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[23:05:59] [Server thread/INFO]: thatnerdjack[/68.134.216.48:51360] logged in with entity id 646493 at ([world_nether]-56.216466544692544, 78.0, 34.66473844648008)
+[23:11:02] [Server thread/INFO]: thatnerdjack was shot by Skeleton
+[23:12:34] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[23:12:34] [Server thread/INFO]: thatnerdjack left the game
