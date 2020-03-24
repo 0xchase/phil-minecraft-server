@@ -662,3 +662,27 @@
 [20:33:13] [User Authenticator #116/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
 [20:33:13] [Server thread/INFO]: Jackamonga[/10.104.149.178:51679] logged in with entity id 630547 at ([world]547.4126975727942, 62.07326521750937, -778.2582530949139)
 [20:33:21] [Server thread/WARN]: Jackamonga moved wrongly!
+[20:38:39] [Server thread/WARN]: Jackamonga moved wrongly!
+[20:44:56] [Server thread/INFO]: Jackamonga drowned
+[20:51:34] [Server thread/ERROR]: Block at 548, 39, -759 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@374c4193. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[20:54:24] [Server thread/WARN]: Jackamonga moved wrongly!
+[20:59:40] [User Authenticator #117/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[20:59:40] [Server thread/INFO]: thatnerdjack[/68.134.216.48:50747] logged in with entity id 637112 at ([world]595.5898262187524, 87.0, 304.9513285904622)
+[20:59:50] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> hello fellow jack[m
+[21:00:01] [Netty Epoll Server IO #1/INFO]: <Jackamonga> wassup better jack[m
+[21:00:12] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> uh don't know about better lmao[m
+[21:00:23] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> my entire day has been spent on minecraft lmao[m
+[21:00:38] [Netty Epoll Server IO #1/INFO]: <Jackamonga> lol true, I'm playing right now to avoid my problems[m
+[21:00:50] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> touche[m
+[21:00:58] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> if i didn't have problems i wouldn't be playing[m
+[21:01:11] [Netty Epoll Server IO #1/INFO]: <Jackamonga> too real[m
+[21:01:14] [Netty Epoll Server IO #4/INFO]: <thatnerdjack> f[m
+[21:14:47] [Server thread/INFO]: thatnerdjack has completed the challenge [Return to Sender]
+[21:17:16] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[21:17:16] [Server thread/INFO]: thatnerdjack left the game
+[21:28:46] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[21:28:46] [Server thread/INFO]: Jackamonga left the game
+[21:44:42] [User Authenticator #118/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[21:44:42] [Server thread/INFO]: roelanford[/216.164.58.29:63583] logged in with entity id 645064 at ([world]354.0454316235502, 64.0, 109.18801038582495)
+[21:54:33] [Server thread/INFO]: roelanford lost connection: Disconnected
+[21:54:33] [Server thread/INFO]: roelanford left the game

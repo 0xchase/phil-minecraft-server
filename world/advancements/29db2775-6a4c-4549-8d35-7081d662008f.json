@@ -464,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-03-23 21:14:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-18 23:06:04 -0400"
@@ -612,6 +618,7 @@
     "criteria": {
       "minecraft:pillager": "2020-03-22 01:03:19 -0400",
       "minecraft:skeleton": "2020-03-18 18:24:43 -0400",
+      "minecraft:ghast": "2020-03-23 21:14:47 -0400",
       "minecraft:spider": "2020-03-18 17:49:57 -0400",
       "minecraft:creeper": "2020-03-19 16:29:56 -0400",
       "minecraft:slime": "2020-03-19 21:49:49 -0400",
