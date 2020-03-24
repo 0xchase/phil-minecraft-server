@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_the_recipe": "2020-03-24 17:34:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-03-18 23:32:06 -0400"
@@ -2079,6 +2085,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-19 04:05:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2020-03-24 16:43:53 -0400"
     },
     "done": true
   },

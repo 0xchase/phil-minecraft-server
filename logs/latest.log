@@ -193,3 +193,151 @@
 [16:29:13] [Netty Epoll Server IO #13/INFO]: <Jackamonga> :)[m
 [16:34:46] [Server thread/INFO]: roelanford lost connection: Timed out
 [16:34:46] [Server thread/INFO]: roelanford left the game
+[16:37:38] [User Authenticator #139/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[16:37:38] [Server thread/INFO]: roelanford[/216.164.58.29:64256] logged in with entity id 752183 at ([world]336.2100248147994, 37.0, 136.87247954539367)
+[16:39:40] [Server thread/INFO]: roelanford has made the advancement [Hot Stuff]
+[16:40:31] [Server thread/WARN]: Skipping Entity with id 
+[16:40:50] [Server thread/WARN]: matster1998 moved wrongly!
+[16:45:22] [Server thread/WARN]: matster1998 moved wrongly!
+[16:45:59] [Server thread/WARN]: Jackamonga moved wrongly!
+[16:53:19] [User Authenticator #140/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[16:53:19] [Server thread/INFO]: thatnerdjack[/68.134.216.48:56866] logged in with entity id 767914 at ([world]580.1912688693441, 67.0, 332.39141379804937)
+[16:53:28] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> hey[m
+[16:53:56] [Server thread/WARN]: matster1998 moved wrongly!
+[16:54:00] [Server thread/WARN]: matster1998 moved wrongly!
+[16:54:28] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> het[m
+[16:54:33] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> hey*[m
+[16:54:44] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> i set up that cow farm if you wanna chill and breed the cows for me[m
+[16:54:52] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> wya?[m
+[16:54:54] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> for free leather[m
+[16:54:59] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> i can give you wheat[m
+[16:55:06] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> can't be breedin :flushed:[m
+[16:55:09] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> about 500 x 400[m
+[16:55:12] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> oh well[m
+[16:55:13] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> i havetons of wheat[m
+[16:55:19] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> how much leather do you need?[m
+[16:55:37] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> whatever youre willing to trade[m
+[16:55:40] [Netty Epoll Server IO #0/INFO]: <SlorseOverlord> i desire free leather[m
+[16:55:46] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> it's a market[m
+[16:55:47] [Server thread/INFO]: roelanford was slain by Zombie
+[16:56:35] [Server thread/WARN]: matster1998 moved wrongly!
+[16:59:41] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[16:59:41] [Server thread/INFO]: LittyBoiz left the game
+[17:01:14] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:06:20] [Server thread/WARN]: matster1998 moved wrongly!
+[17:06:23] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> oop[m
+[17:09:14] [Server thread/INFO]: SlorseOverlord was blown up by Creeper
+[17:09:23] [User Authenticator #141/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[17:09:23] [Server thread/INFO]: LittyBoiz[/96.255.198.177:62096] logged in with entity id 784973 at ([world]176.49636917925625, 65.0, 127.68176701828902)
+[17:09:49] [Server thread/WARN]: LittyBoiz moved wrongly!
+[17:10:59] [Server thread/INFO]: roelanford lost connection: Timed out
+[17:10:59] [Server thread/INFO]: roelanford left the game
+[17:12:22] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> ok so[m
+[17:12:27] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> i have plenty of wheat[m
+[17:13:37] [Server thread/INFO]: matster1998 drowned
+[17:14:24] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:19:38] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> @litty i'll just get a stack of leather if you can trade for it[m
+[17:19:47] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> yes name your price[m
+[17:19:52] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> ah alright\[m
+[17:20:03] [User Authenticator #142/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[17:20:03] [Server thread/INFO]: roelanford[/216.164.58.29:64461] logged in with entity id 793549 at ([world]393.30000001192093, 11.0, 191.9100829449468)
+[17:20:21] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga hi
+[17:20:22] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> i'm trying to think of fair trades[m
+[17:20:30] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> let the market decide[m
+[17:20:36] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga do /w with message
+[17:20:45] [Server thread/INFO]: Jackamonga issued server command: /w
+[17:20:49] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga actually it's /w <Name> message
+[17:20:51] [Server thread/INFO]: Jackamonga issued server command: /w hi :)
+[17:21:00] [Server thread/INFO]: Jackamonga issued server command: /w matster1998 bruh
+[17:21:03] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga send me your coords
+[17:21:18] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> i'm not sure what that means in this context[m
+[17:21:23] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> other than "whatever i want"[m
+[17:21:25] [Server thread/INFO]: Jackamonga issued server command: /w LittyBoiz hi :)
+[17:21:25] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> you name a price[m
+[17:21:30] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> and i name a price[m
+[17:21:30] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> ah[m
+[17:21:34] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> until it equilibriates[m
+[17:21:34] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> 2 diamonds?[m
+[17:21:40] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga if you dont want to send coords thats ok
+[17:21:47] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> diamond 30 iron[m
+[17:22:00] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> 1 diamond 32 iron lmao[m
+[17:22:00] [Server thread/INFO]: Jackamonga issued server command: /w matster1998 I'll run over in a second
+[17:22:01] [Netty Epoll Server IO #0/INFO]: <SlorseOverlord> <LittyBoiz> whisper[m
+[17:22:04] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga ok, lmk
+[17:22:04] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> half stacks are better[m
+[17:22:14] [Netty Epoll Server IO #0/INFO]: <SlorseOverlord> (LittyBoiz) whisper[m
+[17:22:18] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> bet[m
+[17:22:25] [Netty Epoll Server IO #0/INFO]: <SlorseOverlord> *LittyBoiz* whisper[m
+[17:22:32] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> bruh what are you doing[m
+[17:22:41] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> dont worry jack :flushed:[m
+[17:22:47] [Netty Epoll Server IO #0/INFO]: <SlorseOverlord> trying to figure out whispering lol[m
+[17:22:56] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> YEET[m
+[17:22:58] [Netty Epoll Server IO #2/INFO]: <matster1998> hihihih[m
+[17:23:04] [Netty Epoll Server IO #13/INFO]: <Jackamonga> lmfao[m
+[17:23:04] [Netty Epoll Server IO #2/INFO]: <matster1998> LOL[m
+[17:23:24] [Netty Epoll Server IO #2/INFO]: <matster1998> lkjlkj[m
+[17:23:28] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> AHAH[m
+[17:23:28] [Netty Epoll Server IO #2/INFO]: <matster1998> LKJL[m
+[17:23:37] [Netty Epoll Server IO #13/INFO]: <Jackamonga> WHAT[m
+[17:23:40] [Netty Epoll Server IO #13/INFO]: [GriefPrevention] Muted repeat message.
+[17:23:40] [Netty Epoll Server IO #13/INFO]: <Jackamonga> WHAT[m
+[17:23:45] [Netty Epoll Server IO #13/INFO]: <Jackamonga> LOL[m
+[17:23:51] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> am i going insane?[m
+[17:23:52] [Netty Epoll Server IO #13/INFO]: [GriefPrevention] Muted repeat message.
+[17:23:52] [Netty Epoll Server IO #13/INFO]: <Jackamonga> LOL[m
+[17:23:55] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> have i missed something[m
+[17:23:57] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> join the call jack[m
+[17:23:58] [Netty Epoll Server IO #13/INFO]: <Jackamonga> im so confused[m
+[17:24:03] [Netty Epoll Server IO #1/INFO]: <LittyBoiz> also roe[m
+[17:24:04] [Netty Epoll Server IO #13/INFO]: <Jackamonga> WHAT[m
+[17:24:15] [Netty Epoll Server IO #13/INFO]: <Jackamonga> does it have to do with length??[m
+[17:26:12] [Server thread/WARN]: roelanford moved too quickly! 1.714895697737461,-1.2522033402537218,-10.176142051182211
+[17:26:35] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga can i just come to you
+[17:26:51] [Server thread/INFO]: Jackamonga issued server command: /w matster1998 yeah you good, the eggs taking a while
+[17:27:12] [Server thread/INFO]: Jackamonga issued server command: /w matster1998 322 63 -757
+[17:27:18] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga ty
+[17:28:32] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:30:47] [Server thread/WARN]: Boat moved wrongly!
+[17:30:47] [Server thread/WARN]: Boat moved wrongly!
+[17:31:40] [Server thread/INFO]: roelanford tried to swim in lava
+[17:33:12] [Server thread/INFO]: matster1998 issued server command: /w Jackamonga im here i think
+[17:33:16] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:33:32] [Server thread/INFO]: Jackamonga issued server command: /w matster1998 I got the books
+[17:33:42] [Netty Epoll Server IO #2/INFO]: <matster1998> ty ty[m
+[17:34:23] [Server thread/INFO]: matster1998 drowned
+[17:36:48] [Server thread/WARN]: LittyBoiz moved wrongly!
+[17:36:57] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[17:36:57] [Server thread/INFO]: LittyBoiz left the game
+[17:39:01] [Server thread/INFO]: SlorseOverlord tried to swim in lava
+[17:40:44] [Server thread/INFO]: matster1998 has made the advancement [Enchanter]
+[17:43:08] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:43:34] [Server thread/INFO]: Jackamonga has made the advancement [Take Aim]
+[17:43:57] [Server thread/INFO]: matster1998 issued server command: /TRUSTLIST
+[17:44:01] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x136, z481
+[17:46:21] [Server thread/WARN]: Jackamonga moved wrongly!
+[17:46:40] [Server thread/INFO]: [GriefPrevention] matster1998 placed a sign @ world: x63, z194;The Vegan;Commune; is buying books!;(vegan only)
+[17:50:03] [Server thread/INFO]: [GriefPrevention] roelanford placed suspicious LAVA_BUCKET @ world: x346, z147
+[17:52:58] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z477
+[17:53:00] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z479
+[17:53:07] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z481
+[17:54:12] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z477
+[17:54:17] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z479
+[17:54:21] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x135, z481
+[17:59:55] [Server thread/WARN]: Jackamonga moved wrongly!
+[18:01:43] [Server thread/WARN]: Jackamonga moved wrongly!
+[18:05:00] [Server thread/INFO]: SlorseOverlord fell from a high place
+[18:08:58] [Server thread/WARN]: Jackamonga moved wrongly!
+[18:09:05] [Netty Epoll Server IO #13/INFO]: <Jackamonga> i am a mother[m
+[18:10:14] [Server thread/INFO]: roelanford fell from a high place
+[18:11:14] [Server thread/INFO]: Jackamonga was shot by Skeleton
+[18:12:46] [Server thread/INFO]: roelanford drowned
+[18:18:45] [Server thread/INFO]: roelanford was slain by Zombie Pigman
+[18:21:16] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
+[18:22:48] [Server thread/WARN]: Jackamonga moved wrongly!
+[18:23:48] [Server thread/INFO]: roelanford was slain by Wither Skeleton
+[18:25:41] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[18:25:41] [Server thread/INFO]: matster1998 left the game
+[18:25:47] [Server thread/INFO]: SlorseOverlord fell from a high place
+[18:27:11] [Server thread/WARN]: SlorseOverlord moved wrongly!
+[18:28:08] [Server thread/INFO]: roelanford drowned
+[18:33:03] [Server thread/INFO]: SlorseOverlord burned to death

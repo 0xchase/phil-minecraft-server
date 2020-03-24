@@ -2679,6 +2679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-03-24 18:01:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-03-18 17:29:02 -0400"
@@ -2830,15 +2836,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2020-03-24 15:29:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2020-03-24 15:06:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-03-24 15:29:58 -0400"
     },
     "done": true
   },
