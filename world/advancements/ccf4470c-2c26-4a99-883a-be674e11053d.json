@@ -1030,6 +1030,7 @@
       "minecraft:desert": "2020-03-22 02:23:07 -0400",
       "minecraft:birch_forest": "2020-03-19 04:16:58 -0400",
       "minecraft:badlands": "2020-03-20 05:52:32 -0400",
+      "minecraft:savanna_plateau": "2020-03-24 03:45:06 -0400",
       "minecraft:beach": "2020-03-20 05:35:36 -0400",
       "minecraft:dark_forest": "2020-03-18 22:36:13 -0400",
       "minecraft:river": "2020-03-18 22:36:36 -0400",
@@ -1039,6 +1040,7 @@
       "minecraft:giant_tree_taiga_hills": "2020-03-23 15:49:30 -0400",
       "minecraft:wooded_badlands_plateau": "2020-03-23 13:43:53 -0400",
       "minecraft:swamp": "2020-03-19 04:22:54 -0400",
+      "minecraft:savanna": "2020-03-24 03:43:11 -0400",
       "minecraft:plains": "2020-03-18 22:36:27 -0400"
     },
     "done": false
