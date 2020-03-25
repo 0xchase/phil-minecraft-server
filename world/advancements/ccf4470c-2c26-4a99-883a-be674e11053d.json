@@ -546,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2020-03-25 15:55:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2020-03-25 14:26:19 -0400"
@@ -628,6 +634,7 @@
       "minecraft:spider": "2020-03-18 23:28:00 -0400",
       "minecraft:creeper": "2020-03-19 04:24:20 -0400",
       "minecraft:slime": "2020-03-22 12:18:25 -0400",
+      "minecraft:phantom": "2020-03-25 15:21:11 -0400",
       "minecraft:witch": "2020-03-24 07:11:56 -0400",
       "minecraft:husk": "2020-03-23 14:31:47 -0400",
       "minecraft:cave_spider": "2020-03-22 12:58:46 -0400",
@@ -740,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-03-25 15:55:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-03-25 14:26:19 -0400"
@@ -755,6 +768,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2020-03-25 14:26:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2020-03-25 15:55:32 -0400"
     },
     "done": true
   },
@@ -896,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-03-25 15:55:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-21 16:24:02 -0400"
@@ -917,6 +942,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-03-25 14:26:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-25 15:48:22 -0400"
     },
     "done": true
   },
@@ -1848,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-25 15:55:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2020-03-20 05:51:30 -0400"
@@ -2391,6 +2428,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-03-20 10:20:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-25 15:55:32 -0400"
     },
     "done": true
   },
