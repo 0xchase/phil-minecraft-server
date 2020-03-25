@@ -1,232 +1,107 @@
-[08:43:44] [User Authenticator #148/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[08:43:44] [Server thread/INFO]: LittyBoiz[/96.255.198.177:62793] logged in with entity id 877362 at ([world]67.78951091740237, 64.0, 155.9631677293871)
-[08:44:22] [Server thread/WARN]: LittyBoiz moved wrongly!
-[08:48:17] [Server thread/WARN]: LittyBoiz moved wrongly!
-[09:03:01] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[09:03:01] [Server thread/INFO]: LittyBoiz left the game
-[09:24:50] [User Authenticator #149/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[09:24:50] [Server thread/INFO]: LittyBoiz[/96.255.198.177:62942] logged in with entity id 880896 at ([world]75.95548361456997, 62.231395795188284, -15.664917078708019)
-[09:24:58] [Server thread/INFO]: LittyBoiz was shot by Skeleton
-[09:47:19] [Server thread/WARN]: LittyBoiz moved wrongly!
-[10:28:45] [Server thread/WARN]: LittyBoiz moved wrongly!
-[10:40:38] [Server thread/INFO]: LittyBoiz was slain by Zombie
-[10:51:12] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[10:51:12] [Server thread/INFO]: LittyBoiz left the game
-[12:23:46] [User Authenticator #150/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[12:23:46] [Server thread/INFO]: LittyBoiz[/96.255.198.177:63347] logged in with entity id 894201 at ([world]70.69999998807907, 24.0, 139.30000001192093)
-[12:24:39] [Server thread/INFO]: LittyBoiz burned to death
-[12:25:58] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[12:25:58] [Server thread/INFO]: LittyBoiz left the game
-[12:26:36] [User Authenticator #151/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[12:26:36] [Server thread/INFO]: LittyBoiz[/96.255.198.177:63349] logged in with entity id 894578 at ([world]130.09223482863445, 68.0, 245.3832887493642)
-[12:39:07] [User Authenticator #152/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
-[12:39:07] [Server thread/INFO]: roelanford[/216.164.58.29:50002] logged in with entity id 896940 at ([world]334.61850248699983, 13.0, 105.30000001192093)
-[12:42:42] [User Authenticator #153/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
-[12:42:42] [Server thread/INFO]: benkoontz000[/73.133.132.224:50758] logged in with entity id 898139 at ([world_nether]-0.27297817598886387, 49.0, -63.48486431257551)
-[12:42:52] [Netty Epoll Server IO #11/INFO]: <benkoontz000> yooooooooooo[m
-[12:42:59] [Netty Epoll Server IO #9/INFO]: <roelanford> sup[m
-[12:47:17] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> twhattup guys[m
-[12:47:26] [Netty Epoll Server IO #11/INFO]: <benkoontz000> hai[m
-[12:47:43] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> did yall peep the subway system?[m
-[12:48:05] [Netty Epoll Server IO #9/INFO]: <roelanford> no?[m
-[12:48:12] [Netty Epoll Server IO #11/INFO]: <benkoontz000> ^^^[m
-[12:48:17] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> we're starting a subway[m
-[12:48:20] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> to connect bases[m
-[12:48:25] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> feel free to build a line[m
-[12:48:58] [Netty Epoll Server IO #9/INFO]: <roelanford> oh shit[m
-[12:49:01] [Netty Epoll Server IO #9/INFO]: <roelanford> ccol[m
-[12:51:15] [Server thread/INFO]: LittyBoiz tried to swim in lava
-[12:51:42] [Server thread/INFO]: benkoontz000 lost connection: Timed out
-[12:51:42] [Server thread/INFO]: benkoontz000 left the game
-[12:52:43] [User Authenticator #154/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
-[12:52:43] [Server thread/INFO]: benkoontz000[/73.133.132.224:50974] logged in with entity id 902113 at ([world]-718.9162294114384, 20.0, 809.6541894328891)
-[13:04:22] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[13:04:22] [Server thread/INFO]: LittyBoiz left the game
-[13:06:30] [Server thread/INFO]: roelanford was slain by Zombie
-[13:06:33] [Netty Epoll Server IO #13/INFO]: <benkoontz000> rip[m
-[13:15:09] [User Authenticator #155/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
-[13:15:09] [Server thread/INFO]: thatnerdjack[/68.134.216.48:64282] logged in with entity id 909541 at ([world]500.05749088775167, 49.0, 230.30000001192093)
-[13:20:43] [Server thread/INFO]: roelanford was slain by Zombie
-[13:22:41] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
-[13:22:41] [Server thread/INFO]: benkoontz000 left the game
-[13:23:04] [Server thread/INFO]: roelanford was blown up by Creeper
-[13:24:15] [User Authenticator #156/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
-[13:24:15] [Server thread/INFO]: benkoontz000[/73.133.132.224:51293] logged in with entity id 912965 at ([world]-746.5786651232316, 23.5, 843.3841059015895)
-[13:32:01] [Server thread/INFO]: roelanford was slain by Zombie
-[13:46:07] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
-[13:46:07] [Server thread/INFO]: thatnerdjack left the game
-[13:46:39] [User Authenticator #157/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
-[13:46:39] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:54582] logged in with entity id 920311 at ([world]140.3000000119209, 64.0, 97.0413446021096)
-[13:52:42] [Netty Epoll Server IO #2/INFO]: <benkoontz000> hai eya[m
-[13:52:58] [Netty Epoll Server IO #6/INFO]: <CrazyOldTree> hi :)[m
-[13:55:21] [Server thread/INFO]: CrazyOldTree was slain by Spider
-[13:55:26] [Netty Epoll Server IO #2/INFO]: <benkoontz000> lol[m
-[13:58:52] [Server thread/INFO]: roelanford lost connection: Timed out
-[13:58:52] [Server thread/INFO]: roelanford left the game
-[14:01:46] [User Authenticator #158/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
-[14:01:46] [Server thread/INFO]: LittyBoiz[/96.255.198.177:63567] logged in with entity id 925466 at ([world]10.035015480438823, 48.0, 155.69999998807907)
-[14:02:02] [Netty Epoll Server IO #2/INFO]: <benkoontz000> hai[m
-[14:02:05] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> yo[m
-[14:02:15] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> wtm[m
-[14:02:33] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> idk what to do on mc[m
-[14:02:43] [Netty Epoll Server IO #2/INFO]: <benkoontz000> build[m
-[14:02:47] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> other than prank ppl[m
-[14:02:52] [Netty Epoll Server IO #2/INFO]: <benkoontz000> farms or buildings[m
-[14:03:04] [Netty Epoll Server IO #2/INFO]: <benkoontz000> gather ender pearls and kill the dragon[m
-[14:03:13] [Netty Epoll Server IO #2/INFO]: <benkoontz000> find a water stronghold and kill the boss[m
-[14:03:22] [Netty Epoll Server IO #2/INFO]: <benkoontz000> go to the nether and loot temples[m
-[14:03:30] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> \[m
-[14:03:35] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> true[m
-[14:03:55] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> is there an end movement happening?[m
-[14:04:01] [Netty Epoll Server IO #2/INFO]: <benkoontz000> explore for rare biomes, and capture rare animals[m
-[14:04:08] [Netty Epoll Server IO #2/INFO]: <benkoontz000> yeet[m
-[14:04:23] [Netty Epoll Server IO #2/INFO]: <benkoontz000> Ill pay you for glowstone blocks if you want a job[m
-[14:04:29] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> what rate[m
-[14:04:32] [Netty Epoll Server IO #2/INFO]: <benkoontz000> idk[m
-[14:04:38] [Netty Epoll Server IO #2/INFO]: <benkoontz000> what do you want?[m
-[14:04:43] [Netty Epoll Server IO #2/INFO]: <benkoontz000> I have no diamonds :([m
-[14:04:43] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> i dont rlly want or need anything[m
-[14:04:50] [Netty Epoll Server IO #2/INFO]: <benkoontz000> I have infinity bow[m
-[14:05:00] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> trade u diamonds for it[m
-[14:05:09] [Netty Epoll Server IO #2/INFO]: <benkoontz000> 6?[m
-[14:05:18] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> is it just infinity?[m
-[14:05:23] [Netty Epoll Server IO #2/INFO]: <benkoontz000> yep[m
-[14:05:36] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> 6 diamonds for anything else?[m
-[14:05:41] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> i have arrows now[m
-[14:05:48] [Netty Epoll Server IO #2/INFO]: <benkoontz000> I have silk touch book[m
-[14:06:21] [User Authenticator #159/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
-[14:06:21] [Server thread/INFO]: roelanford[/216.164.58.29:50538] logged in with entity id 926768 at ([world]359.022239769497, 57.0, 110.39432549671048)
-[14:06:25] [Netty Epoll Server IO #2/INFO]: <benkoontz000> heyo[m
-[14:06:35] [Netty Epoll Server IO #9/INFO]: <roelanford> hiya[m
-[14:08:08] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> we need more factions[m
-[14:08:20] [Server thread/INFO]: CrazyOldTree has made the advancement [Monster Hunter]
-[14:08:27] [Netty Epoll Server IO #2/INFO]: <benkoontz000> lol[m
-[14:08:33] [Netty Epoll Server IO #2/INFO]: <benkoontz000> thats her first one XDXDXD[m
-[14:08:48] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> nice[m
-[14:08:53] [Netty Epoll Server IO #2/INFO]: <benkoontz000> shes died 11 times[m
-[14:08:58] [Netty Epoll Server IO #2/INFO]: <benkoontz000> and that her first kill[m
-[14:09:01] [Netty Epoll Server IO #2/INFO]: <benkoontz000> im fucking dead[m
-[14:10:03] [Netty Epoll Server IO #9/INFO]: <roelanford> don't be disrespectful[m
-[14:10:15] [Netty Epoll Server IO #2/INFO]: <benkoontz000> ME?[m
-[14:10:19] [Netty Epoll Server IO #2/INFO]: <benkoontz000> I would never[m
-[14:10:20] [Netty Epoll Server IO #9/INFO]: <roelanford> baldheaded ass[m
-[14:10:25] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> BRUH[m
-[14:11:08] [Netty Epoll Server IO #9/INFO]: <roelanford> i said what i said[m
-[14:13:18] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> hello[m
-[14:14:06] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> are berries useful for anything>[m
-[14:14:11] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> other than food[m
-[14:14:17] [Netty Epoll Server IO #9/INFO]: <roelanford> eating, tha's ab it[m
-[14:14:22] [Netty Epoll Server IO #2/INFO]: <benkoontz000> minecraft.gampedia.com[m
-[14:14:26] [Netty Epoll Server IO #2/INFO]: <benkoontz000> @gaurav[m
-[14:14:28] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> YOO EFF 4 unb 3[m
-[14:14:32] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> ok thanks ben[m
-[14:14:36] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> v helpful[m
-[14:14:41] [Netty Epoll Server IO #2/INFO]: <benkoontz000> np np[m
-[14:15:49] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> b koontz if u have fortune 3 i will trade for it, not the silk touch tho[m
-[14:16:29] [Netty Epoll Server IO #2/INFO]: <benkoontz000> I lost my fortune III in the great nether lava swim[m
-[14:16:33] [Netty Epoll Server IO #2/INFO]: <benkoontz000> PepeHands[m
-[14:16:36] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> f[m
-[14:16:54] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> fortune 3 pays dividends[m
-[14:19:31] [Server thread/INFO]: CrazyOldTree was slain by Zombie
-[14:19:37] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> :([m
-[14:19:40] [Server thread/INFO]: CrazyOldTree lost connection: Disconnected
-[14:19:40] [Server thread/INFO]: CrazyOldTree left the game
-[14:19:45] [Netty Epoll Server IO #2/INFO]: <benkoontz000> rage[m
-[14:22:24] [Server thread/INFO]: roelanford drowned
-[14:22:46] [Server thread/INFO]: LittyBoiz has completed the challenge [Return to Sender]
-[14:22:51] [Netty Epoll Server IO #2/INFO]: <benkoontz000> :O[m
-[14:23:04] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> swag[m
-[14:23:14] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> where tf is this portal[m
-[14:32:53] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed a sign @ world: x0, z156;to the socrates ;cult hideout;fare: 1 iron
-[14:33:10] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed a sign @ world: x0, z154;do not power 
-[14:33:21] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed a sign @ world: x2, z155;leave unpowered
-[14:35:08] [Server thread/INFO]: [GriefPrevention] LittyBoiz placed a sign @ world: x0, z156;high speed rail;to socrates cult;hideout;fare: 1 iron
-[14:40:10] [Server thread/INFO]: roelanford lost connection: Disconnected
-[14:40:10] [Server thread/INFO]: roelanford left the game
-[14:43:23] [Netty Epoll Server IO #2/INFO]: <benkoontz000> brb[m
-[14:43:25] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
-[14:43:25] [Server thread/INFO]: benkoontz000 left the game
-[14:50:28] [User Authenticator #160/INFO]: UUID of player SlorseOverlord is 3fae62ad-e0c5-4877-9400-79c9a6a8b0d3
-[14:50:28] [Server thread/INFO]: SlorseOverlord[/69.255.6.46:61660] logged in with entity id 944615 at ([world]144.1497423211366, 138.0, 468.55944895238986)
-[14:50:31] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> yo[m
-[14:50:37] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> eyo[m
-[14:50:47] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> do u have a fuck ton of leather?[m
-[14:50:50] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> i am willing to buy[m
-[14:50:53] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> nope lol[m
-[14:56:22] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> whatre u workig on[m
-[14:56:30] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> house[m
-[14:56:36] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> coords?[m
-[14:56:50] [User Authenticator #161/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
-[14:56:50] [Server thread/INFO]: benkoontz000[/73.133.132.224:52480] logged in with entity id 946514 at ([world]-701.08812694505, 20.0, 767.3387707193808)
-[15:05:37] [Netty Epoll Server IO #15/INFO]: <benkoontz000> @litty[m
-[15:05:43] [Netty Epoll Server IO #15/INFO]: <benkoontz000> whatchu doing bby?[m
-[15:07:47] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> trying to get leather[m
-[15:07:53] [Netty Epoll Server IO #15/INFO]: <benkoontz000> why[m
-[15:07:57] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> enchant[m
-[15:08:03] [Server thread/INFO]: SlorseOverlord fell from a high place
-[15:08:15] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> ive been using chases[m
-[15:08:18] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> time to get my own[m
-[15:08:37] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> wyd[m
-[15:08:52] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x138, z481
-[15:09:04] [Netty Epoll Server IO #15/INFO]: <benkoontz000> just mining[m
-[15:10:47] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> how do u only have 3 deaths[m
-[15:10:55] [Netty Epoll Server IO #15/INFO]: <benkoontz000> im a god[m
-[15:11:07] [Netty Epoll Server IO #15/INFO]: <benkoontz000> more likely[m
-[15:11:11] [Netty Epoll Server IO #15/INFO]: <benkoontz000> yall suck[m
-[15:11:12] [Netty Epoll Server IO #15/INFO]: <benkoontz000> lmao[m
-[15:11:28] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> deaths are a means to fast travel[m
-[15:11:46] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> these cows aint fucking smh[m
-[15:11:57] [Netty Epoll Server IO #15/INFO]: <benkoontz000> xd[m
-[15:12:56] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> do u have leather[m
-[15:13:05] [Netty Epoll Server IO #15/INFO]: <benkoontz000> not really[m
-[15:13:25] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> join the discord vc[m
-[15:19:53] [Server thread/INFO]: SlorseOverlord fell from a high place
-[15:26:14] [Server thread/INFO]: SlorseOverlord hit the ground too hard
-[15:36:12] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
-[15:36:12] [Server thread/INFO]: benkoontz000 left the game
-[15:41:33] [Server thread/INFO]: SlorseOverlord was shot by Skeleton
-[15:47:48] [User Authenticator #162/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
-[15:47:48] [Server thread/INFO]: benkoontz000[/73.133.132.224:52665] logged in with entity id 966768 at ([world]-731.5547727580164, 103.0, 804.8789519212816)
-[15:51:32] [User Authenticator #163/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
-[15:51:33] [Server thread/INFO]: thatnerdjack[/68.134.216.48:49177] logged in with entity id 968392 at ([world]519.4765472528028, 70.0, 277.5839956191097)
-[15:51:41] [Server thread/INFO]: [GriefPrevention] SlorseOverlord placed suspicious WATER_BUCKET @ world: x216, z516
-[15:51:55] [Netty Epoll Server IO #3/INFO]: <thatnerdjack> howdy[m
-[15:52:01] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> hi[m
-[15:54:32] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
-[15:54:32] [Server thread/INFO]: thatnerdjack left the game
-[16:03:12] [Server thread/INFO]: LittyBoiz was blown up by Creeper
-[16:14:09] [User Authenticator #164/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
-[16:14:09] [Server thread/INFO]: matster1998[/10.105.186.239:62679] logged in with entity id 978923 at ([world]76.88698283567469, 64.5625, 180.23750001192093)
-[16:14:15] [Netty Epoll Server IO #1/INFO]: <benkoontz000> HAI[m
-[16:14:17] [Netty Epoll Server IO #5/INFO]: <matster1998> hi[m
-[16:14:19] [Netty Epoll Server IO #1/INFO]: <benkoontz000> bye[m
-[16:14:19] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> hi[m
-[16:14:20] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
-[16:14:20] [Server thread/INFO]: benkoontz000 left the game
-[16:14:26] [Netty Epoll Server IO #5/INFO]: <matster1998> :([m
-[16:14:34] [Netty Epoll Server IO #5/INFO]: <matster1998> i can't join discord since im doing a face mask[m
-[16:14:42] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> oooo[m
-[16:14:44] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> oof[m
-[16:14:58] [Netty Epoll Server IO #5/INFO]: <matster1998> wearing a headset would ruin the mask[m
-[16:14:58] [Netty Epoll Server IO #8/INFO]: <LittyBoiz> ben didnt want to play with someone with blood on their hands...?[m
-[16:15:32] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
-[16:15:32] [Server thread/INFO]: LittyBoiz left the game
-[16:15:46] [Server thread/INFO]: matster1998 lost connection: Disconnected
-[16:15:46] [Server thread/INFO]: matster1998 left the game
-[16:19:19] [User Authenticator #165/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
-[16:19:19] [Server thread/INFO]: 1635321[/10.105.140.184:52630] logged in with entity id 979934 at ([world]-120.97040703400627, 75.5, 242.8308317462908)
-[16:19:25] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> yo[m
-[16:19:36] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:diamond 5
-[16:19:36] [Server thread/INFO]: [1635321: Gave 5 [Diamond] to SlorseOverlord]
-[16:19:43] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:diamond_pickaxe 1
-[16:19:43] [Server thread/INFO]: [1635321: Gave 1 [Diamond Pickaxe] to SlorseOverlord]
-[16:19:48] [Netty Epoll Server IO #9/INFO]: <1635321> Hi[m
-[16:20:15] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> thanks for the stuff![m
-[16:20:26] [Netty Epoll Server IO #9/INFO]: <1635321> My cow farm is a composite design but if you search online you'll find ones that work[m
-[16:20:51] [Server thread/INFO]: 1635321 lost connection: Disconnected
-[16:20:51] [Server thread/INFO]: 1635321 left the game
-[16:21:09] [Server thread/INFO]: SlorseOverlord was blown up by Creeper
-[16:23:35] [Server thread/INFO]: SlorseOverlord fell from a high place
-[16:32:40] [Server thread/INFO]: SlorseOverlord tried to swim in lava
-[16:34:52] [User Authenticator #166/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
-[16:34:52] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:54674] logged in with entity id 982672 at ([world]-53.946531464209016, 69.0, 213.81483738606602)
+[18:03:57] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:03:57] [Server thread/INFO]: Loading properties
+[18:03:57] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:57] [Server thread/INFO]: Generating keypair
+[18:03:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:03:57] [Server thread/INFO]: Using epoll channel type
+[18:03:57] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[18:04:01] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[18:04:01] [Server thread/INFO]: Preparing level "world"
+[18:04:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:04:03] [Server thread/INFO]: Loaded 6 recipes
+[18:04:03] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[18:04:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:04:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:04:04] [Server thread/INFO]: Time elapsed: 1075 ms
+[18:04:04] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[18:04:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:04:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:04:05] [Server thread/INFO]: Time elapsed: 627 ms
+[18:04:05] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[18:04:05] [Server thread/INFO]: Preparing spawn area: 0%
+[18:04:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:04:05] [Server thread/INFO]: Time elapsed: 732 ms
+[18:04:05] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[18:04:05] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[18:04:05] [Server thread/INFO]: [GriefPrevention] 13 total claims loaded.
+[18:04:06] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[18:04:06] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[18:04:06] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[18:04:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:04:06] [Server thread/INFO]: Done (4.931s)! For help, type "help"
+[18:04:08] [User Authenticator #1/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[18:04:08] [Server thread/INFO]: benkoontz000[/73.133.132.224:50231] logged in with entity id 320 at ([world]0.009435486589607689, 63.0, 222.54512929461833)
+[18:04:10] [User Authenticator #2/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[18:04:10] [Server thread/INFO]: LittyBoiz[/96.255.198.177:64050] logged in with entity id 346 at ([world]-5.3848067803376205, 64.11727553657329, 196.32519889048334)
+[18:04:42] [Server thread/INFO]: LittyBoiz was slain by Phantom
+[18:04:45] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[18:04:45] [Server thread/INFO]: LittyBoiz left the game
+[18:05:21] [User Authenticator #3/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[18:05:21] [Server thread/INFO]: LittyBoiz[/96.255.198.177:64054] logged in with entity id 515 at ([world]-15.5, 72.0, 128.5)
+[18:06:40] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[18:06:40] [Server thread/INFO]: LittyBoiz left the game
+[18:07:12] [User Authenticator #4/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[18:07:12] [Server thread/INFO]: LittyBoiz[/96.255.198.177:64065] logged in with entity id 1280 at ([world]67.58576665378118, 66.0, 223.4189328757331)
+[18:09:26] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[18:09:26] [Server thread/INFO]: LittyBoiz left the game
+[18:10:11] [User Authenticator #5/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[18:10:11] [Server thread/INFO]: LittyBoiz[/96.255.198.177:64069] logged in with entity id 2071 at ([world]5.085160455521968, 62.9375, 193.1279243094503)
+[18:12:34] [User Authenticator #6/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[18:12:34] [Server thread/INFO]: roelanford[/216.164.58.29:52795] logged in with entity id 2817 at ([world_nether]9.283399987258365, 64.0, -185.12747094241047)
+[18:12:36] [User Authenticator #7/INFO]: UUID of player thatnerdjack is 29db2775-6a4c-4549-8d35-7081d662008f
+[18:12:36] [Server thread/INFO]: thatnerdjack[/68.134.216.48:50484] logged in with entity id 2911 at ([world]578.692239330433, 70.0, 268.90103728937675)
+[18:12:43] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> howdy[m
+[18:12:47] [Netty Epoll Server IO #3/INFO]: <benkoontz000> hai boo[m
+[18:13:16] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> when's the phil discussion this week?[m
+[18:13:22] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> right now[m
+[18:13:24] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> come ome[m
+[18:13:26] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> oop[m
+[18:13:26] [Netty Epoll Server IO #3/INFO]: <benkoontz000> LMAO[m
+[18:13:31] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> shiiit[m
+[18:13:36] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> its still going[m
+[18:16:17] [Server thread/INFO]: roelanford tried to swim in lava
+[18:19:12] [Server thread/INFO]: roelanford was blown up by Creeper
+[18:20:29] [User Authenticator #8/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[18:20:29] [Server thread/INFO]: matster1998[/10.105.186.239:49831] logged in with entity id 7416 at ([world]119.76427816668397, 82.0, 178.2772169199011)
+[18:27:14] [Server thread/INFO]: roelanford was blown up by Creeper
+[18:29:36] [Server thread/INFO]: LittyBoiz burned to death
+[18:30:02] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z334
+[18:30:16] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z334
+[18:30:18] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z334
+[18:30:23] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z334
+[18:30:37] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x604, z334
+[18:30:45] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z324
+[18:31:21] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z326
+[18:31:28] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z315
+[18:31:37] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z320
+[18:31:43] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z305
+[18:31:56] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x596, z313
+[18:32:02] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x606, z305
+[18:32:13] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x615, z305
+[18:32:16] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x103, z177
+[18:32:16] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x610, z305
+[18:32:26] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z305
+[18:32:37] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x103, z177
+[18:32:49] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x103, z177
+[18:32:57] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z324
+[18:33:07] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z334
+[18:33:09] [Netty Epoll Server IO #11/INFO]: <LittyBoiz> u my golden hoe ;)[m
+[18:33:13] [Netty Epoll Server IO #1/INFO]: <matster1998> :)[m
+[18:33:31] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z315
+[18:33:42] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z305
+[18:33:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z305
+[18:34:30] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x119, z177
+[18:34:39] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x118, z177
+[18:34:49] [Server thread/WARN]: roelanford moved wrongly!
+[18:34:51] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x103, z178
+[18:37:30] [Server thread/WARN]: LittyBoiz moved wrongly!
+[18:38:04] [Server thread/WARN]: LittyBoiz moved wrongly!
+[18:38:47] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z327
+[18:39:00] [Server thread/INFO]: [GriefPrevention] matster1998 placed suspicious WATER_BUCKET @ world: x120, z177
+[18:39:00] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z319
+[18:39:17] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x625, z312
+[18:39:39] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z324
+[18:39:45] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x603, z327
+[18:39:56] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x611, z327
+[18:40:14] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed suspicious WATER_BUCKET @ world: x618, z334
+[18:40:17] [Server thread/WARN]: roelanford moved wrongly!
