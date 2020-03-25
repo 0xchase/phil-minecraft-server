@@ -5,6 +5,31 @@ Repository and backup for the club server
 ---
 
 ## Todo Game:
+ - New house
+   - Design underground room
+     - Slab hole with sea lantern behind
+     - Netherrack on fire as light
+     - Lava falling as light
+   - Make wooden house on a hill
+   - Entrances
+      - Walkthrough painting in house
+      - Jump down through lava pool entrance, must click button to open
+      - Waterfall entrance
+      - Slime block launch out of base
+      - Piston extender floor of room. Drop down twice for entrance.
+      - Double piston iron bars over doorways
+   - Traps
+      - Can open floors (2 wide) of all hallways, fall to death
+      - Can lock room doors, block opens to fill each room with lava
+      - Lock doors with double piston iron bars
+      - Blocks above door opens, fills room with lava and blocks passage
+      - Pressure plates everywhere, links to surveillence room which lights up based on person location. Lanterns labeled with signs.
+      - Machine gun arrows near house entrance path or ladder
+      - Button to drop lava over house entrance ladder or path
+      - Trapped chest locks room and dumps lava from center ceiling
+      - Wall painting with fall on the other side
+
+
  - Get horse
  - Build replica of lounge
  - Build mob arena

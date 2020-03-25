@@ -341,3 +341,31 @@
 [18:27:11] [Server thread/WARN]: SlorseOverlord moved wrongly!
 [18:28:08] [Server thread/INFO]: roelanford drowned
 [18:33:03] [Server thread/INFO]: SlorseOverlord burned to death
+[18:46:00] [Server thread/INFO]: SlorseOverlord burned to death
+[18:47:45] [Server thread/INFO]: SlorseOverlord lost connection: Disconnected
+[18:47:45] [Server thread/INFO]: SlorseOverlord left the game
+[18:48:46] [Server thread/INFO]: roelanford lost connection: Disconnected
+[18:48:46] [Server thread/INFO]: roelanford left the game
+[18:50:42] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[18:50:42] [Server thread/INFO]: Jackamonga left the game
+[18:57:19] [User Authenticator #143/INFO]: UUID of player 1635321 is a7446cd0-e634-48d4-b0c8-5754a2300877
+[18:57:19] [Server thread/INFO]: 1635321[/10.105.140.184:63692] logged in with entity id 852272 at ([world]-120.97040703400627, 75.5, 242.8308317462908)
+[18:57:23] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> hey[m
+[18:57:24] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> sorry[m
+[18:57:29] [Netty Epoll Server IO #9/INFO]: <1635321> Hi[m
+[18:57:36] [Netty Epoll Server IO #9/INFO]: <1635321> Was just checking who was on the server[m
+[18:57:41] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> oh gotcha[m
+[18:57:43] [Netty Epoll Server IO #14/INFO]: <thatnerdjack> just me[m
+[18:57:46] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[18:57:46] [Server thread/INFO]: 1635321 left the game
+[19:26:04] [Server thread/INFO]: thatnerdjack burned to death
+[19:51:29] [User Authenticator #144/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[19:51:29] [Server thread/INFO]: roelanford[/216.164.58.29:65436] logged in with entity id 862517 at ([world]-0.22649088601916445, 63.0, 178.30160397576665)
+[20:11:53] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed a sign @ world: x-5, z156;Welcome to Spawn!;Courtesy of;Minecraft Transit;Authority
+[20:12:13] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed a sign @ world: x-1, z161;To Jack R.'s;Wonderous Hovel
+[20:12:33] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed a sign @ world: x-1, z154;This sign for;the next tunnel.
+[20:14:11] [Server thread/INFO]: [GriefPrevention] thatnerdjack placed a sign @ world: x-4, z166;To the trains!;<in progress>
+[20:22:59] [Server thread/INFO]: roelanford lost connection: Disconnected
+[20:22:59] [Server thread/INFO]: roelanford left the game
+[20:30:48] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[20:30:48] [Server thread/INFO]: thatnerdjack left the game
