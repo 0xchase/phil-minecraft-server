@@ -380,3 +380,9 @@
 [21:44:23] [Server thread/WARN]: roelanford moved too quickly! -8.04544498053815,-2.0,-5.6197346495284535
 [21:48:07] [Server thread/INFO]: roelanford lost connection: Disconnected
 [21:48:07] [Server thread/INFO]: roelanford left the game
+[23:07:31] [User Authenticator #147/INFO]: UUID of player Jackamonga is 1fd923ff-6086-4fca-b8bc-3feab3ed9730
+[23:07:31] [Server thread/INFO]: Jackamonga[/10.104.149.178:55573] logged in with entity id 874411 at ([world]322.4016871721463, 63.0, -856.1642817394364)
+[23:11:57] [Server thread/WARN]: Jackamonga moved wrongly!
+[23:17:41] [Server thread/WARN]: Jackamonga moved wrongly!
+[23:18:41] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[23:18:41] [Server thread/INFO]: Jackamonga left the game
