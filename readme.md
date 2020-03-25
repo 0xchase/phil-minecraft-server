@@ -28,6 +28,8 @@ Repository and backup for the club server
       - Button to drop lava over house entrance ladder or path
       - Trapped chest locks room and dumps lava from center ceiling
       - Wall painting with fall on the other side
+   - Flying machine drop TNT, transport back and forth
+   - Ice transportation system between wells at different locations. Drop into well or swim up, take tunnel in different directions.
 
 
  - Get horse

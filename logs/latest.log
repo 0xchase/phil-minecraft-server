@@ -369,3 +369,14 @@
 [20:22:59] [Server thread/INFO]: roelanford left the game
 [20:30:48] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
 [20:30:48] [Server thread/INFO]: thatnerdjack left the game
+[21:09:50] [User Authenticator #145/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[21:09:50] [Server thread/INFO]: roelanford[/216.164.58.29:49298] logged in with entity id 870652 at ([world]356.9068358291478, 64.5625, 108.77393926045569)
+[21:30:43] [Server thread/INFO]: roelanford was blown up by Creeper
+[21:30:55] [Server thread/INFO]: roelanford lost connection: Disconnected
+[21:30:55] [Server thread/INFO]: roelanford left the game
+[21:42:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@495ad00f[id=<null>,name=roelanford,properties={},legacy=false] (/216.164.58.29:49438) lost connection: Disconnected
+[21:42:37] [User Authenticator #146/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[21:42:38] [Server thread/INFO]: roelanford[/216.164.58.29:49449] logged in with entity id 873504 at ([world]356.5, 64.0000002, 108.5)
+[21:44:23] [Server thread/WARN]: roelanford moved too quickly! -8.04544498053815,-2.0,-5.6197346495284535
+[21:48:07] [Server thread/INFO]: roelanford lost connection: Disconnected
+[21:48:07] [Server thread/INFO]: roelanford left the game
