@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-03-25 13:36:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-03-23 18:47:42 -0400"
@@ -643,6 +649,7 @@
       "minecraft:witch": "2020-03-23 16:12:39 -0400",
       "minecraft:wither_skeleton": "2020-03-23 16:00:18 -0400",
       "minecraft:husk": "2020-03-21 23:37:53 -0400",
+      "minecraft:cave_spider": "2020-03-25 13:04:41 -0400",
       "minecraft:enderman": "2020-03-18 23:37:09 -0400",
       "minecraft:zombie": "2020-03-18 23:08:25 -0400",
       "minecraft:drowned": "2020-03-19 20:44:32 -0400",
@@ -707,6 +714,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 00:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-03-25 13:36:34 -0400"
     },
     "done": true
   },
@@ -2814,6 +2827,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-03-18 23:39:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-03-25 13:36:34 -0400"
     },
     "done": true
   },
