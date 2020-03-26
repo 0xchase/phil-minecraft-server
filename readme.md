@@ -11,6 +11,7 @@ Repository and backup for the club server
      - Netherrack on fire as light
      - Lava falling as light
    - Make wooden house on a hill
+   - Pistons move to cover walls with lava
    - Entrances
       - Walkthrough painting in house
       - Jump down through lava pool entrance, must click button to open
