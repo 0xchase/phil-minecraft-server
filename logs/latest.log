@@ -3,3 +3,20 @@
 [00:24:20] [Server thread/INFO]: thatnerdjack fell from a high place
 [00:25:34] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
 [00:25:34] [Server thread/INFO]: thatnerdjack left the game
+[00:47:56] [User Authenticator #26/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[00:47:57] [Server thread/INFO]: matster1998[/10.105.186.239:60516] logged in with entity id 135716 at ([world]103.3456174465159, 64.0, 167.35132920591647)
+[00:49:42] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[00:49:42] [Server thread/INFO]: matster1998 left the game
+[01:08:22] [User Authenticator #27/INFO]: UUID of player matster1998 is 5632c0db-0ac8-472e-8934-5fd5016b1c2c
+[01:08:22] [Server thread/INFO]: matster1998[/10.105.186.239:61097] logged in with entity id 136022 at ([world]108.30000001192093, 24.0, 151.30000001192093)
+[01:09:23] [User Authenticator #28/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[01:09:23] [Server thread/INFO]: LittyBoiz[/96.255.198.177:65439] logged in with entity id 136134 at ([world]-15.5, 72.0, 128.5)
+[01:09:30] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> :eyes:[m
+[01:09:32] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[01:09:32] [Server thread/INFO]: LittyBoiz left the game
+[01:17:15] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[01:17:15] [Server thread/INFO]: matster1998 left the game
+[02:03:15] [User Authenticator #29/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[02:03:15] [Server thread/INFO]: LittyBoiz[/96.255.198.177:49206] logged in with entity id 137023 at ([world]-10.974955135216724, 76.0, 135.94238628727817)
+[02:14:01] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[02:14:01] [Server thread/INFO]: LittyBoiz left the game
