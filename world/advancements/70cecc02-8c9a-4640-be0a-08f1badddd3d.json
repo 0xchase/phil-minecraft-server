@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-03-25 21:55:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 23:39:06 -0400"
@@ -413,6 +419,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-18 23:14:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2020-03-25 21:51:30 -0400"
     },
     "done": true
   },
@@ -877,6 +889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2020-03-25 21:51:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-03-23 15:20:12 -0400"
@@ -1274,6 +1292,7 @@
       "minecraft:birch_forest": "2020-03-19 20:32:13 -0400",
       "minecraft:warm_ocean": "2020-03-25 18:34:23 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-03-25 18:34:20 -0400",
+      "minecraft:badlands": "2020-03-25 21:58:08 -0400",
       "minecraft:savanna_plateau": "2020-03-19 17:18:39 -0400",
       "minecraft:beach": "2020-03-19 20:42:37 -0400",
       "minecraft:dark_forest": "2020-03-19 00:41:49 -0400",
@@ -1282,6 +1301,7 @@
       "minecraft:birch_forest_hills": "2020-03-23 16:15:35 -0400",
       "minecraft:wooded_mountains": "2020-03-19 00:40:28 -0400",
       "minecraft:wooded_hills": "2020-03-19 20:41:26 -0400",
+      "minecraft:wooded_badlands_plateau": "2020-03-25 21:55:14 -0400",
       "minecraft:swamp": "2020-03-18 23:25:55 -0400",
       "minecraft:savanna": "2020-03-19 17:12:39 -0400",
       "minecraft:plains": "2020-03-19 00:40:50 -0400"
@@ -1315,6 +1335,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-03-19 20:44:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2020-03-25 21:51:30 -0400"
     },
     "done": true
   },
@@ -1588,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2020-03-25 21:51:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-19 20:37:57 -0400"
@@ -1663,6 +1695,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2020-03-23 15:39:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-03-25 21:52:48 -0400"
     },
     "done": true
   },
@@ -1788,6 +1826,7 @@
       "golden_apple": "2020-03-23 15:20:41 -0400",
       "rotten_flesh": "2020-03-18 22:59:54 -0400",
       "salmon": "2020-03-21 23:35:14 -0400",
+      "golden_carrot": "2020-03-25 22:01:51 -0400",
       "cooked_chicken": "2020-03-19 16:11:58 -0400",
       "cooked_salmon": "2020-03-19 21:42:20 -0400",
       "carrot": "2020-03-19 19:04:32 -0400"
@@ -1869,6 +1908,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-03-19 00:07:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-03-25 21:52:48 -0400"
     },
     "done": true
   },
@@ -2013,6 +2058,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-03-18 23:14:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-03-25 21:55:44 -0400"
     },
     "done": true
   },
@@ -2244,6 +2295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2020-03-25 21:51:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-03-19 20:37:57 -0400"
@@ -2457,6 +2514,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-03-18 23:03:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-03-25 21:52:48 -0400"
     },
     "done": true
   },
