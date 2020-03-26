@@ -227,6 +227,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-03-25 18:42:12 -0400",
+      "diamond_helmet": "2020-03-25 18:42:12 -0400",
+      "diamond_chestplate": "2020-03-25 18:42:12 -0400",
+      "diamond_boots": "2020-03-25 18:42:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 00:33:45 -0400"
@@ -338,6 +347,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2020-03-21 23:21:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-03-25 18:47:41 -0400"
     },
     "done": true
   },
@@ -513,6 +528,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-19 00:09:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-25 18:47:43 -0400"
     },
     "done": true
   },
@@ -1405,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-25 18:47:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 23:39:06 -0400"
@@ -1543,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-25 18:47:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-19 00:11:53 -0400"
@@ -1606,6 +1639,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-03-18 23:39:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-03-25 18:47:43 -0400"
     },
     "done": true
   },
@@ -1743,6 +1782,7 @@
       "beef": "2020-03-19 20:26:47 -0400",
       "spider_eye": "2020-03-21 23:11:04 -0400",
       "potato": "2020-03-23 11:50:35 -0400",
+      "pumpkin_pie": "2020-03-25 19:11:03 -0400",
       "mutton": "2020-03-18 23:06:25 -0400",
       "bread": "2020-03-19 17:19:01 -0400",
       "golden_apple": "2020-03-23 15:20:41 -0400",
@@ -2129,6 +2169,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-03-19 17:52:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-03-25 18:47:41 -0400"
     },
     "done": true
   },
@@ -2618,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-03-25 19:09:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-03-18 23:02:26 -0400"
@@ -2687,6 +2739,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2020-03-23 12:09:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-03-25 18:47:41 -0400"
     },
     "done": true
   },
@@ -2813,6 +2871,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-03-19 18:02:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-03-25 18:47:43 -0400"
     },
     "done": true
   },
