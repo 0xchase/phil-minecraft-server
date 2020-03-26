@@ -25,3 +25,33 @@
 [05:16:51] [Server thread/INFO]: matster1998 has made the advancement [Take Aim]
 [05:47:50] [Server thread/INFO]: matster1998 lost connection: Disconnected
 [05:47:50] [Server thread/INFO]: matster1998 left the game
+[10:57:41] [User Authenticator #31/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
+[10:57:41] [Server thread/INFO]: benkoontz000[/73.133.132.224:51644] logged in with entity id 144863 at ([world]-754.1522060890113, 39.0, 838.1496350337065)
+[12:17:42] [User Authenticator #32/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[12:17:42] [Server thread/INFO]: roelanford[/216.164.58.29:54682] logged in with entity id 154306 at ([world]358.472005709955, 57.0, 109.62594367087179)
+[12:29:36] [Server thread/INFO]: roelanford lost connection: Disconnected
+[12:29:36] [Server thread/INFO]: roelanford left the game
+[12:40:15] [Server thread/INFO]: benkoontz000 was slain by Zombie
+[13:04:01] [User Authenticator #33/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[13:04:01] [Server thread/INFO]: LittyBoiz[/96.255.198.177:49868] logged in with entity id 184307 at ([world]117.57165417380469, 72.0, 99.2600379439229)
+[13:04:10] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> yaaaa[m
+[13:26:10] [Netty Epoll Server IO #0/INFO]: <benkoontz000> ya[m
+[13:27:33] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> whashappen[m
+[13:27:34] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> in[m
+[13:27:44] [Netty Epoll Server IO #0/INFO]: <benkoontz000> not much[m
+[13:27:47] [Netty Epoll Server IO #0/INFO]: <benkoontz000> hbu?[m
+[13:28:11] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> nm woke up like an hr ago, bc we went ham ont hat call yesterday[m
+[13:28:21] [Netty Epoll Server IO #0/INFO]: <benkoontz000> yeah it was great[m
+[13:28:26] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> up til 4 :o[m
+[13:28:40] [Netty Epoll Server IO #3/INFO]: <LittyBoiz> the afterparty was littttt[m
+[13:30:55] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[13:30:55] [Server thread/INFO]: LittyBoiz left the game
+[13:31:46] [User Authenticator #34/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[13:31:46] [Server thread/INFO]: LittyBoiz[/96.255.198.177:49914] logged in with entity id 190467 at ([world]186.23750001192093, 65.0, 131.69999998807907)
+[13:58:23] [Server thread/INFO]: benkoontz000 has made the advancement [Fishy Business]
+[13:58:33] [Netty Epoll Server IO #5/INFO]: <LittyBoiz> wyd papi[m
+[13:58:40] [Netty Epoll Server IO #0/INFO]: <benkoontz000> fishing[m
+[14:16:09] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[14:16:09] [Server thread/INFO]: LittyBoiz left the game
+[14:28:45] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[14:28:45] [Server thread/INFO]: benkoontz000 left the game
