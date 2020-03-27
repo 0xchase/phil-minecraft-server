@@ -161,3 +161,8 @@
 [20:17:02] [Server thread/INFO]: matster1998 was shot by Skeleton
 [20:39:45] [Server thread/INFO]: matster1998 lost connection: Disconnected
 [20:39:45] [Server thread/INFO]: matster1998 left the game
+[21:47:35] [User Authenticator #43/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[21:47:35] [Server thread/INFO]: roelanford[/216.164.58.29:56968] logged in with entity id 265697 at ([world]-41.92119131838789, 70.0, -405.65690863914756)
+[21:53:18] [Server thread/INFO]: roelanford was slain by Zombie
+[22:03:45] [Server thread/INFO]: roelanford lost connection: Disconnected
+[22:03:45] [Server thread/INFO]: roelanford left the game
