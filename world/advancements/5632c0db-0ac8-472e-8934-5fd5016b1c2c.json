@@ -1206,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-26 20:14:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-19 23:02:57 -0400"
@@ -1532,6 +1538,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2020-03-26 20:33:40 -0400",
       "apple": "2020-03-18 23:46:03 -0400",
       "bread": "2020-03-18 22:26:14 -0400",
       "melon_slice": "2020-03-25 21:21:54 -0400",
