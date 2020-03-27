@@ -114,3 +114,25 @@
 [16:45:49] [Server thread/INFO]: benkoontz000 left the game
 [16:45:50] [User Authenticator #54/INFO]: UUID of player benkoontz000 is 605fc3cd-e450-4406-b1be-c5b452a55abb
 [16:45:50] [Server thread/INFO]: benkoontz000[/73.133.132.224:53656] logged in with entity id 329378 at ([world]-112.4224375520941, 71.0, 1661.84073011916)
+[16:50:42] [Server thread/INFO]: matster1998 lost connection: Disconnected
+[16:50:42] [Server thread/INFO]: matster1998 left the game
+[17:24:01] [Server thread/INFO]: [GriefPrevention] benkoontz000 placed suspicious WATER_BUCKET @ world: x-135, z1448
+[17:24:56] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[17:24:56] [Server thread/INFO]: benkoontz000 left the game
+[17:56:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@d07ae6c[id=<null>,name=roelanford,properties={},legacy=false] (/216.164.58.29:64910) lost connection: Disconnected
+[17:56:23] [User Authenticator #55/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[17:56:23] [Server thread/INFO]: roelanford[/216.164.58.29:64913] logged in with entity id 338153 at ([world]356.5, 64.0000002, 108.5)
+[18:00:15] [Server thread/INFO]: roelanford drowned
+[18:00:21] [Server thread/INFO]: roelanford lost connection: Disconnected
+[18:00:21] [Server thread/INFO]: roelanford left the game
+[18:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5284ms or 105 ticks behind
+[18:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45185ms or 903 ticks behind
+[18:25:01] [Server Watchdog/FATAL]: A single server tick took 60.24 seconds (should be max 0.05)
+[18:25:04] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18:25:31] [Server Watchdog/ERROR]: This crash report has been saved to: /home/chase/new-server/./crash-reports/crash-2020-03-27_18.25.31-server.txt
+[18:25:31] [Thread-2/INFO]: Stopping server
+[18:25:31] [Thread-2/INFO]: Saving players
+[18:25:31] [Thread-2/INFO]: Saving worlds
+[18:25:31] [Thread-2/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:25:34] [Thread-2/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:25:34] [Thread-2/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
