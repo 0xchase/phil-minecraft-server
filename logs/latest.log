@@ -15,3 +15,8 @@
 [10:19:41] [Server thread/INFO]: 1635321[/10.105.140.184:50569] logged in with entity id 12450 at ([world]-106.27044361293497, 72.0, 259.6622469944012)
 [10:19:51] [Server thread/INFO]: 1635321 lost connection: Disconnected
 [10:19:51] [Server thread/INFO]: 1635321 left the game
+[11:12:19] [User Authenticator #6/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[11:12:19] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52951] logged in with entity id 12588 at ([world]193.27345261193588, 65.0, 128.77582992945105)
+[11:28:16] [Server thread/INFO]: LittyBoiz tried to swim in lava
+[11:37:02] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[11:37:02] [Server thread/INFO]: LittyBoiz left the game
