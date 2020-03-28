@@ -246,6 +246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-03-28 07:42:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-03-20 09:52:57 -0400"
@@ -666,6 +672,7 @@
       "minecraft:slime": "2020-03-22 12:18:25 -0400",
       "minecraft:phantom": "2020-03-25 15:21:11 -0400",
       "minecraft:witch": "2020-03-24 07:11:56 -0400",
+      "minecraft:wither_skeleton": "2020-03-28 07:44:47 -0400",
       "minecraft:husk": "2020-03-23 14:31:47 -0400",
       "minecraft:cave_spider": "2020-03-22 12:58:46 -0400",
       "minecraft:silverfish": "2020-03-22 12:59:47 -0400",
@@ -2877,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-03-28 07:40:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-19 04:16:21 -0400"
@@ -3120,6 +3133,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-03-25 09:26:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-03-28 07:40:11 -0400"
     },
     "done": true
   },

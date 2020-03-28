@@ -1,36 +1,9 @@
-[20:08:24] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:08:24] [Server thread/INFO]: Loading properties
-[20:08:24] [Server thread/INFO]: Default game type: SURVIVAL
-[20:08:24] [Server thread/INFO]: Generating keypair
-[20:08:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:08:24] [Server thread/INFO]: Using epoll channel type
-[20:08:25] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[20:08:28] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
-[20:08:28] [Server thread/INFO]: Preparing level "world"
-[20:08:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:08:30] [Server thread/INFO]: Loaded 6 recipes
-[20:08:30] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[20:08:31] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:31] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:31] [Server thread/INFO]: Preparing spawn area: 57%
-[20:08:31] [Server thread/INFO]: Time elapsed: 1047 ms
-[20:08:31] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[20:08:32] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:32] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:32] [Server thread/INFO]: Time elapsed: 625 ms
-[20:08:32] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[20:08:32] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:32] [Server-Worker-7/INFO]: Preparing spawn area: 83%
-[20:08:32] [Server thread/INFO]: Time elapsed: 709 ms
-[20:08:32] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
-[20:08:32] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[20:08:32] [Server thread/INFO]: [GriefPrevention] 13 total claims loaded.
-[20:08:33] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[20:08:33] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[20:08:33] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[20:08:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:08:33] [Server thread/INFO]: Done (4.824s)! For help, type "help"
-[20:29:32] [User Authenticator #1/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
-[20:29:32] [Server thread/INFO]: roelanford[/216.164.58.29:50240] logged in with entity id 180 at ([world]-125.75294580404064, 64.0, 245.4079501370277)
-[20:38:25] [Server thread/INFO]: roelanford lost connection: Disconnected
-[20:38:25] [Server thread/INFO]: roelanford left the game
+[07:34:33] [User Authenticator #2/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[07:34:33] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52528] logged in with entity id 1387 at ([world]-0.1383941541027534, 63.0, 178.83912944678764)
+[07:44:29] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[07:44:29] [Server thread/INFO]: LittyBoiz left the game
+[07:44:43] [User Authenticator #3/INFO]: UUID of player LittyBoiz is ccf4470c-2c26-4a99-883a-be674e11053d
+[07:44:43] [Server thread/INFO]: LittyBoiz[/96.255.198.177:52578] logged in with entity id 2946 at ([world_nether]-204.30000001192093, 62.0, 312.99185329018786)
+[07:49:39] [Server thread/INFO]: LittyBoiz was slain by Wither Skeleton
+[08:26:15] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[08:26:15] [Server thread/INFO]: LittyBoiz left the game
