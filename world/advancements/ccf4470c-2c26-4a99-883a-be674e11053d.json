@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-03-28 18:24:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2020-03-20 05:36:08 -0400"
@@ -399,6 +405,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2020-03-20 05:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-03-28 17:37:18 -0400"
     },
     "done": true
   },
@@ -676,6 +688,7 @@
       "minecraft:husk": "2020-03-23 14:31:47 -0400",
       "minecraft:cave_spider": "2020-03-22 12:58:46 -0400",
       "minecraft:silverfish": "2020-03-22 12:59:47 -0400",
+      "minecraft:enderman": "2020-03-28 18:31:38 -0400",
       "minecraft:zombie": "2020-03-18 22:51:50 -0400",
       "minecraft:drowned": "2020-03-21 16:49:35 -0400",
       "minecraft:zombie_villager": "2020-03-19 04:19:43 -0400"
@@ -1018,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-28 17:37:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-24 15:53:30 -0400"
@@ -1296,6 +1315,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-03-28 18:46:35 -0400",
       "minecraft:forest": "2020-03-18 22:35:34 -0400",
       "minecraft:mountains": "2020-03-18 22:39:41 -0400",
       "minecraft:taiga": "2020-03-22 02:36:45 -0400",

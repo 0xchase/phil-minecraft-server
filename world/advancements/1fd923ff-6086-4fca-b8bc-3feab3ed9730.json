@@ -1066,6 +1066,7 @@
       "minecraft:forest": "2020-03-20 15:04:16 -0400",
       "minecraft:mountains": "2020-03-20 15:04:29 -0400",
       "minecraft:taiga": "2020-03-20 23:04:08 -0400",
+      "minecraft:desert_hills": "2020-03-28 18:44:39 -0400",
       "minecraft:deep_cold_ocean": "2020-03-20 23:21:43 -0400",
       "minecraft:taiga_hills": "2020-03-20 23:05:07 -0400",
       "minecraft:desert": "2020-03-20 15:34:06 -0400",
@@ -1079,6 +1080,7 @@
       "minecraft:wooded_mountains": "2020-03-20 15:44:26 -0400",
       "minecraft:wooded_hills": "2020-03-20 15:11:32 -0400",
       "minecraft:stone_shore": "2020-03-20 23:21:04 -0400",
+      "minecraft:wooded_badlands_plateau": "2020-03-28 18:38:49 -0400",
       "minecraft:swamp": "2020-03-20 15:10:45 -0400",
       "minecraft:savanna": "2020-03-20 22:57:28 -0400",
       "minecraft:plains": "2020-03-20 15:04:54 -0400"
@@ -1394,6 +1396,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-03-23 20:59:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-03-28 18:38:10 -0400"
     },
     "done": true
   },
@@ -2038,6 +2046,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2020-03-20 22:44:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-03-28 18:38:10 -0400"
     },
     "done": true
   },

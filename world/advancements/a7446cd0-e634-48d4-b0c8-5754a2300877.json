@@ -426,6 +426,7 @@
       "apple": "2020-03-18 16:15:56 -0400",
       "potato": "2020-03-19 17:01:39 -0400",
       "bread": "2020-03-18 23:57:33 -0400",
+      "golden_apple": "2020-03-28 18:24:06 -0400",
       "cooked_chicken": "2020-03-18 16:43:42 -0400",
       "carrot": "2020-03-18 17:20:47 -0400"
     },
@@ -1729,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-03-28 18:26:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-18 14:11:40 -0400"
@@ -1774,12 +1781,14 @@
       "minecraft:deep_cold_ocean": "2020-03-20 11:32:03 -0400",
       "minecraft:desert": "2020-03-26 17:49:43 -0400",
       "minecraft:birch_forest": "2020-03-26 19:23:46 -0400",
+      "minecraft:badlands": "2020-03-28 18:06:44 -0400",
       "minecraft:beach": "2020-03-20 11:31:46 -0400",
       "minecraft:dark_forest": "2020-03-18 13:44:01 -0400",
       "minecraft:river": "2020-03-18 13:55:03 -0400",
       "minecraft:wooded_mountains": "2020-03-19 19:47:19 -0400",
       "minecraft:wooded_hills": "2020-03-19 16:19:44 -0400",
       "minecraft:stone_shore": "2020-03-20 11:33:04 -0400",
+      "minecraft:wooded_badlands_plateau": "2020-03-28 18:06:35 -0400",
       "minecraft:swamp": "2020-03-18 13:55:04 -0400",
       "minecraft:savanna": "2020-03-26 17:49:40 -0400",
       "minecraft:plains": "2020-03-18 13:44:15 -0400"
