@@ -697,6 +697,7 @@
       "minecraft:husk": "2020-03-21 23:37:53 -0400",
       "minecraft:cave_spider": "2020-03-25 13:04:41 -0400",
       "minecraft:enderman": "2020-03-18 23:37:09 -0400",
+      "minecraft:silverfish": "2020-03-28 19:12:05 -0400",
       "minecraft:zombie": "2020-03-18 23:08:25 -0400",
       "minecraft:drowned": "2020-03-19 20:44:32 -0400",
       "minecraft:zombie_villager": "2020-03-21 21:24:14 -0400"
@@ -853,6 +854,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-03-28 18:52:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-19 00:33:45 -0400"
@@ -916,6 +923,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-03-23 15:52:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-03-28 18:55:14 -0400"
     },
     "done": true
   },
@@ -2900,6 +2913,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-03-23 15:39:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-03-28 18:55:14 -0400"
     },
     "done": true
   },

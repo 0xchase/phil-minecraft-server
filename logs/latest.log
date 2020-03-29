@@ -339,3 +339,342 @@
 [18:50:52] [Server thread/INFO]: kittenlil was burnt to a crisp whilst fighting Zombie
 [18:51:09] [Netty Epoll Server IO #11/INFO]: <benkoontz000> \[m
 [18:51:26] [Netty Epoll Server IO #11/INFO]: <benkoontz000> x725,z2300[m
+[18:51:50] [Server thread/INFO]: 1635321 has made the advancement [Eye Spy]
+[18:52:19] [Netty Epoll Server IO #14/INFO]: <RoidBlankfein> hehe[m
+[18:52:28] [Netty Epoll Server IO #14/INFO]: <RoidBlankfein> fuck how do minecrafts work[m
+[18:52:29] [Server thread/INFO]: 1635321 issued server command: /tp @a 1635321
+[18:52:29] [Server thread/INFO]: [1635321: Teleported 10 entities to 1635321]
+[18:52:29] [Server thread/INFO]: roelanford has made the advancement [Eye Spy]
+[18:52:29] [Server thread/INFO]: RoidBlankfein has made the advancement [Eye Spy]
+[18:52:29] [Server thread/INFO]: kittenlil has made the advancement [Eye Spy]
+[18:52:29] [Server thread/WARN]: kittenlil moved too quickly! -766.9241142074585,32.99454922914505,-2108.120400086732
+[18:52:30] [Server thread/INFO]: Jackamonga has made the advancement [Eye Spy]
+[18:52:33] [Netty Epoll Server IO #5/INFO]: <1635321> Welcome[m
+[18:53:27] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> can someone kill me[m
+[18:53:39] [Server thread/INFO]: LittyBoiz was slain by matster1998
+[18:54:17] [Server thread/INFO]: matster1998 issued server command: /w RoidBlankfein do you know how to play
+[18:54:31] [Server thread/INFO]: RoidBlankfein was slain by roelanford
+[18:55:02] [Netty Epoll Server IO #0/INFO]: <LittyBoiz> can i get a tp as well[m
+[18:55:09] [Server thread/INFO]: matster1998 issued server command: /tp RoidBlankfein
+[18:55:13] [Server thread/INFO]: thatnerdjack has made the advancement [The End?]
+[18:55:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:55:13] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[18:55:14] [Server thread/INFO]: 1635321 issued server command: /tp @a 1635321
+[18:55:14] [Server thread/INFO]: [1635321: Teleported 10 entities to 1635321]
+[18:55:14] [Server thread/WARN]: SlorseOverlord moved too quickly! -40.659185172059324,5.0,19.814467622574284
+[18:55:14] [Server thread/WARN]: Jackamonga moved too quickly! 4.85655589999817,3.0,17.076762972266806
+[18:55:14] [Server thread/INFO]: roelanford has made the advancement [The End?]
+[18:55:14] [Server thread/INFO]: matster1998 has made the advancement [The End?]
+[18:55:14] [Server thread/INFO]: Jackamonga has made the advancement [The End?]
+[18:55:14] [Server thread/INFO]: SlorseOverlord has made the advancement [The End?]
+[18:55:21] [Server thread/INFO]: 1635321 has made the advancement [The End?]
+[18:55:24] [Server thread/INFO]: RoidBlankfein has made the advancement [The End?]
+[18:55:46] [Server thread/INFO]: benkoontz000 has made the advancement [The End?]
+[18:55:48] [Server thread/INFO]: SlorseOverlord fell out of the world
+[18:55:51] [Server thread/INFO]: LittyBoiz has made the advancement [The End?]
+[18:56:09] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory
+[18:56:13] [Server thread/INFO]: 1635321 issued server command: /gamerule keepInventory true
+[18:56:13] [Server thread/INFO]: [1635321: Gamerule keepInventory is now set to: true]
+[18:56:16] [Server thread/INFO]: Jackamonga didn't want to live in the same world as benkoontz000
+[18:56:22] [Server thread/INFO]: thatnerdjack has reached the goal [You Need a Mint]
+[18:56:50] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord bow 1
+[18:56:50] [Server thread/INFO]: [1635321: Gave 1 [Bow] to SlorseOverlord]
+[18:56:50] [Server thread/INFO]: roelanford was slain by Enderman
+[18:57:07] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[18:57:07] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[18:57:19] [Server thread/INFO]: RoidBlankfein was slain by benkoontz000
+[18:57:43] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_chestplate 1
+[18:57:43] [Server thread/INFO]: [1635321: Gave 1 [Iron Chestplate] to SlorseOverlord]
+[18:57:45] [Server thread/INFO]: benkoontz000 was slain by Enderman
+[18:57:49] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_helmet 1
+[18:57:49] [Server thread/INFO]: [1635321: Gave 1 [Iron Helmet] to SlorseOverlord]
+[18:57:53] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_boots 1
+[18:57:53] [Server thread/INFO]: [1635321: Gave 1 [Iron Boots] to SlorseOverlord]
+[18:58:02] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_helmet 1
+[18:58:02] [Server thread/INFO]: [1635321: Gave 1 [Iron Helmet] to SlorseOverlord]
+[18:58:43] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_leggings 1
+[18:58:43] [Server thread/INFO]: [1635321: Gave 1 [Iron Leggings] to SlorseOverlord]
+[18:59:01] [Server thread/INFO]: matster1998 blew up
+[18:59:08] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:glass_bottle 12
+[18:59:08] [Server thread/INFO]: [1635321: Gave 12 [Glass Bottle] to SlorseOverlord]
+[18:59:08] [Server thread/INFO]: kittenlil has made the advancement [Ice Bucket Challenge]
+[18:59:11] [Netty Epoll Server IO #11/INFO]: <benkoontz000> dont look at the tall black guys[m
+[18:59:11] [Server thread/INFO]: LittyBoiz was slain by Enderman
+[18:59:15] [Netty Epoll Server IO #11/INFO]: <benkoontz000> they will eat you[m
+[19:00:29] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:iron_sword 1
+[19:00:29] [Server thread/INFO]: [1635321: Gave 1 [Iron Sword] to SlorseOverlord]
+[19:00:39] [Server thread/INFO]: 1635321 issued server command: /give SlorseOverlord minecraft:shield 1
+[19:00:39] [Server thread/INFO]: [1635321: Gave 1 [Shield] to SlorseOverlord]
+[19:01:01] [Server thread/INFO]: kittenlil has made the advancement [The End?]
+[19:01:33] [Server thread/INFO]: SlorseOverlord has reached the goal [You Need a Mint]
+[19:01:45] [Server thread/INFO]: kittenlil was slain by Enderman
+[19:01:54] [Server thread/INFO]: thatnerdjack was slain by Ender Dragon
+[19:01:58] [Server thread/INFO]: thatnerdjack lost connection: Disconnected
+[19:01:58] [Server thread/INFO]: thatnerdjack left the game
+[19:02:01] [Server thread/WARN]: kittenlil moved too quickly! -633.5811477105763,19.945106652967926,-2364.9296674521215
+[19:02:11] [Server thread/INFO]: LittyBoiz was slain by Ender Dragon
+[19:02:13] [Server thread/INFO]: benkoontz000 was slain by Enderman
+[19:02:48] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:02:49] [Server thread/INFO]: SlorseOverlord has made the advancement [Take Aim]
+[19:03:48] [Server thread/INFO]: 1635321 has made the advancement [Free the End]
+[19:03:58] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:03:58] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:04:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@35ef9137[id=<null>,name=teddyzb123,properties={},legacy=false] (/96.255.20.208:61034) lost connection: Disconnected
+[19:05:28] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:ender_pearl 50
+[19:05:28] [Server thread/INFO]: [1635321: Gave 50 [Ender Pearl] to 1635321]
+[19:05:31] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:05:32] [Server thread/INFO]: RoidBlankfein was slain by Zombie
+[19:05:46] [Server thread/INFO]: 1635321 has made the advancement [Remote Getaway]
+[19:05:48] [Server thread/WARN]: SlorseOverlord moved too quickly! -8.257993475706485,1.0,6.001895286589299
+[19:05:49] [Server thread/INFO]: benkoontz000 has made the advancement [Remote Getaway]
+[19:06:08] [Server thread/INFO]: 1635321 didn't want to live in the same world as benkoontz000
+[19:06:16] [Server thread/INFO]: RoidBlankfein has made the advancement [Monster Hunter]
+[19:06:21] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 benkoontz000
+[19:06:21] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:06:24] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:06:24] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:06:25] [User Authenticator #29/INFO]: UUID of player teddyzb123 is d76617b4-91f2-40a4-8fd5-209d47a4eb45
+[19:06:25] [Server thread/INFO]: teddyzb123[/96.255.20.208:61204] logged in with entity id 86027 at ([world]-8.5, 76.0, 137.5)
+[19:06:36] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 benkoontz000
+[19:06:36] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:06:58] [Server thread/INFO]: matster1998 was slain by benkoontz000
+[19:07:01] [Server thread/INFO]: SlorseOverlord has made the advancement [Remote Getaway]
+[19:07:04] [Server thread/INFO]: Jackamonga has made the advancement [Remote Getaway]
+[19:07:20] [Server thread/INFO]: roelanford lost connection: Disconnected
+[19:07:20] [Server thread/INFO]: roelanford left the game
+[19:07:21] [Server thread/INFO]: kittenlil lost connection: Disconnected
+[19:07:21] [Server thread/INFO]: kittenlil left the game
+[19:07:26] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:07:26] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:07:53] [Server thread/INFO]: Jackamonga was slain by Enderman
+[19:08:14] [Netty Epoll Server IO #13/INFO]: <SlorseOverlord> -1039 747 end city exit[m
+[19:08:15] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:cobblestone 64
+[19:08:15] [Server thread/INFO]: [1635321: Gave 64 [Cobblestone] to 1635321]
+[19:08:23] [Server thread/WARN]: Jackamonga moved too quickly! -633.5382618016889,20.23363200604248,-2364.744098507991
+[19:08:30] [Server thread/INFO]: matster1998 has made the advancement [Remote Getaway]
+[19:08:38] [Server thread/INFO]: benkoontz000 fell out of the world
+[19:09:36] [Server thread/INFO]: LittyBoiz fell out of the world
+[19:09:56] [User Authenticator #30/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[19:09:56] [Server thread/INFO]: roelanford[/216.164.58.29:51791] logged in with entity id 88461 at ([world_the_end]-70.06711131530511, 60.0, 46.958803710501975)
+[19:10:32] [Server thread/INFO]: roelanford was slain by Enderman
+[19:11:34] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:cobblestone 64
+[19:11:34] [Server thread/INFO]: [1635321: Gave 64 [Cobblestone] to 1635321]
+[19:11:35] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:cobblestone 64
+[19:11:35] [Server thread/INFO]: [1635321: Gave 64 [Cobblestone] to 1635321]
+[19:12:25] [Server thread/INFO]: RoidBlankfein was slain by teddyzb123
+[19:12:30] [Server thread/INFO]: matster1998 was slain by Enderman
+[19:12:35] [Server thread/INFO]: 1635321 was slain by Enderman
+[19:12:47] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 SlorseOverlord
+[19:12:47] [Server thread/INFO]: [1635321: Teleported 1635321 to SlorseOverlord]
+[19:13:07] [Server thread/INFO]: matster1998 issued server command: /w RoidBlankfein :)
+[19:13:08] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:13:08] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:13:19] [Netty Epoll Server IO #14/INFO]: <RoidBlankfein> u wan some dis[m
+[19:13:48] [Server thread/INFO]: LittyBoiz has made the advancement [Remote Getaway]
+[19:14:09] [Server thread/INFO]: matster1998 issued server command: /w RoidBlankfein poop
+[19:14:31] [Server thread/WARN]: matster1998 moved too quickly! -5.338860442396722,-13.0,2.436335028433085
+[19:15:09] [Server thread/INFO]: roelanford fell from a high place
+[19:15:29] [Server thread/WARN]: SlorseOverlord moved too quickly! -7.5809589897540945,1.0,7.084825218257606
+[19:15:32] [Server thread/WARN]: SlorseOverlord moved too quickly! 7.569520070596354,-1.0,-6.501598061802838
+[19:16:19] [Server thread/INFO]: teddyzb123 has made the advancement [Stone Age]
+[19:16:53] [Server thread/INFO]: LittyBoiz was slain by Enderman
+[19:17:36] [Server thread/INFO]: Jackamonga was slain by Enderman
+[19:17:53] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:18:15] [Server thread/WARN]: SlorseOverlord moved too quickly! -634.2303094325914,20.23363200604248,-2364.488090022993
+[19:18:27] [Server thread/WARN]: LittyBoiz moved too quickly! -6.58445866112902,-15.0,-6.491002263309156
+[19:18:27] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:18:27] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:18:34] [Server thread/WARN]: benkoontz000 moved too quickly! -3.550470122861043,0.8322033533667508,-9.457236862025866
+[19:18:50] [Server thread/WARN]: LittyBoiz moved too quickly! 5.544305537595392,-16.0,2.776971501245498
+[19:19:07] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:19:07] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:19:24] [Server thread/INFO]: 1635321 issued server command: /tp @p benkoontz000
+[19:19:24] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:21:02] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:21:02] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:22:09] [Server thread/WARN]: SlorseOverlord moved too quickly! -2.6158445051700028,-15.0,1.8409992245370859
+[19:22:29] [Server thread/INFO]: RoidBlankfein was shot by Skeleton
+[19:22:49] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:22:57] [Server thread/WARN]: SlorseOverlord moved too quickly! -633.6557156796102,20.23363200604248,-2364.5302419176046
+[19:23:10] [Server thread/INFO]: roelanford was slain by Zombie
+[19:23:43] [Server thread/WARN]: LittyBoiz moved too quickly! -0.8899759088278643,-17.0,3.9729874901337325
+[19:23:57] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:cobblestone 64
+[19:23:57] [Server thread/INFO]: [1635321: Gave 64 [Cobblestone] to 1635321]
+[19:23:59] [Server thread/INFO]: 1635321 issued server command: /give @p minecraft:cobblestone 64
+[19:23:59] [Server thread/INFO]: [1635321: Gave 64 [Cobblestone] to 1635321]
+[19:24:02] [Server thread/INFO]: LittyBoiz was slain by Enderman
+[19:24:35] [Server thread/INFO]: RoidBlankfein was slain by Spider
+[19:25:15] [Server thread/INFO]: matster1998 has made the advancement [The City at the End of the Game]
+[19:25:19] [Server thread/INFO]: Jackamonga has made the advancement [The City at the End of the Game]
+[19:25:20] [Server thread/INFO]: 1635321 has made the advancement [The City at the End of the Game]
+[19:25:21] [Server thread/INFO]: teddyzb123 was shot by Skeleton
+[19:26:27] [Server thread/INFO]: benkoontz000 fell out of the world
+[19:26:46] [Server thread/INFO]: 1635321 hit the ground too hard whilst trying to escape Jackamonga
+[19:26:47] [Server thread/INFO]: RoidBlankfein fell from a high place
+[19:26:50] [Netty Epoll Server IO #9/INFO]: <matster1998> -1.5k[m
+[19:26:52] [Netty Epoll Server IO #9/INFO]: <matster1998> 1k[m
+[19:26:53] [Server thread/INFO]: teddyzb123 has made the advancement [Monster Hunter]
+[19:26:55] [Server thread/INFO]: 1635321 issued server command: /tp @p benkoontz000
+[19:26:55] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:26:58] [Server thread/WARN]: matster1998 moved too quickly! 1.9344053744212033,-16.0,-1.915640268923653
+[19:27:00] [Server thread/INFO]: 1635321 issued server command: /tp @p matster1998
+[19:27:00] [Server thread/INFO]: [1635321: Teleported 1635321 to matster1998]
+[19:27:00] [Server thread/WARN]: 1635321 moved too quickly! -1620.8553339408209,28.0,1069.826040616516
+[19:27:02] [Server thread/WARN]: matster1998 moved too quickly! 5.218265746477073,-11.0,-7.079456808509121
+[19:27:05] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:27:09] [Server thread/WARN]: matster1998 moved too quickly! -7.106113271243657,-11.0,-1.5734160277877436
+[19:27:16] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:27:16] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:27:39] [Server thread/INFO]: RoidBlankfein lost connection: Disconnected
+[19:27:39] [Server thread/INFO]: RoidBlankfein left the game
+[19:27:44] [Server thread/WARN]: roelanford moved too quickly! -11.108492902889068,-0.6319031399820076,1.6304916276768893
+[19:28:00] [Server thread/WARN]: roelanford moved too quickly! 10.401570389048658,1.0,4.296256253981539
+[19:28:09] [Server thread/INFO]: roelanford was slain by Zombie
+[19:28:19] [Server thread/INFO]: roelanford lost connection: Disconnected
+[19:28:19] [Server thread/INFO]: roelanford left the game
+[19:28:30] [Server thread/WARN]: LittyBoiz moved too quickly! 3.904363020185883,-25.0,1.910015300418081
+[19:28:51] [Server thread/WARN]: SlorseOverlord moved too quickly! -0.052322325356954025,-20.0,-3.1531038251898735
+[19:29:25] [Server thread/INFO]: teddyzb123 was slain by Zombie
+[19:29:53] [Server thread/WARN]: LittyBoiz moved too quickly! -5.444497933378898,-33.0,-4.249042169677523
+[19:30:09] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:30:09] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:30:09] [Server thread/WARN]: benkoontz000 moved too quickly! -884.6849982896122,-2.0,-166.69893474794105
+[19:30:29] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:30:29] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:30:33] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:30:33] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:30:33] [Server thread/WARN]: benkoontz000 moved too quickly! -1720.9796849185254,7.0,615.9516293972547
+[19:31:20] [Server thread/WARN]: LittyBoiz moved too quickly! -6.893111501388148,-5.0,6.681733582213383
+[19:31:30] [Server thread/INFO]: LittyBoiz has made the advancement [The City at the End of the Game]
+[19:31:45] [Server thread/INFO]: 1635321 was slain by Enderman
+[19:31:50] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 benkoontz000
+[19:31:50] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:32:30] [Server thread/WARN]: SlorseOverlord moved too quickly! -4.158692783412789,-15.0,2.088685069568328
+[19:33:10] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:33:10] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:34:03] [Netty Epoll Server IO #9/INFO]: <matster1998> jack can u give me ur blocks before you log out[m
+[19:34:19] [Netty Epoll Server IO #9/INFO]: <matster1998> ty[m
+[19:34:35] [Server thread/INFO]: Jackamonga fell out of the world
+[19:34:50] [Server thread/INFO]: LittyBoiz was slain by Enderman
+[19:34:58] [Server thread/INFO]: LittyBoiz lost connection: Disconnected
+[19:34:58] [Server thread/INFO]: LittyBoiz left the game
+[19:35:22] [Server thread/WARN]: SlorseOverlord moved too quickly! -10.000177924390073,-1.410391281106719,1.3490709966681607
+[19:35:24] [Server thread/INFO]: benkoontz000 was killed by [Intentional Game Design]
+[19:35:48] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:35:48] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:35:52] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:35:52] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:35:52] [Server thread/INFO]: benkoontz000 has made the advancement [The City at the End of the Game]
+[19:36:27] [Server thread/INFO]: SlorseOverlord has made the advancement [The City at the End of the Game]
+[19:36:35] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:36:35] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:36:39] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 SlorseOverlord
+[19:36:39] [Server thread/INFO]: [1635321: Teleported benkoontz000 to SlorseOverlord]
+[19:36:39] [Server thread/WARN]: benkoontz000 moved too quickly! -1590.4501039654376,12.666109260938214,1070.623246541006
+[19:37:02] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:37:02] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:37:06] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:37:06] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:37:14] [Server thread/WARN]: SlorseOverlord moved too quickly! -7.94290168730663,-12.0,7.47540943553031
+[19:37:32] [Server thread/WARN]: SlorseOverlord moved too quickly! -7.010166791374331,-12.0,7.2930671270887615
+[19:37:59] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:37:59] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:38:11] [Server thread/WARN]: SlorseOverlord moved too quickly! -2.303327677012021,-10.0,-3.7954022689161775
+[19:38:25] [Server thread/INFO]: Jackamonga lost connection: Disconnected
+[19:38:25] [Server thread/INFO]: Jackamonga left the game
+[19:38:48] [Server thread/INFO]: benkoontz000 was slain by Enderman
+[19:39:58] [Server thread/INFO]: 1635321 issued server command: /gamemode survival
+[19:39:58] [Server thread/INFO]: [1635321: Set own game mode to Survival Mode]
+[19:40:02] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:40:02] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:40:02] [Server thread/WARN]: benkoontz000 moved too quickly! -4283.372258099612,1.0,1723.4828821236572
+[19:40:35] [Server thread/WARN]: SlorseOverlord moved too quickly! 6.9116358894700625,-13.0,-4.538599943494546
+[19:41:10] [Server thread/INFO]: 1635321 was slain by Enderman
+[19:41:17] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 benkoontz000
+[19:41:17] [Server thread/INFO]: [1635321: Teleported 1635321 to benkoontz000]
+[19:41:51] [Server thread/WARN]: SlorseOverlord moved too quickly! 1.4660252975620551,-12.0,-4.989836413396461
+[19:43:12] [Server thread/INFO]: teddyzb123 has made the advancement [Sweet Dreams]
+[19:43:52] [Server thread/INFO]: 1635321 issued server command: /tp benkoontz000 1635321
+[19:43:52] [Server thread/INFO]: [1635321: Teleported benkoontz000 to 1635321]
+[19:44:49] [Server thread/INFO]: 1635321 issued server command: /tp 1635321 teddyzb123
+[19:44:49] [Server thread/INFO]: [1635321: Teleported 1635321 to teddyzb123]
+[19:45:04] [Server thread/INFO]: 1635321 issued server command: /gamemode creative
+[19:45:04] [Server thread/INFO]: [1635321: Set own game mode to Creative Mode]
+[19:46:29] [Server thread/INFO]: 1635321 issued server command: /tp @p 310 108 -540
+[19:46:29] [Server thread/INFO]: [1635321: Teleported 1635321 to 310.5, 108.0, -539.5]
+[19:46:53] [Server thread/INFO]: 1635321 issued server command: /tp @p -310 108 -540
+[19:46:53] [Server thread/INFO]: [1635321: Teleported 1635321 to -309.5, 108.0, -539.5]
+[19:47:54] [Server thread/WARN]: SlorseOverlord moved too quickly! -5.081503771329608,-27.0,-3.1606888755666205
+[19:48:34] [Server thread/WARN]: benkoontz000 moved too quickly! 9.732852495183579,-0.41290928041701136,2.4495652137227353
+[19:50:41] [Server thread/INFO]: 1635321 lost connection: Disconnected
+[19:50:41] [Server thread/INFO]: 1635321 left the game
+[19:52:00] [Server thread/INFO]: benkoontz000 fell out of the world
+[19:53:01] [Server thread/INFO]: teddyzb123 has made the advancement [Acquire Hardware]
+[19:53:32] [Server thread/WARN]: teddyzb123 moved too quickly! -7.434533125088365,0.0,6.708472647735789
+[19:54:04] [Server thread/INFO]: benkoontz000 lost connection: Disconnected
+[19:54:04] [Server thread/INFO]: benkoontz000 left the game
+[19:55:20] [User Authenticator #31/INFO]: UUID of player kittenlil is 697feef3-8a03-4f83-9226-edfb12fd2237
+[19:55:20] [Server thread/INFO]: kittenlil[/73.133.132.224:57563] logged in with entity id 123043 at ([world]736.5, 26.0000002, 2368.5)
+[19:55:38] [Server thread/INFO]: kittenlil lost connection: Disconnected
+[19:55:38] [Server thread/INFO]: kittenlil left the game
+[19:56:12] [Server thread/WARN]: matster1998 moved too quickly! -2.7085797639460907,-14.0,1.89332062249008
+[19:57:31] [Server thread/WARN]: SlorseOverlord moved too quickly! -2.7281760831206157,-32.0,6.375596214583837
+[19:57:39] [Server thread/WARN]: teddyzb123 moved too quickly! 20.83519159668549,3.3903598162439295,18.237909990518574
+[19:57:54] [Server thread/WARN]: SlorseOverlord moved too quickly! 6.476138742187231,-8.0,-6.23404605216777
+[19:57:59] [Server thread/INFO]: SlorseOverlord was slain by Enderman
+[19:58:36] [Server thread/INFO]: matster1998 has reached the goal [Sky's the Limit]
+[19:58:54] [Netty Epoll Server IO #9/INFO]: <matster1998> -2.8k[m
+[19:58:56] [Netty Epoll Server IO #9/INFO]: <matster1998> 2[m
+[19:59:04] [Netty Epoll Server IO #9/INFO]: <matster1998> big city[m
+[20:00:59] [User Authenticator #32/INFO]: UUID of player CrazyOldTree is 7d7beccd-cef1-47c0-95cd-c544e5bd095f
+[20:00:59] [Server thread/INFO]: CrazyOldTree[/73.133.132.224:56863] logged in with entity id 125209 at ([world]43.40471076474273, 68.0, 330.96989923121345)
+[20:02:12] [Server thread/WARN]: matster1998 moved too quickly! -3.805311930030257,-10.0,-1.5821974648579022
+[20:02:43] [Server thread/INFO]: matster1998 was slain by Enderman
+[20:04:57] [User Authenticator #33/INFO]: UUID of player kittenlil is 697feef3-8a03-4f83-9226-edfb12fd2237
+[20:04:57] [Server thread/INFO]: kittenlil[/73.133.132.224:57746] logged in with entity id 127415 at ([world]735.8591727592888, 26.0, 2369.237827100746)
+[20:07:52] [Server thread/INFO]: CrazyOldTree was slain by Zombie
+[20:08:39] [Server thread/INFO]: teddyzb123 fell from a high place
+[20:09:46] [Server thread/INFO]: matster1998 was slain by Zombie
+[20:10:13] [Server thread/INFO]: kittenlil was shot by Skeleton
+[20:10:41] [Server thread/INFO]: CrazyOldTree was slain by Zombie
+[20:11:39] [Server thread/INFO]: kittenlil has made the advancement [Monster Hunter]
+[20:12:17] [Server thread/INFO]: kittenlil was slain by Zombie
+[20:13:37] [Server thread/WARN]: teddyzb123 moved too quickly! -17.179497061173493,1.0,-0.9755457361868594
+[20:13:53] [Server thread/INFO]: teddyzb123 was slain by Zombie
+[20:17:55] [Server thread/INFO]: teddyzb123 has made the advancement [Getting an Upgrade]
+[20:20:00] [Server thread/INFO]: teddyzb123 has made the advancement [Isn't It Iron Pick]
+[20:20:32] [Server thread/WARN]: SlorseOverlord moved too quickly! 10.10823186041543,2.823240724935758,5.7459666325537455
+[20:21:40] [Server thread/WARN]: SlorseOverlord moved too quickly! -4.517927412492327,-12.0,-4.120564792977291
+[20:22:36] [Server thread/INFO]: teddyzb123 has made the advancement [Suit Up]
+[20:23:05] [Server thread/INFO]: CrazyOldTree has made the advancement [We Need to Go Deeper]
+[20:23:35] [Server thread/INFO]: [GriefPrevention] Rescued CrazyOldTree from a nether portal.
+Teleported from Location{world=CraftWorld{name=world_nether},x=15.699999988079071,y=63.0,z=21.69999998807907,pitch=11.850063,yaw=-61.349575} to Location{world=CraftWorld{name=world},x=-1.139603933379567,y=63.0,z=178.82675860759105,pitch=9.750069,yaw=-99.14957}
+[20:23:43] [Server thread/INFO]: teddyzb123 was slain by Zombie
+[20:25:25] [Server thread/INFO]: CrazyOldTree was shot by Skeleton
+[20:27:16] [Server thread/INFO]: SlorseOverlord was slain by Zombie
+[20:27:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e8130e6[id=<null>,name=roelanford,properties={},legacy=false] (/216.164.58.29:52055) lost connection: Disconnected
+[20:27:20] [User Authenticator #34/INFO]: UUID of player roelanford is 70cecc02-8c9a-4640-be0a-08f1badddd3d
+[20:27:20] [Server thread/INFO]: roelanford[/216.164.58.29:52058] logged in with entity id 146919 at ([world]356.5, 64.0000002, 108.5)
+[20:30:11] [Server thread/INFO]: roelanford was slain by Zombie
+[20:30:49] [Server thread/WARN]: roelanford moved too quickly! -3.445036418503207,3.0013359791121417,9.174991464003142
+[20:31:32] [Server thread/INFO]: teddyzb123 lost connection: Timed out
+[20:31:32] [Server thread/INFO]: teddyzb123 left the game
+[20:31:39] [User Authenticator #35/INFO]: UUID of player teddyzb123 is d76617b4-91f2-40a4-8fd5-209d47a4eb45
+[20:31:39] [Server thread/INFO]: teddyzb123[/96.255.20.208:61591] logged in with entity id 150180 at ([world]-674.5178521384222, 52.0, 892.0349767665115)
+[20:33:05] [Server thread/INFO]: teddyzb123 was blown up by Creeper
+[20:33:41] [Server thread/INFO]: roelanford was shot by Skeleton
+[20:36:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-734, y=103, z=807}
+[20:36:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-734, y=103, z=808}
+[20:36:24] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-734, y=103, z=809}
+[20:39:15] [Server thread/INFO]: kittenlil has made the advancement [Fishy Business]
+[20:41:46] [Server thread/WARN]: teddyzb123 moved wrongly!
+[20:42:45] [User Authenticator #36/INFO]: UUID of player teddyzb123 is d76617b4-91f2-40a4-8fd5-209d47a4eb45
+[20:42:45] [Server thread/INFO]: teddyzb123 lost connection: You logged in from another location
+[20:42:45] [Server thread/INFO]: teddyzb123 left the game
+[20:42:45] [Server thread/INFO]: teddyzb123[/96.255.20.208:61644] logged in with entity id 158515 at ([world]-673.0793375595288, 52.093955074228084, 878.4489943635132)
+[20:43:33] [Server thread/INFO]: teddyzb123 was shot by Skeleton
+[20:44:10] [Server thread/INFO]: matster1998 was slain by Enderman
+[20:44:43] [Server thread/WARN]: teddyzb123 moved wrongly!
+[20:50:18] [Server thread/INFO]: teddyzb123 lost connection: Disconnected
+[20:50:18] [Server thread/INFO]: teddyzb123 left the game
+[20:51:31] [Server thread/INFO]: kittenlil has made the advancement [Take Aim]

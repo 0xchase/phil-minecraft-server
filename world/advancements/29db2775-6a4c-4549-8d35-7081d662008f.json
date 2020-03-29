@@ -596,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2020-03-28 18:56:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-03-18 17:24:27 -0400"
@@ -645,6 +651,7 @@
       "minecraft:husk": "2020-03-22 20:02:11 -0400",
       "minecraft:cave_spider": "2020-03-18 22:01:09 -0400",
       "minecraft:enderman": "2020-03-23 14:18:27 -0400",
+      "minecraft:silverfish": "2020-03-28 18:52:22 -0400",
       "minecraft:zombie": "2020-03-18 18:12:48 -0400",
       "minecraft:drowned": "2020-03-20 15:05:43 -0400",
       "minecraft:zombie_villager": "2020-03-18 23:49:44 -0400"
@@ -807,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-03-28 18:50:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-18 19:51:52 -0400"
@@ -876,6 +889,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2020-03-18 19:54:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-03-28 18:55:13 -0400"
     },
     "done": true
   },
@@ -2882,6 +2901,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-18 18:35:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-03-28 18:55:13 -0400"
     },
     "done": true
   },
