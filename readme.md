@@ -3,6 +3,42 @@
 Repository and backup for the club server
 
 ---
+## New House
+### Location
+ - Near that field and cliff face (more defensible if cliff is sheer and claimed, good defenses behind)
+ - Could clear out all trees near that mountain. Circle things could be under the house. 
+### Overall layout
+ - House in large field, backed up against cliff
+ - Back branch of house connects to cliff face
+ - Large wooden house in center
+ - Large underground farms
+ - Shooting tower in front near gate. Can drop down to tunnel, conencts to house. 
+ - Horse pen
+ - Paths with torch decorations throughout inside of fence
+ 
+### Wooden house
+ - Online reference
+ - Include fireplace
+ - Nice fireplace
+ - Launch player from house or mountain house into water far away
+### Side of mountain things
+ - Circle holes in cliff face
+ - Can jump from cliff to water pool
+### Entrances
+ - Lava pool entrance to mineshaft
+### Defenses
+ - Large fence around land perimeter
+   - Underneath fence is wide, deep hole filled with lava so can't go under
+   - Floor opens near gate
+ - For raised land, pistons open and cover entire cliff with lava
+ - Inside defenses switch
+   - Button causes piston lift floor blocks near each door to close off motion.
+   - Fills each room with lava from a bottom wall block
+ - Monitoring system
+   - Tripwires outside walls light up bits on walls
+   - 
+ 
+---
 
 ## Todo Game:
  - New house
